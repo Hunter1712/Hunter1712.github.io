@@ -158,7 +158,7 @@
       $("d_sA").className   = "val" + (hiS  ? " hi" : "");
       $("d_sB").className   = "val right" + (!hiS ? " hi" : "");
 
-      const fav  = pW >= 0.5 ? pA : pB;
+      const fav  = finalPW >= 0.5 ? pA : pB;
       const pct  = Math.max(pLA, pLB);
       const conf = pct >= 70 ? "Strong favourite" : pct >= 60 ? "Moderate favourite" : "Slight edge";
 

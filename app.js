@@ -112,6 +112,7 @@
       }
       err.style.display = "none";
 
+      const surfaceKey = state.selectedSurface === "Carpet" ? "overall" : state.selectedSurface;
       const key1 = pA + "|" + pB;
       const key2 = pB + "|" + pA;
       const prediction = state.data.predictions[key1] || state.data.predictions[key2];

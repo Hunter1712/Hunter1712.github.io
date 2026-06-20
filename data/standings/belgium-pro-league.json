@@ -1,0 +1,1876 @@
+{
+ "2018/2019": [
+  {
+   "played": 40,
+   "won": 24,
+   "drawn": 11,
+   "lost": 5,
+   "gf": 82,
+   "ga": 39,
+   "points": 83,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "D",
+    "D"
+   ],
+   "team": "KRC Genk",
+   "gd": 43,
+   "pos": 1
+  },
+  {
+   "played": 40,
+   "won": 23,
+   "drawn": 9,
+   "lost": 8,
+   "gf": 83,
+   "ga": 43,
+   "points": 78,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "Club Brugge KV",
+   "gd": 40,
+   "pos": 2
+  },
+  {
+   "played": 40,
+   "won": 19,
+   "drawn": 9,
+   "lost": 12,
+   "gf": 66,
+   "ga": 51,
+   "points": 66,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "W",
+    "D"
+   ],
+   "team": "Standard Liège",
+   "gd": 15,
+   "pos": 3
+  },
+  {
+   "played": 40,
+   "won": 18,
+   "drawn": 9,
+   "lost": 13,
+   "gf": 51,
+   "ga": 50,
+   "points": 63,
+   "form": [
+    "W",
+    "L",
+    "D",
+    "L",
+    "L"
+   ],
+   "team": "Royal Antwerp",
+   "gd": 1,
+   "pos": 4
+  },
+  {
+   "played": 40,
+   "won": 18,
+   "drawn": 6,
+   "lost": 16,
+   "gf": 63,
+   "ga": 60,
+   "points": 60,
+   "form": [
+    "L",
+    "L",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "KAA Gent",
+   "gd": 3,
+   "pos": 5
+  },
+  {
+   "played": 40,
+   "won": 16,
+   "drawn": 9,
+   "lost": 15,
+   "gf": 57,
+   "ga": 53,
+   "points": 57,
+   "form": [
+    "L",
+    "W",
+    "D",
+    "D",
+    "L"
+   ],
+   "team": "RSC Anderlecht",
+   "gd": 4,
+   "pos": 6
+  },
+  {
+   "played": 30,
+   "won": 12,
+   "drawn": 11,
+   "lost": 7,
+   "gf": 47,
+   "ga": 36,
+   "points": 47,
+   "form": [
+    "D",
+    "W",
+    "L",
+    "D",
+    "L"
+   ],
+   "team": "Sint-Truidense VV",
+   "gd": 11,
+   "pos": 7
+  },
+  {
+   "played": 30,
+   "won": 12,
+   "drawn": 7,
+   "lost": 11,
+   "gf": 44,
+   "ga": 42,
+   "points": 43,
+   "form": [
+    "L",
+    "W",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "KV Kortrijk",
+   "gd": 2,
+   "pos": 8
+  },
+  {
+   "played": 30,
+   "won": 12,
+   "drawn": 6,
+   "lost": 12,
+   "gf": 43,
+   "ga": 43,
+   "points": 42,
+   "form": [
+    "W",
+    "L",
+    "D",
+    "W",
+    "L"
+   ],
+   "team": "Sporting Charleroi",
+   "gd": 0,
+   "pos": 9
+  },
+  {
+   "played": 30,
+   "won": 11,
+   "drawn": 7,
+   "lost": 12,
+   "gf": 33,
+   "ga": 33,
+   "points": 40,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "D",
+    "W"
+   ],
+   "team": "Royal Excel Mouscron",
+   "gd": 0,
+   "pos": 10
+  },
+  {
+   "played": 30,
+   "won": 8,
+   "drawn": 9,
+   "lost": 13,
+   "gf": 49,
+   "ga": 60,
+   "points": 33,
+   "form": [
+    "D",
+    "W",
+    "L",
+    "D",
+    "D"
+   ],
+   "team": "SV Zulte Waregem",
+   "gd": -11,
+   "pos": 11
+  },
+  {
+   "played": 30,
+   "won": 10,
+   "drawn": 2,
+   "lost": 18,
+   "gf": 34,
+   "ga": 57,
+   "points": 32,
+   "form": [
+    "D",
+    "L",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "KAS Eupen",
+   "gd": -23,
+   "pos": 12
+  },
+  {
+   "played": 30,
+   "won": 7,
+   "drawn": 7,
+   "lost": 16,
+   "gf": 35,
+   "ga": 59,
+   "points": 28,
+   "form": [
+    "L",
+    "D",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Cercle Brugge",
+   "gd": -24,
+   "pos": 13
+  },
+  {
+   "played": 30,
+   "won": 5,
+   "drawn": 12,
+   "lost": 13,
+   "gf": 37,
+   "ga": 50,
+   "points": 27,
+   "form": [
+    "W",
+    "L",
+    "D",
+    "D",
+    "L"
+   ],
+   "team": "Waasland-Beveren",
+   "gd": -13,
+   "pos": 14
+  },
+  {
+   "played": 30,
+   "won": 6,
+   "drawn": 9,
+   "lost": 15,
+   "gf": 29,
+   "ga": 52,
+   "points": 27,
+   "form": [
+    "D",
+    "D",
+    "D",
+    "L",
+    "L"
+   ],
+   "team": "KV Oostende",
+   "gd": -23,
+   "pos": 15
+  },
+  {
+   "played": 30,
+   "won": 5,
+   "drawn": 5,
+   "lost": 20,
+   "gf": 28,
+   "ga": 53,
+   "points": 20,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "Sporting Lokeren",
+   "gd": -25,
+   "pos": 16
+  }
+ ],
+ "2019/2020": [
+  {
+   "played": 29,
+   "won": 21,
+   "drawn": 7,
+   "lost": 1,
+   "gf": 58,
+   "ga": 14,
+   "points": 70,
+   "form": [
+    "D",
+    "W",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Club Brugge KV",
+   "gd": 44,
+   "pos": 1
+  },
+  {
+   "played": 29,
+   "won": 16,
+   "drawn": 7,
+   "lost": 6,
+   "gf": 59,
+   "ga": 34,
+   "points": 55,
+   "form": [
+    "D",
+    "W",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "KAA Gent",
+   "gd": 25,
+   "pos": 2
+  },
+  {
+   "played": 29,
+   "won": 15,
+   "drawn": 9,
+   "lost": 5,
+   "gf": 49,
+   "ga": 23,
+   "points": 54,
+   "form": [
+    "W",
+    "D",
+    "L",
+    "W",
+    "W"
+   ],
+   "team": "Sporting Charleroi",
+   "gd": 26,
+   "pos": 3
+  },
+  {
+   "played": 29,
+   "won": 15,
+   "drawn": 8,
+   "lost": 6,
+   "gf": 49,
+   "ga": 32,
+   "points": 53,
+   "form": [
+    "D",
+    "D",
+    "L",
+    "W",
+    "W"
+   ],
+   "team": "Royal Antwerp",
+   "gd": 17,
+   "pos": 4
+  },
+  {
+   "played": 29,
+   "won": 14,
+   "drawn": 7,
+   "lost": 8,
+   "gf": 47,
+   "ga": 32,
+   "points": 49,
+   "form": [
+    "D",
+    "W",
+    "W",
+    "L",
+    "D"
+   ],
+   "team": "Standard Liège",
+   "gd": 15,
+   "pos": 5
+  },
+  {
+   "played": 29,
+   "won": 13,
+   "drawn": 5,
+   "lost": 11,
+   "gf": 46,
+   "ga": 43,
+   "points": 44,
+   "form": [
+    "L",
+    "W",
+    "W",
+    "W",
+    "D"
+   ],
+   "team": "KV Mechelen",
+   "gd": 3,
+   "pos": 6
+  },
+  {
+   "played": 29,
+   "won": 13,
+   "drawn": 5,
+   "lost": 11,
+   "gf": 45,
+   "ga": 42,
+   "points": 44,
+   "form": [
+    "D",
+    "L",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "KRC Genk",
+   "gd": 3,
+   "pos": 7
+  },
+  {
+   "played": 29,
+   "won": 11,
+   "drawn": 10,
+   "lost": 8,
+   "gf": 45,
+   "ga": 29,
+   "points": 43,
+   "form": [
+    "D",
+    "L",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "RSC Anderlecht",
+   "gd": 16,
+   "pos": 8
+  },
+  {
+   "played": 29,
+   "won": 9,
+   "drawn": 9,
+   "lost": 11,
+   "gf": 38,
+   "ga": 40,
+   "points": 36,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "Royal Excel Mouscron",
+   "gd": -2,
+   "pos": 9
+  },
+  {
+   "played": 29,
+   "won": 10,
+   "drawn": 6,
+   "lost": 13,
+   "gf": 41,
+   "ga": 49,
+   "points": 36,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "D",
+    "L"
+   ],
+   "team": "SV Zulte Waregem",
+   "gd": -8,
+   "pos": 10
+  },
+  {
+   "played": 29,
+   "won": 9,
+   "drawn": 6,
+   "lost": 14,
+   "gf": 40,
+   "ga": 44,
+   "points": 33,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "D",
+    "L"
+   ],
+   "team": "KV Kortrijk",
+   "gd": -4,
+   "pos": 11
+  },
+  {
+   "played": 29,
+   "won": 9,
+   "drawn": 6,
+   "lost": 14,
+   "gf": 33,
+   "ga": 50,
+   "points": 33,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "L",
+    "D"
+   ],
+   "team": "Sint-Truidense VV",
+   "gd": -17,
+   "pos": 12
+  },
+  {
+   "played": 29,
+   "won": 8,
+   "drawn": 6,
+   "lost": 15,
+   "gf": 28,
+   "ga": 51,
+   "points": 30,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "W",
+    "D"
+   ],
+   "team": "KAS Eupen",
+   "gd": -23,
+   "pos": 13
+  },
+  {
+   "played": 29,
+   "won": 7,
+   "drawn": 2,
+   "lost": 20,
+   "gf": 27,
+   "ga": 54,
+   "points": 23,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "Cercle Brugge",
+   "gd": -27,
+   "pos": 14
+  },
+  {
+   "played": 29,
+   "won": 6,
+   "drawn": 4,
+   "lost": 19,
+   "gf": 29,
+   "ga": 58,
+   "points": 22,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "L",
+    "L"
+   ],
+   "team": "KV Oostende",
+   "gd": -29,
+   "pos": 15
+  },
+  {
+   "played": 29,
+   "won": 5,
+   "drawn": 5,
+   "lost": 19,
+   "gf": 21,
+   "ga": 60,
+   "points": 20,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Waasland-Beveren",
+   "gd": -39,
+   "pos": 16
+  }
+ ],
+ "2021/2022": [
+  {
+   "played": 40,
+   "won": 25,
+   "drawn": 7,
+   "lost": 8,
+   "gf": 81,
+   "ga": 37,
+   "points": 82,
+   "form": [
+    "L",
+    "D",
+    "W",
+    "D",
+    "L"
+   ],
+   "team": "Club Brugge KV",
+   "gd": 44,
+   "pos": 1
+  },
+  {
+   "played": 40,
+   "won": 21,
+   "drawn": 9,
+   "lost": 10,
+   "gf": 82,
+   "ga": 53,
+   "points": 72,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "KRC Genk",
+   "gd": 29,
+   "pos": 2
+  },
+  {
+   "played": 40,
+   "won": 19,
+   "drawn": 8,
+   "lost": 13,
+   "gf": 63,
+   "ga": 59,
+   "points": 65,
+   "form": [
+    "D",
+    "D",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "Royal Antwerp",
+   "gd": 4,
+   "pos": 3
+  },
+  {
+   "played": 40,
+   "won": 18,
+   "drawn": 8,
+   "lost": 14,
+   "gf": 68,
+   "ga": 48,
+   "points": 62,
+   "form": [
+    "L",
+    "W",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "KAA Gent",
+   "gd": 20,
+   "pos": 4
+  },
+  {
+   "played": 40,
+   "won": 15,
+   "drawn": 17,
+   "lost": 8,
+   "gf": 60,
+   "ga": 45,
+   "points": 62,
+   "form": [
+    "D",
+    "D",
+    "L",
+    "D",
+    "L"
+   ],
+   "team": "RSC Anderlecht",
+   "gd": 15,
+   "pos": 5
+  },
+  {
+   "played": 40,
+   "won": 17,
+   "drawn": 9,
+   "lost": 14,
+   "gf": 64,
+   "ga": 57,
+   "points": 60,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "D",
+    "W"
+   ],
+   "team": "KV Oostende",
+   "gd": 7,
+   "pos": 6
+  },
+  {
+   "played": 40,
+   "won": 16,
+   "drawn": 11,
+   "lost": 13,
+   "gf": 69,
+   "ga": 65,
+   "points": 59,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "D",
+    "L"
+   ],
+   "team": "KV Mechelen",
+   "gd": 4,
+   "pos": 7
+  },
+  {
+   "played": 40,
+   "won": 14,
+   "drawn": 11,
+   "lost": 15,
+   "gf": 59,
+   "ga": 58,
+   "points": 53,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Standard Liège",
+   "gd": 1,
+   "pos": 8
+  },
+  {
+   "played": 34,
+   "won": 14,
+   "drawn": 5,
+   "lost": 15,
+   "gf": 58,
+   "ga": 64,
+   "points": 47,
+   "form": [
+    "D",
+    "W",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "K Beerschot VA",
+   "gd": -6,
+   "pos": 9
+  },
+  {
+   "played": 34,
+   "won": 14,
+   "drawn": 4,
+   "lost": 16,
+   "gf": 53,
+   "ga": 69,
+   "points": 46,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "SV Zulte Waregem",
+   "gd": -16,
+   "pos": 10
+  },
+  {
+   "played": 34,
+   "won": 12,
+   "drawn": 9,
+   "lost": 13,
+   "gf": 54,
+   "ga": 59,
+   "points": 45,
+   "form": [
+    "W",
+    "D",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Oud-Heverlee Leuven",
+   "gd": -5,
+   "pos": 11
+  },
+  {
+   "played": 34,
+   "won": 10,
+   "drawn": 13,
+   "lost": 11,
+   "gf": 44,
+   "ga": 55,
+   "points": 43,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "KAS Eupen",
+   "gd": -11,
+   "pos": 12
+  },
+  {
+   "played": 34,
+   "won": 11,
+   "drawn": 9,
+   "lost": 14,
+   "gf": 46,
+   "ga": 49,
+   "points": 42,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "L",
+    "L"
+   ],
+   "team": "Sporting Charleroi",
+   "gd": -3,
+   "pos": 13
+  },
+  {
+   "played": 34,
+   "won": 11,
+   "drawn": 6,
+   "lost": 17,
+   "gf": 44,
+   "ga": 57,
+   "points": 39,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "KV Kortrijk",
+   "gd": -13,
+   "pos": 14
+  },
+  {
+   "played": 34,
+   "won": 10,
+   "drawn": 8,
+   "lost": 16,
+   "gf": 41,
+   "ga": 52,
+   "points": 38,
+   "form": [
+    "L",
+    "W",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "Sint-Truidense VV",
+   "gd": -11,
+   "pos": 15
+  },
+  {
+   "played": 34,
+   "won": 11,
+   "drawn": 3,
+   "lost": 20,
+   "gf": 40,
+   "ga": 51,
+   "points": 36,
+   "form": [
+    "L",
+    "L",
+    "W",
+    "W",
+    "D"
+   ],
+   "team": "Cercle Brugge",
+   "gd": -11,
+   "pos": 16
+  },
+  {
+   "played": 34,
+   "won": 7,
+   "drawn": 10,
+   "lost": 17,
+   "gf": 32,
+   "ga": 54,
+   "points": 31,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "L",
+    "L"
+   ],
+   "team": "Royal Excel Mouscron",
+   "gd": -22,
+   "pos": 17
+  },
+  {
+   "played": 34,
+   "won": 8,
+   "drawn": 7,
+   "lost": 19,
+   "gf": 44,
+   "ga": 70,
+   "points": 31,
+   "form": [
+    "L",
+    "L",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "Waasland-Beveren",
+   "gd": -26,
+   "pos": 18
+  }
+ ],
+ "2023/2024": [
+  {
+   "played": 40,
+   "won": 25,
+   "drawn": 9,
+   "lost": 6,
+   "gf": 80,
+   "ga": 43,
+   "points": 84,
+   "form": [
+    "W",
+    "D",
+    "D",
+    "W",
+    "W"
+   ],
+   "team": "Union Saint-Gilloise",
+   "gd": 37,
+   "pos": 1
+  },
+  {
+   "played": 40,
+   "won": 22,
+   "drawn": 11,
+   "lost": 7,
+   "gf": 70,
+   "ga": 42,
+   "points": 77,
+   "form": [
+    "D",
+    "D",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "RSC Anderlecht",
+   "gd": 28,
+   "pos": 2
+  },
+  {
+   "played": 40,
+   "won": 21,
+   "drawn": 12,
+   "lost": 7,
+   "gf": 83,
+   "ga": 35,
+   "points": 75,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "W",
+    "D"
+   ],
+   "team": "Club Brugge KV",
+   "gd": 48,
+   "pos": 3
+  },
+  {
+   "played": 41,
+   "won": 21,
+   "drawn": 11,
+   "lost": 9,
+   "gf": 81,
+   "ga": 48,
+   "points": 74,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "W",
+    "W"
+   ],
+   "team": "KAA Gent",
+   "gd": 33,
+   "pos": 4
+  },
+  {
+   "played": 40,
+   "won": 18,
+   "drawn": 7,
+   "lost": 15,
+   "gf": 59,
+   "ga": 52,
+   "points": 61,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "W",
+    "W"
+   ],
+   "team": "KV Mechelen",
+   "gd": 7,
+   "pos": 5
+  },
+  {
+   "played": 41,
+   "won": 16,
+   "drawn": 12,
+   "lost": 13,
+   "gf": 59,
+   "ga": 49,
+   "points": 60,
+   "form": [
+    "L",
+    "L",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "KRC Genk",
+   "gd": 10,
+   "pos": 6
+  },
+  {
+   "played": 40,
+   "won": 17,
+   "drawn": 9,
+   "lost": 14,
+   "gf": 57,
+   "ga": 47,
+   "points": 60,
+   "form": [
+    "D",
+    "W",
+    "W",
+    "L",
+    "D"
+   ],
+   "team": "Cercle Brugge",
+   "gd": 10,
+   "pos": 7
+  },
+  {
+   "played": 40,
+   "won": 16,
+   "drawn": 10,
+   "lost": 14,
+   "gf": 62,
+   "ga": 45,
+   "points": 58,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "Royal Antwerp",
+   "gd": 17,
+   "pos": 8
+  },
+  {
+   "played": 40,
+   "won": 13,
+   "drawn": 14,
+   "lost": 13,
+   "gf": 49,
+   "ga": 61,
+   "points": 53,
+   "form": [
+    "D",
+    "D",
+    "W",
+    "D",
+    "L"
+   ],
+   "team": "Sint-Truidense VV",
+   "gd": -12,
+   "pos": 9
+  },
+  {
+   "played": 36,
+   "won": 12,
+   "drawn": 9,
+   "lost": 15,
+   "gf": 37,
+   "ga": 52,
+   "points": 45,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Sporting Charleroi",
+   "gd": -15,
+   "pos": 10
+  },
+  {
+   "played": 40,
+   "won": 11,
+   "drawn": 11,
+   "lost": 18,
+   "gf": 46,
+   "ga": 59,
+   "points": 44,
+   "form": [
+    "L",
+    "W",
+    "W",
+    "D",
+    "L"
+   ],
+   "team": "Oud-Heverlee Leuven",
+   "gd": -13,
+   "pos": 11
+  },
+  {
+   "played": 40,
+   "won": 9,
+   "drawn": 12,
+   "lost": 19,
+   "gf": 59,
+   "ga": 74,
+   "points": 39,
+   "form": [
+    "L",
+    "D",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "KVC Westerlo",
+   "gd": -15,
+   "pos": 12
+  },
+  {
+   "played": 40,
+   "won": 8,
+   "drawn": 15,
+   "lost": 17,
+   "gf": 45,
+   "ga": 68,
+   "points": 39,
+   "form": [
+    "D",
+    "L",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Standard Liège",
+   "gd": -23,
+   "pos": 13
+  },
+  {
+   "played": 36,
+   "won": 8,
+   "drawn": 7,
+   "lost": 21,
+   "gf": 29,
+   "ga": 67,
+   "points": 31,
+   "form": [
+    "L",
+    "L",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "KV Kortrijk",
+   "gd": -38,
+   "pos": 14
+  },
+  {
+   "played": 36,
+   "won": 7,
+   "drawn": 9,
+   "lost": 20,
+   "gf": 39,
+   "ga": 76,
+   "points": 30,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "RWD Molenbeek",
+   "gd": -37,
+   "pos": 15
+  },
+  {
+   "played": 36,
+   "won": 8,
+   "drawn": 4,
+   "lost": 24,
+   "gf": 29,
+   "ga": 66,
+   "points": 28,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "KAS Eupen",
+   "gd": -37,
+   "pos": 16
+  }
+ ],
+ "2024/2025": [
+  {
+   "played": 40,
+   "won": 24,
+   "drawn": 11,
+   "lost": 5,
+   "gf": 71,
+   "ga": 28,
+   "points": 83,
+   "form": [
+    "D",
+    "W",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Union Saint-Gilloise",
+   "gd": 43,
+   "pos": 1
+  },
+  {
+   "played": 40,
+   "won": 24,
+   "drawn": 10,
+   "lost": 6,
+   "gf": 86,
+   "ga": 42,
+   "points": 82,
+   "form": [
+    "D",
+    "W",
+    "W",
+    "W",
+    "D"
+   ],
+   "team": "Club Brugge KV",
+   "gd": 44,
+   "pos": 2
+  },
+  {
+   "played": 40,
+   "won": 25,
+   "drawn": 6,
+   "lost": 9,
+   "gf": 69,
+   "ga": 44,
+   "points": 81,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "W",
+    "W"
+   ],
+   "team": "KRC Genk",
+   "gd": 25,
+   "pos": 3
+  },
+  {
+   "played": 40,
+   "won": 18,
+   "drawn": 7,
+   "lost": 15,
+   "gf": 62,
+   "ga": 40,
+   "points": 61,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "RSC Anderlecht",
+   "gd": 22,
+   "pos": 4
+  },
+  {
+   "played": 41,
+   "won": 17,
+   "drawn": 10,
+   "lost": 14,
+   "gf": 57,
+   "ga": 47,
+   "points": 61,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "D",
+    "W"
+   ],
+   "team": "Sporting Charleroi",
+   "gd": 10,
+   "pos": 5
+  },
+  {
+   "played": 41,
+   "won": 14,
+   "drawn": 13,
+   "lost": 14,
+   "gf": 58,
+   "ga": 52,
+   "points": 55,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "D",
+    "L"
+   ],
+   "team": "Royal Antwerp",
+   "gd": 6,
+   "pos": 6
+  },
+  {
+   "played": 40,
+   "won": 13,
+   "drawn": 12,
+   "lost": 15,
+   "gf": 69,
+   "ga": 65,
+   "points": 51,
+   "form": [
+    "D",
+    "W",
+    "L",
+    "W",
+    "D"
+   ],
+   "team": "KVC Westerlo",
+   "gd": 4,
+   "pos": 7
+  },
+  {
+   "played": 40,
+   "won": 12,
+   "drawn": 14,
+   "lost": 14,
+   "gf": 62,
+   "ga": 57,
+   "points": 50,
+   "form": [
+    "D",
+    "W",
+    "D",
+    "D",
+    "D"
+   ],
+   "team": "KV Mechelen",
+   "gd": 5,
+   "pos": 8
+  },
+  {
+   "played": 40,
+   "won": 12,
+   "drawn": 12,
+   "lost": 16,
+   "gf": 45,
+   "ga": 65,
+   "points": 48,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "KAA Gent",
+   "gd": -20,
+   "pos": 9
+  },
+  {
+   "played": 40,
+   "won": 10,
+   "drawn": 16,
+   "lost": 14,
+   "gf": 27,
+   "ga": 43,
+   "points": 46,
+   "form": [
+    "D",
+    "L",
+    "D",
+    "D",
+    "D"
+   ],
+   "team": "Standard Liège",
+   "gd": -16,
+   "pos": 10
+  },
+  {
+   "played": 40,
+   "won": 9,
+   "drawn": 18,
+   "lost": 13,
+   "gf": 39,
+   "ga": 52,
+   "points": 45,
+   "form": [
+    "D",
+    "L",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Oud-Heverlee Leuven",
+   "gd": -13,
+   "pos": 11
+  },
+  {
+   "played": 40,
+   "won": 11,
+   "drawn": 12,
+   "lost": 17,
+   "gf": 53,
+   "ga": 72,
+   "points": 45,
+   "form": [
+    "L",
+    "L",
+    "W",
+    "D",
+    "D"
+   ],
+   "team": "FCV Dender EH",
+   "gd": -19,
+   "pos": 12
+  },
+  {
+   "played": 36,
+   "won": 10,
+   "drawn": 11,
+   "lost": 15,
+   "gf": 50,
+   "ga": 66,
+   "points": 41,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "W",
+    "D"
+   ],
+   "team": "Sint-Truidense VV",
+   "gd": -16,
+   "pos": 13
+  },
+  {
+   "played": 36,
+   "won": 9,
+   "drawn": 12,
+   "lost": 15,
+   "gf": 39,
+   "ga": 57,
+   "points": 39,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "Cercle Brugge",
+   "gd": -18,
+   "pos": 14
+  },
+  {
+   "played": 36,
+   "won": 10,
+   "drawn": 7,
+   "lost": 19,
+   "gf": 40,
+   "ga": 63,
+   "points": 37,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "W",
+    "D"
+   ],
+   "team": "KV Kortrijk",
+   "gd": -23,
+   "pos": 15
+  },
+  {
+   "played": 36,
+   "won": 5,
+   "drawn": 9,
+   "lost": 22,
+   "gf": 36,
+   "ga": 70,
+   "points": 24,
+   "form": [
+    "L",
+    "L",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "K Beerschot VA",
+   "gd": -34,
+   "pos": 16
+  }
+ ],
+ "2025/2026": [
+  {
+   "played": 15,
+   "won": 11,
+   "drawn": 3,
+   "lost": 1,
+   "gf": 31,
+   "ga": 8,
+   "points": 36,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "D",
+    "W"
+   ],
+   "team": "Union Saint-Gilloise",
+   "gd": 23,
+   "pos": 1
+  },
+  {
+   "played": 15,
+   "won": 10,
+   "drawn": 2,
+   "lost": 3,
+   "gf": 22,
+   "ga": 13,
+   "points": 32,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "Club Brugge KV",
+   "gd": 9,
+   "pos": 2
+  },
+  {
+   "played": 15,
+   "won": 8,
+   "drawn": 4,
+   "lost": 3,
+   "gf": 22,
+   "ga": 13,
+   "points": 28,
+   "form": [
+    "D",
+    "L",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "RSC Anderlecht",
+   "gd": 9,
+   "pos": 3
+  },
+  {
+   "played": 15,
+   "won": 8,
+   "drawn": 3,
+   "lost": 4,
+   "gf": 21,
+   "ga": 17,
+   "points": 27,
+   "form": [
+    "D",
+    "L",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Sint-Truidense VV",
+   "gd": 4,
+   "pos": 4
+  },
+  {
+   "played": 16,
+   "won": 6,
+   "drawn": 6,
+   "lost": 4,
+   "gf": 20,
+   "ga": 18,
+   "points": 24,
+   "form": [
+    "D",
+    "L",
+    "D",
+    "W",
+    "L"
+   ],
+   "team": "KV Mechelen",
+   "gd": 2,
+   "pos": 5
+  },
+  {
+   "played": 15,
+   "won": 6,
+   "drawn": 4,
+   "lost": 5,
+   "gf": 23,
+   "ga": 22,
+   "points": 22,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "D",
+    "D"
+   ],
+   "team": "KAA Gent",
+   "gd": 1,
+   "pos": 6
+  },
+  {
+   "played": 16,
+   "won": 6,
+   "drawn": 3,
+   "lost": 7,
+   "gf": 14,
+   "ga": 19,
+   "points": 21,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "D",
+    "W"
+   ],
+   "team": "Standard Liège",
+   "gd": -5,
+   "pos": 7
+  },
+  {
+   "played": 15,
+   "won": 5,
+   "drawn": 5,
+   "lost": 5,
+   "gf": 21,
+   "ga": 21,
+   "points": 20,
+   "form": [
+    "W",
+    "D",
+    "L",
+    "D",
+    "D"
+   ],
+   "team": "SV Zulte Waregem",
+   "gd": 0,
+   "pos": 8
+  },
+  {
+   "played": 15,
+   "won": 5,
+   "drawn": 5,
+   "lost": 5,
+   "gf": 19,
+   "ga": 19,
+   "points": 20,
+   "form": [
+    "D",
+    "D",
+    "W",
+    "D",
+    "L"
+   ],
+   "team": "KRC Genk",
+   "gd": 0,
+   "pos": 9
+  },
+  {
+   "played": 15,
+   "won": 5,
+   "drawn": 3,
+   "lost": 7,
+   "gf": 18,
+   "ga": 21,
+   "points": 18,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Sporting Charleroi",
+   "gd": -3,
+   "pos": 10
+  },
+  {
+   "played": 15,
+   "won": 4,
+   "drawn": 5,
+   "lost": 6,
+   "gf": 11,
+   "ga": 15,
+   "points": 17,
+   "form": [
+    "D",
+    "D",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "RAAL La Louviére",
+   "gd": -4,
+   "pos": 11
+  },
+  {
+   "played": 15,
+   "won": 4,
+   "drawn": 4,
+   "lost": 7,
+   "gf": 19,
+   "ga": 24,
+   "points": 16,
+   "form": [
+    "D",
+    "D",
+    "L",
+    "L",
+    "D"
+   ],
+   "team": "KVC Westerlo",
+   "gd": -5,
+   "pos": 12
+  },
+  {
+   "played": 15,
+   "won": 4,
+   "drawn": 3,
+   "lost": 8,
+   "gf": 16,
+   "ga": 24,
+   "points": 15,
+   "form": [
+    "L",
+    "D",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "Oud-Heverlee Leuven",
+   "gd": -8,
+   "pos": 13
+  },
+  {
+   "played": 15,
+   "won": 3,
+   "drawn": 5,
+   "lost": 7,
+   "gf": 14,
+   "ga": 18,
+   "points": 14,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Royal Antwerp",
+   "gd": -4,
+   "pos": 14
+  },
+  {
+   "played": 15,
+   "won": 2,
+   "drawn": 6,
+   "lost": 7,
+   "gf": 18,
+   "ga": 23,
+   "points": 12,
+   "form": [
+    "D",
+    "D",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Cercle Brugge",
+   "gd": -5,
+   "pos": 15
+  },
+  {
+   "played": 15,
+   "won": 1,
+   "drawn": 5,
+   "lost": 9,
+   "gf": 10,
+   "ga": 24,
+   "points": 8,
+   "form": [
+    "L",
+    "D",
+    "L",
+    "D",
+    "W"
+   ],
+   "team": "FCV Dender EH",
+   "gd": -14,
+   "pos": 16
+  }
+ ]
+}

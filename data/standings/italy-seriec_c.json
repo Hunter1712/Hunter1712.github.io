@@ -1,0 +1,346 @@
+{
+ "2024/2025": [
+  {
+   "played": 29,
+   "won": 17,
+   "drawn": 9,
+   "lost": 3,
+   "gf": 52,
+   "ga": 22,
+   "points": 60,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Avellino",
+   "gd": 30,
+   "pos": 1
+  },
+  {
+   "played": 29,
+   "won": 16,
+   "drawn": 10,
+   "lost": 3,
+   "gf": 44,
+   "ga": 27,
+   "points": 58,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "W",
+    "L"
+   ],
+   "team": "Audace Cerignola",
+   "gd": 17,
+   "pos": 2
+  },
+  {
+   "played": 30,
+   "won": 14,
+   "drawn": 11,
+   "lost": 5,
+   "gf": 33,
+   "ga": 21,
+   "points": 53,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "D",
+    "W"
+   ],
+   "team": "SS Monopoli 1966",
+   "gd": 12,
+   "pos": 3
+  },
+  {
+   "played": 30,
+   "won": 13,
+   "drawn": 9,
+   "lost": 8,
+   "gf": 54,
+   "ga": 41,
+   "points": 48,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "W",
+    "D"
+   ],
+   "team": "FC Crotone",
+   "gd": 13,
+   "pos": 4
+  },
+  {
+   "played": 30,
+   "won": 11,
+   "drawn": 13,
+   "lost": 6,
+   "gf": 44,
+   "ga": 28,
+   "points": 46,
+   "form": [
+    "D",
+    "D",
+    "D",
+    "D",
+    "D"
+   ],
+   "team": "Benevento",
+   "gd": 16,
+   "pos": 5
+  },
+  {
+   "played": 30,
+   "won": 11,
+   "drawn": 12,
+   "lost": 7,
+   "gf": 42,
+   "ga": 31,
+   "points": 45,
+   "form": [
+    "D",
+    "D",
+    "W",
+    "W",
+    "D"
+   ],
+   "team": "Calcio Catania",
+   "gd": 11,
+   "pos": 6
+  },
+  {
+   "played": 29,
+   "won": 11,
+   "drawn": 11,
+   "lost": 7,
+   "gf": 48,
+   "ga": 44,
+   "points": 44,
+   "form": [
+    "W",
+    "D",
+    "D",
+    "W",
+    "L"
+   ],
+   "team": "Potenza",
+   "gd": 4,
+   "pos": 7
+  },
+  {
+   "played": 30,
+   "won": 8,
+   "drawn": 17,
+   "lost": 5,
+   "gf": 34,
+   "ga": 24,
+   "points": 41,
+   "form": [
+    "D",
+    "D",
+    "W",
+    "D",
+    "D"
+   ],
+   "team": "AZ Picerno",
+   "gd": 10,
+   "pos": 8
+  },
+  {
+   "played": 30,
+   "won": 9,
+   "drawn": 11,
+   "lost": 10,
+   "gf": 32,
+   "ga": 33,
+   "points": 38,
+   "form": [
+    "W",
+    "D",
+    "D",
+    "W",
+    "W"
+   ],
+   "team": "Cavese",
+   "gd": -1,
+   "pos": 9
+  },
+  {
+   "played": 31,
+   "won": 10,
+   "drawn": 8,
+   "lost": 13,
+   "gf": 36,
+   "ga": 41,
+   "points": 38,
+   "form": [
+    "L",
+    "L",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "Juventus II",
+   "gd": -5,
+   "pos": 10
+  },
+  {
+   "played": 29,
+   "won": 11,
+   "drawn": 5,
+   "lost": 13,
+   "gf": 38,
+   "ga": 44,
+   "points": 38,
+   "form": [
+    "D",
+    "L",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Giugliano",
+   "gd": -6,
+   "pos": 11
+  },
+  {
+   "played": 29,
+   "won": 8,
+   "drawn": 10,
+   "lost": 11,
+   "gf": 31,
+   "ga": 38,
+   "points": 34,
+   "form": [
+    "D",
+    "D",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "Team Altamura",
+   "gd": -7,
+   "pos": 12
+  },
+  {
+   "played": 29,
+   "won": 8,
+   "drawn": 8,
+   "lost": 13,
+   "gf": 37,
+   "ga": 38,
+   "points": 32,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Trapani",
+   "gd": -1,
+   "pos": 13
+  },
+  {
+   "played": 29,
+   "won": 8,
+   "drawn": 8,
+   "lost": 13,
+   "gf": 23,
+   "ga": 38,
+   "points": 32,
+   "form": [
+    "D",
+    "L",
+    "L",
+    "L",
+    "D"
+   ],
+   "team": "Sorrento",
+   "gd": -15,
+   "pos": 14
+  },
+  {
+   "played": 30,
+   "won": 7,
+   "drawn": 9,
+   "lost": 14,
+   "gf": 31,
+   "ga": 42,
+   "points": 30,
+   "form": [
+    "D",
+    "W",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Foggia",
+   "gd": -11,
+   "pos": 15
+  },
+  {
+   "played": 29,
+   "won": 7,
+   "drawn": 7,
+   "lost": 15,
+   "gf": 22,
+   "ga": 48,
+   "points": 28,
+   "form": [
+    "D",
+    "L",
+    "L",
+    "W",
+    "D"
+   ],
+   "team": "Latina",
+   "gd": -26,
+   "pos": 16
+  },
+  {
+   "played": 29,
+   "won": 3,
+   "drawn": 13,
+   "lost": 13,
+   "gf": 21,
+   "ga": 35,
+   "points": 22,
+   "form": [
+    "L",
+    "D",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Casertana",
+   "gd": -14,
+   "pos": 17
+  },
+  {
+   "played": 30,
+   "won": 3,
+   "drawn": 11,
+   "lost": 16,
+   "gf": 21,
+   "ga": 48,
+   "points": 20,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "L",
+    "W"
+   ],
+   "team": "ACR Messina",
+   "gd": -27,
+   "pos": 18
+  }
+ ]
+}

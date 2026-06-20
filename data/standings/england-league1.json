@@ -1,0 +1,10059 @@
+{
+ "2004/2005": [
+  {
+   "played": 46,
+   "won": 29,
+   "drawn": 11,
+   "lost": 6,
+   "gf": 87,
+   "ga": 48,
+   "points": 98,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "W",
+    "D"
+   ],
+   "team": "Luton Town",
+   "gd": 39,
+   "pos": 1
+  },
+  {
+   "played": 46,
+   "won": 26,
+   "drawn": 8,
+   "lost": 12,
+   "gf": 80,
+   "ga": 53,
+   "points": 86,
+   "form": [
+    "W",
+    "D",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Hull City",
+   "gd": 27,
+   "pos": 2
+  },
+  {
+   "played": 46,
+   "won": 22,
+   "drawn": 13,
+   "lost": 11,
+   "gf": 73,
+   "ga": 55,
+   "points": 79,
+   "form": [
+    "L",
+    "D",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Tranmere Rovers",
+   "gd": 18,
+   "pos": 3
+  },
+  {
+   "played": 46,
+   "won": 22,
+   "drawn": 9,
+   "lost": 15,
+   "gf": 57,
+   "ga": 60,
+   "points": 75,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "W",
+    "W"
+   ],
+   "team": "Brentford",
+   "gd": -3,
+   "pos": 4
+  },
+  {
+   "played": 46,
+   "won": 19,
+   "drawn": 15,
+   "lost": 12,
+   "gf": 77,
+   "ga": 59,
+   "points": 72,
+   "form": [
+    "D",
+    "L",
+    "D",
+    "W",
+    "L"
+   ],
+   "team": "Sheffield Wednesday",
+   "gd": 18,
+   "pos": 5
+  },
+  {
+   "played": 46,
+   "won": 21,
+   "drawn": 8,
+   "lost": 17,
+   "gf": 76,
+   "ga": 66,
+   "points": 71,
+   "form": [
+    "D",
+    "W",
+    "L",
+    "L",
+    "D"
+   ],
+   "team": "Hartlepool United",
+   "gd": 10,
+   "pos": 6
+  },
+  {
+   "played": 46,
+   "won": 18,
+   "drawn": 16,
+   "lost": 12,
+   "gf": 74,
+   "ga": 57,
+   "points": 70,
+   "form": [
+    "D",
+    "W",
+    "W",
+    "D",
+    "W"
+   ],
+   "team": "Bristol City",
+   "gd": 17,
+   "pos": 7
+  },
+  {
+   "played": 46,
+   "won": 20,
+   "drawn": 10,
+   "lost": 16,
+   "gf": 77,
+   "ga": 64,
+   "points": 70,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "L",
+    "D"
+   ],
+   "team": "AFC Bournemouth",
+   "gd": 13,
+   "pos": 8
+  },
+  {
+   "played": 46,
+   "won": 20,
+   "drawn": 10,
+   "lost": 16,
+   "gf": 74,
+   "ga": 65,
+   "points": 70,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Huddersfield Town",
+   "gd": 9,
+   "pos": 9
+  },
+  {
+   "played": 46,
+   "won": 16,
+   "drawn": 18,
+   "lost": 12,
+   "gf": 65,
+   "ga": 60,
+   "points": 66,
+   "form": [
+    "L",
+    "W",
+    "W",
+    "D",
+    "D"
+   ],
+   "team": "Doncaster Rovers",
+   "gd": 5,
+   "pos": 10
+  },
+  {
+   "played": 46,
+   "won": 17,
+   "drawn": 14,
+   "lost": 15,
+   "gf": 64,
+   "ga": 62,
+   "points": 65,
+   "form": [
+    "L",
+    "W",
+    "D",
+    "W",
+    "L"
+   ],
+   "team": "Bradford City",
+   "gd": 2,
+   "pos": 11
+  },
+  {
+   "played": 46,
+   "won": 17,
+   "drawn": 12,
+   "lost": 17,
+   "gf": 66,
+   "ga": 68,
+   "points": 63,
+   "form": [
+    "D",
+    "D",
+    "W",
+    "L",
+    "D"
+   ],
+   "team": "Swindon Town",
+   "gd": -2,
+   "pos": 12
+  },
+  {
+   "played": 46,
+   "won": 14,
+   "drawn": 19,
+   "lost": 13,
+   "gf": 69,
+   "ga": 64,
+   "points": 61,
+   "form": [
+    "D",
+    "D",
+    "L",
+    "D",
+    "W"
+   ],
+   "team": "Barnsley",
+   "gd": 5,
+   "pos": 13
+  },
+  {
+   "played": 46,
+   "won": 16,
+   "drawn": 12,
+   "lost": 18,
+   "gf": 65,
+   "ga": 69,
+   "points": 60,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Walsall",
+   "gd": -4,
+   "pos": 14
+  },
+  {
+   "played": 46,
+   "won": 14,
+   "drawn": 17,
+   "lost": 15,
+   "gf": 60,
+   "ga": 50,
+   "points": 59,
+   "form": [
+    "D",
+    "D",
+    "D",
+    "D",
+    "W"
+   ],
+   "team": "Colchester United",
+   "gd": 10,
+   "pos": 15
+  },
+  {
+   "played": 46,
+   "won": 15,
+   "drawn": 12,
+   "lost": 19,
+   "gf": 54,
+   "ga": 59,
+   "points": 57,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "Blackpool",
+   "gd": -5,
+   "pos": 16
+  },
+  {
+   "played": 46,
+   "won": 14,
+   "drawn": 15,
+   "lost": 17,
+   "gf": 55,
+   "ga": 62,
+   "points": 57,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "W",
+    "D"
+   ],
+   "team": "Chesterfield",
+   "gd": -7,
+   "pos": 17
+  },
+  {
+   "played": 46,
+   "won": 17,
+   "drawn": 5,
+   "lost": 24,
+   "gf": 49,
+   "ga": 59,
+   "points": 56,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "Port Vale",
+   "gd": -10,
+   "pos": 18
+  },
+  {
+   "played": 46,
+   "won": 13,
+   "drawn": 14,
+   "lost": 19,
+   "gf": 62,
+   "ga": 80,
+   "points": 53,
+   "form": [
+    "L",
+    "W",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "Wrexham",
+   "gd": -18,
+   "pos": 19
+  },
+  {
+   "played": 46,
+   "won": 14,
+   "drawn": 10,
+   "lost": 22,
+   "gf": 60,
+   "ga": 73,
+   "points": 52,
+   "form": [
+    "D",
+    "D",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "Oldham Athletic",
+   "gd": -13,
+   "pos": 20
+  },
+  {
+   "played": 46,
+   "won": 12,
+   "drawn": 15,
+   "lost": 19,
+   "gf": 54,
+   "ga": 68,
+   "points": 51,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "W",
+    "W"
+   ],
+   "team": "Milton Keynes Dons",
+   "gd": -14,
+   "pos": 21
+  },
+  {
+   "played": 46,
+   "won": 12,
+   "drawn": 15,
+   "lost": 19,
+   "gf": 55,
+   "ga": 79,
+   "points": 51,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "Torquay United",
+   "gd": -24,
+   "pos": 22
+  },
+  {
+   "played": 46,
+   "won": 9,
+   "drawn": 12,
+   "lost": 25,
+   "gf": 49,
+   "ga": 73,
+   "points": 39,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "Peterborough United",
+   "gd": -24,
+   "pos": 23
+  },
+  {
+   "played": 46,
+   "won": 6,
+   "drawn": 8,
+   "lost": 32,
+   "gf": 49,
+   "ga": 98,
+   "points": 26,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "L",
+    "L"
+   ],
+   "team": "Stockport County",
+   "gd": -49,
+   "pos": 24
+  }
+ ],
+ "2005/2006": [
+  {
+   "played": 46,
+   "won": 23,
+   "drawn": 13,
+   "lost": 10,
+   "gf": 72,
+   "ga": 43,
+   "points": 82,
+   "form": [
+    "L",
+    "D",
+    "L",
+    "D",
+    "W"
+   ],
+   "team": "Southend United",
+   "gd": 29,
+   "pos": 1
+  },
+  {
+   "played": 46,
+   "won": 22,
+   "drawn": 13,
+   "lost": 11,
+   "gf": 58,
+   "ga": 40,
+   "points": 79,
+   "form": [
+    "D",
+    "W",
+    "W",
+    "W",
+    "D"
+   ],
+   "team": "Colchester United",
+   "gd": 18,
+   "pos": 2
+  },
+  {
+   "played": 46,
+   "won": 20,
+   "drawn": 16,
+   "lost": 10,
+   "gf": 72,
+   "ga": 52,
+   "points": 76,
+   "form": [
+    "D",
+    "D",
+    "W",
+    "D",
+    "D"
+   ],
+   "team": "Brentford",
+   "gd": 20,
+   "pos": 3
+  },
+  {
+   "played": 46,
+   "won": 19,
+   "drawn": 16,
+   "lost": 11,
+   "gf": 72,
+   "ga": 59,
+   "points": 73,
+   "form": [
+    "D",
+    "L",
+    "W",
+    "L",
+    "D"
+   ],
+   "team": "Huddersfield Town",
+   "gd": 13,
+   "pos": 4
+  },
+  {
+   "played": 46,
+   "won": 18,
+   "drawn": 18,
+   "lost": 10,
+   "gf": 62,
+   "ga": 44,
+   "points": 72,
+   "form": [
+    "W",
+    "D",
+    "D",
+    "D",
+    "W"
+   ],
+   "team": "Barnsley",
+   "gd": 18,
+   "pos": 5
+  },
+  {
+   "played": 46,
+   "won": 18,
+   "drawn": 17,
+   "lost": 11,
+   "gf": 78,
+   "ga": 55,
+   "points": 71,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "D",
+    "W"
+   ],
+   "team": "Swansea City",
+   "gd": 23,
+   "pos": 6
+  },
+  {
+   "played": 46,
+   "won": 19,
+   "drawn": 12,
+   "lost": 15,
+   "gf": 67,
+   "ga": 52,
+   "points": 69,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "D",
+    "D"
+   ],
+   "team": "Nottingham Forest",
+   "gd": 15,
+   "pos": 7
+  },
+  {
+   "played": 46,
+   "won": 20,
+   "drawn": 9,
+   "lost": 17,
+   "gf": 55,
+   "ga": 51,
+   "points": 69,
+   "form": [
+    "L",
+    "W",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Doncaster Rovers",
+   "gd": 4,
+   "pos": 8
+  },
+  {
+   "played": 46,
+   "won": 18,
+   "drawn": 11,
+   "lost": 17,
+   "gf": 66,
+   "ga": 62,
+   "points": 65,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "D",
+    "L"
+   ],
+   "team": "Bristol City",
+   "gd": 4,
+   "pos": 9
+  },
+  {
+   "played": 46,
+   "won": 18,
+   "drawn": 11,
+   "lost": 17,
+   "gf": 58,
+   "ga": 60,
+   "points": 65,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "L",
+    "D"
+   ],
+   "team": "Oldham Athletic",
+   "gd": -2,
+   "pos": 10
+  },
+  {
+   "played": 46,
+   "won": 14,
+   "drawn": 19,
+   "lost": 13,
+   "gf": 51,
+   "ga": 49,
+   "points": 61,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "D",
+    "D"
+   ],
+   "team": "Bradford City",
+   "gd": 2,
+   "pos": 11
+  },
+  {
+   "played": 46,
+   "won": 15,
+   "drawn": 15,
+   "lost": 16,
+   "gf": 68,
+   "ga": 73,
+   "points": 60,
+   "form": [
+    "W",
+    "L",
+    "D",
+    "W",
+    "D"
+   ],
+   "team": "Scunthorpe United",
+   "gd": -5,
+   "pos": 12
+  },
+  {
+   "played": 46,
+   "won": 16,
+   "drawn": 12,
+   "lost": 18,
+   "gf": 49,
+   "ga": 54,
+   "points": 60,
+   "form": [
+    "D",
+    "D",
+    "L",
+    "W",
+    "D"
+   ],
+   "team": "Port Vale",
+   "gd": -5,
+   "pos": 13
+  },
+  {
+   "played": 46,
+   "won": 16,
+   "drawn": 12,
+   "lost": 18,
+   "gf": 50,
+   "ga": 64,
+   "points": 60,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "L",
+    "D"
+   ],
+   "team": "Gillingham",
+   "gd": -14,
+   "pos": 14
+  },
+  {
+   "played": 46,
+   "won": 15,
+   "drawn": 11,
+   "lost": 20,
+   "gf": 54,
+   "ga": 62,
+   "points": 56,
+   "form": [
+    "L",
+    "L",
+    "W",
+    "W",
+    "D"
+   ],
+   "team": "Yeovil Town",
+   "gd": -8,
+   "pos": 15
+  },
+  {
+   "played": 46,
+   "won": 14,
+   "drawn": 14,
+   "lost": 18,
+   "gf": 63,
+   "ga": 73,
+   "points": 56,
+   "form": [
+    "D",
+    "W",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Chesterfield",
+   "gd": -10,
+   "pos": 16
+  },
+  {
+   "played": 46,
+   "won": 12,
+   "drawn": 19,
+   "lost": 15,
+   "gf": 49,
+   "ga": 53,
+   "points": 55,
+   "form": [
+    "D",
+    "D",
+    "L",
+    "D",
+    "D"
+   ],
+   "team": "AFC Bournemouth",
+   "gd": -4,
+   "pos": 17
+  },
+  {
+   "played": 46,
+   "won": 13,
+   "drawn": 15,
+   "lost": 18,
+   "gf": 50,
+   "ga": 52,
+   "points": 54,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Tranmere Rovers",
+   "gd": -2,
+   "pos": 18
+  },
+  {
+   "played": 46,
+   "won": 12,
+   "drawn": 17,
+   "lost": 17,
+   "gf": 56,
+   "ga": 64,
+   "points": 53,
+   "form": [
+    "W",
+    "D",
+    "D",
+    "L",
+    "D"
+   ],
+   "team": "Blackpool",
+   "gd": -8,
+   "pos": 19
+  },
+  {
+   "played": 46,
+   "won": 12,
+   "drawn": 16,
+   "lost": 18,
+   "gf": 52,
+   "ga": 62,
+   "points": 52,
+   "form": [
+    "D",
+    "W",
+    "D",
+    "L",
+    "D"
+   ],
+   "team": "Rotherham United",
+   "gd": -10,
+   "pos": 20
+  },
+  {
+   "played": 46,
+   "won": 11,
+   "drawn": 17,
+   "lost": 18,
+   "gf": 44,
+   "ga": 59,
+   "points": 50,
+   "form": [
+    "L",
+    "L",
+    "W",
+    "D",
+    "D"
+   ],
+   "team": "Hartlepool United",
+   "gd": -15,
+   "pos": 21
+  },
+  {
+   "played": 46,
+   "won": 12,
+   "drawn": 14,
+   "lost": 20,
+   "gf": 45,
+   "ga": 66,
+   "points": 50,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "L",
+    "D"
+   ],
+   "team": "Milton Keynes Dons",
+   "gd": -21,
+   "pos": 22
+  },
+  {
+   "played": 46,
+   "won": 11,
+   "drawn": 15,
+   "lost": 20,
+   "gf": 46,
+   "ga": 65,
+   "points": 48,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "D",
+    "D"
+   ],
+   "team": "Swindon Town",
+   "gd": -19,
+   "pos": 23
+  },
+  {
+   "played": 46,
+   "won": 11,
+   "drawn": 14,
+   "lost": 21,
+   "gf": 47,
+   "ga": 70,
+   "points": 47,
+   "form": [
+    "D",
+    "L",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Walsall",
+   "gd": -23,
+   "pos": 24
+  }
+ ],
+ "2006/2007": [
+  {
+   "played": 46,
+   "won": 26,
+   "drawn": 13,
+   "lost": 7,
+   "gf": 73,
+   "ga": 35,
+   "points": 91,
+   "form": [
+    "L",
+    "W",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "Scunthorpe United",
+   "gd": 38,
+   "pos": 1
+  },
+  {
+   "played": 46,
+   "won": 25,
+   "drawn": 10,
+   "lost": 11,
+   "gf": 63,
+   "ga": 39,
+   "points": 85,
+   "form": [
+    "L",
+    "W",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "Bristol City",
+   "gd": 24,
+   "pos": 2
+  },
+  {
+   "played": 46,
+   "won": 24,
+   "drawn": 11,
+   "lost": 11,
+   "gf": 76,
+   "ga": 49,
+   "points": 83,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Blackpool",
+   "gd": 27,
+   "pos": 3
+  },
+  {
+   "played": 46,
+   "won": 23,
+   "drawn": 13,
+   "lost": 10,
+   "gf": 65,
+   "ga": 41,
+   "points": 82,
+   "form": [
+    "D",
+    "W",
+    "W",
+    "W",
+    "D"
+   ],
+   "team": "Nottingham Forest",
+   "gd": 24,
+   "pos": 4
+  },
+  {
+   "played": 46,
+   "won": 23,
+   "drawn": 10,
+   "lost": 13,
+   "gf": 55,
+   "ga": 39,
+   "points": 79,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Yeovil Town",
+   "gd": 16,
+   "pos": 5
+  },
+  {
+   "played": 46,
+   "won": 21,
+   "drawn": 12,
+   "lost": 13,
+   "gf": 69,
+   "ga": 47,
+   "points": 75,
+   "form": [
+    "D",
+    "L",
+    "L",
+    "W",
+    "W"
+   ],
+   "team": "Oldham Athletic",
+   "gd": 22,
+   "pos": 6
+  },
+  {
+   "played": 46,
+   "won": 20,
+   "drawn": 12,
+   "lost": 14,
+   "gf": 69,
+   "ga": 53,
+   "points": 72,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "Swansea City",
+   "gd": 16,
+   "pos": 7
+  },
+  {
+   "played": 46,
+   "won": 19,
+   "drawn": 11,
+   "lost": 16,
+   "gf": 54,
+   "ga": 55,
+   "points": 68,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Carlisle United",
+   "gd": -1,
+   "pos": 8
+  },
+  {
+   "played": 46,
+   "won": 18,
+   "drawn": 13,
+   "lost": 15,
+   "gf": 58,
+   "ga": 53,
+   "points": 67,
+   "form": [
+    "W",
+    "D",
+    "L",
+    "D",
+    "W"
+   ],
+   "team": "Tranmere Rovers",
+   "gd": 5,
+   "pos": 9
+  },
+  {
+   "played": 46,
+   "won": 19,
+   "drawn": 9,
+   "lost": 18,
+   "gf": 59,
+   "ga": 62,
+   "points": 66,
+   "form": [
+    "W",
+    "D",
+    "L",
+    "W",
+    "D"
+   ],
+   "team": "Millwall",
+   "gd": -3,
+   "pos": 10
+  },
+  {
+   "played": 46,
+   "won": 16,
+   "drawn": 15,
+   "lost": 15,
+   "gf": 52,
+   "ga": 47,
+   "points": 63,
+   "form": [
+    "L",
+    "D",
+    "W",
+    "L",
+    "D"
+   ],
+   "team": "Doncaster Rovers",
+   "gd": 5,
+   "pos": 11
+  },
+  {
+   "played": 46,
+   "won": 18,
+   "drawn": 6,
+   "lost": 22,
+   "gf": 64,
+   "ga": 65,
+   "points": 60,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "Port Vale",
+   "gd": -1,
+   "pos": 12
+  },
+  {
+   "played": 46,
+   "won": 17,
+   "drawn": 9,
+   "lost": 20,
+   "gf": 66,
+   "ga": 72,
+   "points": 60,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "D",
+    "D"
+   ],
+   "team": "Crewe Alexandra",
+   "gd": -6,
+   "pos": 13
+  },
+  {
+   "played": 46,
+   "won": 15,
+   "drawn": 14,
+   "lost": 17,
+   "gf": 48,
+   "ga": 51,
+   "points": 59,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "D",
+    "D"
+   ],
+   "team": "Northampton Town",
+   "gd": -3,
+   "pos": 14
+  },
+  {
+   "played": 46,
+   "won": 14,
+   "drawn": 17,
+   "lost": 15,
+   "gf": 60,
+   "ga": 69,
+   "points": 59,
+   "form": [
+    "L",
+    "L",
+    "W",
+    "D",
+    "W"
+   ],
+   "team": "Huddersfield Town",
+   "gd": -9,
+   "pos": 15
+  },
+  {
+   "played": 46,
+   "won": 17,
+   "drawn": 8,
+   "lost": 21,
+   "gf": 56,
+   "ga": 77,
+   "points": 59,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "D",
+    "L"
+   ],
+   "team": "Gillingham",
+   "gd": -21,
+   "pos": 16
+  },
+  {
+   "played": 46,
+   "won": 15,
+   "drawn": 9,
+   "lost": 22,
+   "gf": 49,
+   "ga": 61,
+   "points": 54,
+   "form": [
+    "D",
+    "W",
+    "L",
+    "W",
+    "D"
+   ],
+   "team": "Cheltenham Town",
+   "gd": -12,
+   "pos": 17
+  },
+  {
+   "played": 46,
+   "won": 14,
+   "drawn": 11,
+   "lost": 21,
+   "gf": 49,
+   "ga": 58,
+   "points": 53,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "L",
+    "D"
+   ],
+   "team": "Brighton & Hove Albion",
+   "gd": -9,
+   "pos": 18
+  },
+  {
+   "played": 46,
+   "won": 13,
+   "drawn": 13,
+   "lost": 20,
+   "gf": 50,
+   "ga": 64,
+   "points": 52,
+   "form": [
+    "L",
+    "D",
+    "L",
+    "D",
+    "L"
+   ],
+   "team": "AFC Bournemouth",
+   "gd": -14,
+   "pos": 19
+  },
+  {
+   "played": 46,
+   "won": 12,
+   "drawn": 15,
+   "lost": 19,
+   "gf": 61,
+   "ga": 77,
+   "points": 51,
+   "form": [
+    "L",
+    "D",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "Leyton Orient",
+   "gd": -16,
+   "pos": 20
+  },
+  {
+   "played": 46,
+   "won": 13,
+   "drawn": 9,
+   "lost": 24,
+   "gf": 58,
+   "ga": 75,
+   "points": 48,
+   "form": [
+    "D",
+    "L",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Rotherham United",
+   "gd": -17,
+   "pos": 21
+  },
+  {
+   "played": 46,
+   "won": 12,
+   "drawn": 11,
+   "lost": 23,
+   "gf": 45,
+   "ga": 53,
+   "points": 47,
+   "form": [
+    "D",
+    "L",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Chesterfield",
+   "gd": -8,
+   "pos": 22
+  },
+  {
+   "played": 46,
+   "won": 11,
+   "drawn": 14,
+   "lost": 21,
+   "gf": 47,
+   "ga": 65,
+   "points": 47,
+   "form": [
+    "D",
+    "W",
+    "L",
+    "L",
+    "D"
+   ],
+   "team": "Bradford City",
+   "gd": -18,
+   "pos": 23
+  },
+  {
+   "played": 46,
+   "won": 8,
+   "drawn": 13,
+   "lost": 25,
+   "gf": 40,
+   "ga": 79,
+   "points": 37,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Brentford",
+   "gd": -39,
+   "pos": 24
+  }
+ ],
+ "2007/2008": [
+  {
+   "played": 46,
+   "won": 27,
+   "drawn": 11,
+   "lost": 8,
+   "gf": 82,
+   "ga": 42,
+   "points": 92,
+   "form": [
+    "D",
+    "W",
+    "L",
+    "W",
+    "W"
+   ],
+   "team": "Swansea City",
+   "gd": 40,
+   "pos": 1
+  },
+  {
+   "played": 46,
+   "won": 27,
+   "drawn": 10,
+   "lost": 9,
+   "gf": 72,
+   "ga": 38,
+   "points": 91,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Leeds United",
+   "gd": 34,
+   "pos": 2
+  },
+  {
+   "played": 46,
+   "won": 22,
+   "drawn": 16,
+   "lost": 8,
+   "gf": 64,
+   "ga": 32,
+   "points": 82,
+   "form": [
+    "D",
+    "W",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Nottingham Forest",
+   "gd": 32,
+   "pos": 3
+  },
+  {
+   "played": 46,
+   "won": 23,
+   "drawn": 11,
+   "lost": 12,
+   "gf": 65,
+   "ga": 41,
+   "points": 80,
+   "form": [
+    "D",
+    "W",
+    "D",
+    "W",
+    "L"
+   ],
+   "team": "Doncaster Rovers",
+   "gd": 24,
+   "pos": 4
+  },
+  {
+   "played": 46,
+   "won": 23,
+   "drawn": 11,
+   "lost": 12,
+   "gf": 64,
+   "ga": 46,
+   "points": 80,
+   "form": [
+    "D",
+    "L",
+    "L",
+    "L",
+    "D"
+   ],
+   "team": "Carlisle United",
+   "gd": 18,
+   "pos": 5
+  },
+  {
+   "played": 46,
+   "won": 22,
+   "drawn": 10,
+   "lost": 14,
+   "gf": 70,
+   "ga": 55,
+   "points": 76,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "L",
+    "D"
+   ],
+   "team": "Southend United",
+   "gd": 15,
+   "pos": 6
+  },
+  {
+   "played": 46,
+   "won": 19,
+   "drawn": 12,
+   "lost": 15,
+   "gf": 58,
+   "ga": 50,
+   "points": 69,
+   "form": [
+    "L",
+    "W",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "Brighton & Hove Albion",
+   "gd": 8,
+   "pos": 7
+  },
+  {
+   "played": 46,
+   "won": 18,
+   "drawn": 13,
+   "lost": 15,
+   "gf": 58,
+   "ga": 46,
+   "points": 67,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "W",
+    "W"
+   ],
+   "team": "Oldham Athletic",
+   "gd": 12,
+   "pos": 8
+  },
+  {
+   "played": 46,
+   "won": 17,
+   "drawn": 15,
+   "lost": 14,
+   "gf": 60,
+   "ga": 55,
+   "points": 66,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "D",
+    "W"
+   ],
+   "team": "Northampton Town",
+   "gd": 5,
+   "pos": 9
+  },
+  {
+   "played": 46,
+   "won": 20,
+   "drawn": 6,
+   "lost": 20,
+   "gf": 50,
+   "ga": 62,
+   "points": 66,
+   "form": [
+    "D",
+    "W",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Huddersfield Town",
+   "gd": -12,
+   "pos": 10
+  },
+  {
+   "played": 46,
+   "won": 18,
+   "drawn": 11,
+   "lost": 17,
+   "gf": 52,
+   "ga": 47,
+   "points": 65,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Tranmere Rovers",
+   "gd": 5,
+   "pos": 11
+  },
+  {
+   "played": 46,
+   "won": 16,
+   "drawn": 16,
+   "lost": 14,
+   "gf": 52,
+   "ga": 46,
+   "points": 64,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "L",
+    "D"
+   ],
+   "team": "Walsall",
+   "gd": 6,
+   "pos": 12
+  },
+  {
+   "played": 46,
+   "won": 16,
+   "drawn": 13,
+   "lost": 17,
+   "gf": 63,
+   "ga": 56,
+   "points": 61,
+   "form": [
+    "L",
+    "W",
+    "W",
+    "D",
+    "W"
+   ],
+   "team": "Swindon Town",
+   "gd": 7,
+   "pos": 13
+  },
+  {
+   "played": 46,
+   "won": 16,
+   "drawn": 12,
+   "lost": 18,
+   "gf": 49,
+   "ga": 63,
+   "points": 60,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "L",
+    "W"
+   ],
+   "team": "Leyton Orient",
+   "gd": -14,
+   "pos": 14
+  },
+  {
+   "played": 46,
+   "won": 17,
+   "drawn": 7,
+   "lost": 22,
+   "gf": 62,
+   "ga": 72,
+   "points": 58,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "W",
+    "D"
+   ],
+   "team": "AFC Bournemouth",
+   "gd": -10,
+   "pos": 15
+  },
+  {
+   "played": 46,
+   "won": 15,
+   "drawn": 9,
+   "lost": 22,
+   "gf": 63,
+   "ga": 66,
+   "points": 54,
+   "form": [
+    "D",
+    "L",
+    "L",
+    "L",
+    "D"
+   ],
+   "team": "Hartlepool United",
+   "gd": -3,
+   "pos": 16
+  },
+  {
+   "played": 46,
+   "won": 12,
+   "drawn": 17,
+   "lost": 17,
+   "gf": 45,
+   "ga": 53,
+   "points": 53,
+   "form": [
+    "W",
+    "D",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Bristol Rovers",
+   "gd": -8,
+   "pos": 17
+  },
+  {
+   "played": 46,
+   "won": 14,
+   "drawn": 10,
+   "lost": 22,
+   "gf": 45,
+   "ga": 60,
+   "points": 52,
+   "form": [
+    "D",
+    "W",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Millwall",
+   "gd": -15,
+   "pos": 18
+  },
+  {
+   "played": 46,
+   "won": 14,
+   "drawn": 10,
+   "lost": 22,
+   "gf": 38,
+   "ga": 59,
+   "points": 52,
+   "form": [
+    "L",
+    "L",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "Yeovil Town",
+   "gd": -21,
+   "pos": 19
+  },
+  {
+   "played": 46,
+   "won": 13,
+   "drawn": 12,
+   "lost": 21,
+   "gf": 42,
+   "ga": 64,
+   "points": 51,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "Cheltenham Town",
+   "gd": -22,
+   "pos": 20
+  },
+  {
+   "played": 46,
+   "won": 12,
+   "drawn": 14,
+   "lost": 20,
+   "gf": 47,
+   "ga": 65,
+   "points": 50,
+   "form": [
+    "L",
+    "W",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "Crewe Alexandra",
+   "gd": -18,
+   "pos": 21
+  },
+  {
+   "played": 46,
+   "won": 11,
+   "drawn": 13,
+   "lost": 22,
+   "gf": 44,
+   "ga": 73,
+   "points": 46,
+   "form": [
+    "D",
+    "L",
+    "D",
+    "D",
+    "L"
+   ],
+   "team": "Gillingham",
+   "gd": -29,
+   "pos": 22
+  },
+  {
+   "played": 46,
+   "won": 11,
+   "drawn": 10,
+   "lost": 25,
+   "gf": 43,
+   "ga": 63,
+   "points": 43,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Luton Town",
+   "gd": -20,
+   "pos": 23
+  },
+  {
+   "played": 46,
+   "won": 9,
+   "drawn": 11,
+   "lost": 26,
+   "gf": 47,
+   "ga": 81,
+   "points": 38,
+   "form": [
+    "W",
+    "D",
+    "L",
+    "D",
+    "D"
+   ],
+   "team": "Port Vale",
+   "gd": -34,
+   "pos": 24
+  }
+ ],
+ "2008/2009": [
+  {
+   "played": 46,
+   "won": 27,
+   "drawn": 15,
+   "lost": 4,
+   "gf": 84,
+   "ga": 39,
+   "points": 96,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "D",
+    "W"
+   ],
+   "team": "Leicester City",
+   "gd": 45,
+   "pos": 1
+  },
+  {
+   "played": 46,
+   "won": 26,
+   "drawn": 11,
+   "lost": 9,
+   "gf": 78,
+   "ga": 54,
+   "points": 89,
+   "form": [
+    "D",
+    "L",
+    "W",
+    "W",
+    "D"
+   ],
+   "team": "Peterborough United",
+   "gd": 24,
+   "pos": 2
+  },
+  {
+   "played": 46,
+   "won": 26,
+   "drawn": 9,
+   "lost": 11,
+   "gf": 83,
+   "ga": 47,
+   "points": 87,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "W",
+    "W"
+   ],
+   "team": "Milton Keynes Dons",
+   "gd": 36,
+   "pos": 3
+  },
+  {
+   "played": 46,
+   "won": 26,
+   "drawn": 6,
+   "lost": 14,
+   "gf": 77,
+   "ga": 49,
+   "points": 84,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Leeds United",
+   "gd": 28,
+   "pos": 4
+  },
+  {
+   "played": 46,
+   "won": 25,
+   "drawn": 7,
+   "lost": 14,
+   "gf": 63,
+   "ga": 53,
+   "points": 82,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Millwall",
+   "gd": 10,
+   "pos": 5
+  },
+  {
+   "played": 46,
+   "won": 22,
+   "drawn": 10,
+   "lost": 14,
+   "gf": 82,
+   "ga": 63,
+   "points": 76,
+   "form": [
+    "L",
+    "D",
+    "D",
+    "W",
+    "D"
+   ],
+   "team": "Scunthorpe United",
+   "gd": 19,
+   "pos": 6
+  },
+  {
+   "played": 46,
+   "won": 21,
+   "drawn": 11,
+   "lost": 14,
+   "gf": 62,
+   "ga": 49,
+   "points": 74,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "D",
+    "D"
+   ],
+   "team": "Tranmere Rovers",
+   "gd": 13,
+   "pos": 7
+  },
+  {
+   "played": 46,
+   "won": 21,
+   "drawn": 8,
+   "lost": 17,
+   "gf": 58,
+   "ga": 61,
+   "points": 71,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "D",
+    "W"
+   ],
+   "team": "Southend United",
+   "gd": -3,
+   "pos": 8
+  },
+  {
+   "played": 46,
+   "won": 18,
+   "drawn": 14,
+   "lost": 14,
+   "gf": 62,
+   "ga": 65,
+   "points": 68,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "D",
+    "D"
+   ],
+   "team": "Huddersfield Town",
+   "gd": -3,
+   "pos": 9
+  },
+  {
+   "played": 46,
+   "won": 16,
+   "drawn": 17,
+   "lost": 13,
+   "gf": 66,
+   "ga": 65,
+   "points": 65,
+   "form": [
+    "D",
+    "D",
+    "L",
+    "D",
+    "W"
+   ],
+   "team": "Oldham Athletic",
+   "gd": 1,
+   "pos": 10
+  },
+  {
+   "played": 46,
+   "won": 17,
+   "drawn": 12,
+   "lost": 17,
+   "gf": 79,
+   "ga": 61,
+   "points": 63,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "Bristol Rovers",
+   "gd": 18,
+   "pos": 11
+  },
+  {
+   "played": 46,
+   "won": 18,
+   "drawn": 9,
+   "lost": 19,
+   "gf": 58,
+   "ga": 58,
+   "points": 63,
+   "form": [
+    "L",
+    "L",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "Colchester United",
+   "gd": 0,
+   "pos": 12
+  },
+  {
+   "played": 46,
+   "won": 17,
+   "drawn": 10,
+   "lost": 19,
+   "gf": 61,
+   "ga": 66,
+   "points": 61,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Walsall",
+   "gd": -5,
+   "pos": 13
+  },
+  {
+   "played": 46,
+   "won": 16,
+   "drawn": 12,
+   "lost": 18,
+   "gf": 59,
+   "ga": 57,
+   "points": 60,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Stockport County",
+   "gd": 2,
+   "pos": 14
+  },
+  {
+   "played": 46,
+   "won": 15,
+   "drawn": 11,
+   "lost": 20,
+   "gf": 45,
+   "ga": 57,
+   "points": 56,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "L",
+    "D"
+   ],
+   "team": "Leyton Orient",
+   "gd": -12,
+   "pos": 15
+  },
+  {
+   "played": 46,
+   "won": 12,
+   "drawn": 17,
+   "lost": 17,
+   "gf": 68,
+   "ga": 71,
+   "points": 53,
+   "form": [
+    "W",
+    "L",
+    "D",
+    "W",
+    "D"
+   ],
+   "team": "Swindon Town",
+   "gd": -3,
+   "pos": 16
+  },
+  {
+   "played": 46,
+   "won": 13,
+   "drawn": 13,
+   "lost": 20,
+   "gf": 55,
+   "ga": 70,
+   "points": 52,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "D",
+    "W"
+   ],
+   "team": "Brighton & Hove Albion",
+   "gd": -15,
+   "pos": 17
+  },
+  {
+   "played": 46,
+   "won": 12,
+   "drawn": 15,
+   "lost": 19,
+   "gf": 41,
+   "ga": 66,
+   "points": 51,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "D",
+    "L"
+   ],
+   "team": "Yeovil Town",
+   "gd": -25,
+   "pos": 18
+  },
+  {
+   "played": 46,
+   "won": 13,
+   "drawn": 11,
+   "lost": 22,
+   "gf": 66,
+   "ga": 79,
+   "points": 50,
+   "form": [
+    "D",
+    "L",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "Hartlepool United",
+   "gd": -13,
+   "pos": 19
+  },
+  {
+   "played": 46,
+   "won": 12,
+   "drawn": 14,
+   "lost": 20,
+   "gf": 56,
+   "ga": 69,
+   "points": 50,
+   "form": [
+    "D",
+    "L",
+    "D",
+    "D",
+    "W"
+   ],
+   "team": "Carlisle United",
+   "gd": -13,
+   "pos": 20
+  },
+  {
+   "played": 46,
+   "won": 12,
+   "drawn": 13,
+   "lost": 21,
+   "gf": 61,
+   "ga": 65,
+   "points": 49,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "Northampton Town",
+   "gd": -4,
+   "pos": 21
+  },
+  {
+   "played": 46,
+   "won": 12,
+   "drawn": 10,
+   "lost": 24,
+   "gf": 59,
+   "ga": 82,
+   "points": 46,
+   "form": [
+    "D",
+    "D",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Crewe Alexandra",
+   "gd": -23,
+   "pos": 22
+  },
+  {
+   "played": 46,
+   "won": 9,
+   "drawn": 12,
+   "lost": 25,
+   "gf": 51,
+   "ga": 91,
+   "points": 39,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "L",
+    "L"
+   ],
+   "team": "Cheltenham Town",
+   "gd": -40,
+   "pos": 23
+  },
+  {
+   "played": 46,
+   "won": 9,
+   "drawn": 7,
+   "lost": 30,
+   "gf": 42,
+   "ga": 79,
+   "points": 34,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "L",
+    "L"
+   ],
+   "team": "Hereford United",
+   "gd": -37,
+   "pos": 24
+  }
+ ],
+ "2009/2010": [
+  {
+   "played": 46,
+   "won": 29,
+   "drawn": 8,
+   "lost": 9,
+   "gf": 89,
+   "ga": 47,
+   "points": 95,
+   "form": [
+    "L",
+    "W",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "Norwich City",
+   "gd": 42,
+   "pos": 1
+  },
+  {
+   "played": 46,
+   "won": 25,
+   "drawn": 11,
+   "lost": 10,
+   "gf": 77,
+   "ga": 44,
+   "points": 86,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "Leeds United",
+   "gd": 33,
+   "pos": 2
+  },
+  {
+   "played": 46,
+   "won": 24,
+   "drawn": 13,
+   "lost": 9,
+   "gf": 76,
+   "ga": 44,
+   "points": 85,
+   "form": [
+    "D",
+    "L",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "Millwall",
+   "gd": 32,
+   "pos": 3
+  },
+  {
+   "played": 46,
+   "won": 23,
+   "drawn": 15,
+   "lost": 8,
+   "gf": 71,
+   "ga": 48,
+   "points": 84,
+   "form": [
+    "W",
+    "L",
+    "D",
+    "W",
+    "W"
+   ],
+   "team": "Charlton Athletic",
+   "gd": 23,
+   "pos": 4
+  },
+  {
+   "played": 46,
+   "won": 23,
+   "drawn": 14,
+   "lost": 9,
+   "gf": 85,
+   "ga": 47,
+   "points": 83,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "Southampton",
+   "gd": 38,
+   "pos": 5
+  },
+  {
+   "played": 46,
+   "won": 22,
+   "drawn": 16,
+   "lost": 8,
+   "gf": 73,
+   "ga": 57,
+   "points": 82,
+   "form": [
+    "D",
+    "D",
+    "D",
+    "W",
+    "L"
+   ],
+   "team": "Swindon Town",
+   "gd": 16,
+   "pos": 6
+  },
+  {
+   "played": 46,
+   "won": 23,
+   "drawn": 11,
+   "lost": 12,
+   "gf": 82,
+   "ga": 56,
+   "points": 80,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "Huddersfield Town",
+   "gd": 26,
+   "pos": 7
+  },
+  {
+   "played": 46,
+   "won": 20,
+   "drawn": 12,
+   "lost": 14,
+   "gf": 64,
+   "ga": 52,
+   "points": 72,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "L",
+    "W"
+   ],
+   "team": "Colchester United",
+   "gd": 12,
+   "pos": 8
+  },
+  {
+   "played": 46,
+   "won": 14,
+   "drawn": 20,
+   "lost": 12,
+   "gf": 55,
+   "ga": 52,
+   "points": 62,
+   "form": [
+    "D",
+    "W",
+    "D",
+    "L",
+    "D"
+   ],
+   "team": "Brentford",
+   "gd": 3,
+   "pos": 9
+  },
+  {
+   "played": 46,
+   "won": 16,
+   "drawn": 14,
+   "lost": 16,
+   "gf": 60,
+   "ga": 63,
+   "points": 62,
+   "form": [
+    "L",
+    "D",
+    "W",
+    "D",
+    "W"
+   ],
+   "team": "Walsall",
+   "gd": -3,
+   "pos": 10
+  },
+  {
+   "played": 46,
+   "won": 19,
+   "drawn": 5,
+   "lost": 22,
+   "gf": 59,
+   "ga": 70,
+   "points": 62,
+   "form": [
+    "L",
+    "D",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Bristol Rovers",
+   "gd": -11,
+   "pos": 11
+  },
+  {
+   "played": 46,
+   "won": 17,
+   "drawn": 9,
+   "lost": 20,
+   "gf": 60,
+   "ga": 68,
+   "points": 60,
+   "form": [
+    "D",
+    "L",
+    "L",
+    "D",
+    "L"
+   ],
+   "team": "Milton Keynes Dons",
+   "gd": -8,
+   "pos": 12
+  },
+  {
+   "played": 46,
+   "won": 15,
+   "drawn": 14,
+   "lost": 17,
+   "gf": 56,
+   "ga": 60,
+   "points": 59,
+   "form": [
+    "D",
+    "W",
+    "W",
+    "D",
+    "W"
+   ],
+   "team": "Brighton & Hove Albion",
+   "gd": -4,
+   "pos": 13
+  },
+  {
+   "played": 46,
+   "won": 15,
+   "drawn": 13,
+   "lost": 18,
+   "gf": 63,
+   "ga": 66,
+   "points": 58,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "D",
+    "W"
+   ],
+   "team": "Carlisle United",
+   "gd": -3,
+   "pos": 14
+  },
+  {
+   "played": 46,
+   "won": 13,
+   "drawn": 14,
+   "lost": 19,
+   "gf": 55,
+   "ga": 59,
+   "points": 53,
+   "form": [
+    "D",
+    "L",
+    "D",
+    "W",
+    "L"
+   ],
+   "team": "Yeovil Town",
+   "gd": -4,
+   "pos": 15
+  },
+  {
+   "played": 46,
+   "won": 14,
+   "drawn": 11,
+   "lost": 21,
+   "gf": 59,
+   "ga": 67,
+   "points": 53,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "D",
+    "D"
+   ],
+   "team": "Hartlepool United",
+   "gd": -8,
+   "pos": 16
+  },
+  {
+   "played": 46,
+   "won": 13,
+   "drawn": 13,
+   "lost": 20,
+   "gf": 39,
+   "ga": 57,
+   "points": 52,
+   "form": [
+    "W",
+    "D",
+    "D",
+    "L",
+    "L"
+   ],
+   "team": "Oldham Athletic",
+   "gd": -18,
+   "pos": 17
+  },
+  {
+   "played": 46,
+   "won": 13,
+   "drawn": 12,
+   "lost": 21,
+   "gf": 53,
+   "ga": 63,
+   "points": 51,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Leyton Orient",
+   "gd": -10,
+   "pos": 18
+  },
+  {
+   "played": 46,
+   "won": 11,
+   "drawn": 18,
+   "lost": 17,
+   "gf": 48,
+   "ga": 60,
+   "points": 51,
+   "form": [
+    "D",
+    "L",
+    "D",
+    "D",
+    "W"
+   ],
+   "team": "Exeter City",
+   "gd": -12,
+   "pos": 19
+  },
+  {
+   "played": 46,
+   "won": 14,
+   "drawn": 9,
+   "lost": 23,
+   "gf": 45,
+   "ga": 72,
+   "points": 51,
+   "form": [
+    "W",
+    "L",
+    "D",
+    "W",
+    "W"
+   ],
+   "team": "Tranmere Rovers",
+   "gd": -27,
+   "pos": 20
+  },
+  {
+   "played": 46,
+   "won": 12,
+   "drawn": 14,
+   "lost": 20,
+   "gf": 48,
+   "ga": 64,
+   "points": 50,
+   "form": [
+    "D",
+    "W",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Gillingham",
+   "gd": -16,
+   "pos": 21
+  },
+  {
+   "played": 46,
+   "won": 10,
+   "drawn": 15,
+   "lost": 21,
+   "gf": 56,
+   "ga": 76,
+   "points": 45,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "L",
+    "W"
+   ],
+   "team": "Wycombe Wanderers",
+   "gd": -20,
+   "pos": 22
+  },
+  {
+   "played": 46,
+   "won": 10,
+   "drawn": 13,
+   "lost": 23,
+   "gf": 51,
+   "ga": 72,
+   "points": 43,
+   "form": [
+    "D",
+    "L",
+    "D",
+    "W",
+    "L"
+   ],
+   "team": "Southend United",
+   "gd": -21,
+   "pos": 23
+  },
+  {
+   "played": 46,
+   "won": 5,
+   "drawn": 10,
+   "lost": 31,
+   "gf": 35,
+   "ga": 95,
+   "points": 25,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Stockport County",
+   "gd": -60,
+   "pos": 24
+  }
+ ],
+ "2010/2011": [
+  {
+   "played": 46,
+   "won": 28,
+   "drawn": 11,
+   "lost": 7,
+   "gf": 85,
+   "ga": 40,
+   "points": 95,
+   "form": [
+    "W",
+    "L",
+    "D",
+    "L",
+    "D"
+   ],
+   "team": "Brighton & Hove Albion",
+   "gd": 45,
+   "pos": 1
+  },
+  {
+   "played": 46,
+   "won": 28,
+   "drawn": 8,
+   "lost": 10,
+   "gf": 86,
+   "ga": 38,
+   "points": 92,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Southampton",
+   "gd": 48,
+   "pos": 2
+  },
+  {
+   "played": 46,
+   "won": 25,
+   "drawn": 12,
+   "lost": 9,
+   "gf": 77,
+   "ga": 48,
+   "points": 87,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "W",
+    "D"
+   ],
+   "team": "Huddersfield Town",
+   "gd": 29,
+   "pos": 3
+  },
+  {
+   "played": 46,
+   "won": 23,
+   "drawn": 10,
+   "lost": 13,
+   "gf": 106,
+   "ga": 75,
+   "points": 79,
+   "form": [
+    "W",
+    "L",
+    "D",
+    "D",
+    "W"
+   ],
+   "team": "Peterborough United",
+   "gd": 31,
+   "pos": 4
+  },
+  {
+   "played": 46,
+   "won": 23,
+   "drawn": 8,
+   "lost": 15,
+   "gf": 67,
+   "ga": 60,
+   "points": 77,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "W",
+    "W"
+   ],
+   "team": "Milton Keynes Dons",
+   "gd": 7,
+   "pos": 5
+  },
+  {
+   "played": 46,
+   "won": 19,
+   "drawn": 14,
+   "lost": 13,
+   "gf": 75,
+   "ga": 54,
+   "points": 71,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "D",
+    "L"
+   ],
+   "team": "AFC Bournemouth",
+   "gd": 21,
+   "pos": 6
+  },
+  {
+   "played": 46,
+   "won": 19,
+   "drawn": 13,
+   "lost": 14,
+   "gf": 71,
+   "ga": 62,
+   "points": 70,
+   "form": [
+    "L",
+    "W",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "Leyton Orient",
+   "gd": 9,
+   "pos": 7
+  },
+  {
+   "played": 46,
+   "won": 20,
+   "drawn": 10,
+   "lost": 16,
+   "gf": 66,
+   "ga": 73,
+   "points": 70,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "W",
+    "W"
+   ],
+   "team": "Exeter City",
+   "gd": -7,
+   "pos": 8
+  },
+  {
+   "played": 46,
+   "won": 18,
+   "drawn": 14,
+   "lost": 14,
+   "gf": 63,
+   "ga": 55,
+   "points": 68,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "D",
+    "W"
+   ],
+   "team": "Rochdale",
+   "gd": 8,
+   "pos": 9
+  },
+  {
+   "played": 46,
+   "won": 16,
+   "drawn": 14,
+   "lost": 16,
+   "gf": 57,
+   "ga": 63,
+   "points": 62,
+   "form": [
+    "L",
+    "D",
+    "D",
+    "L",
+    "W"
+   ],
+   "team": "Colchester United",
+   "gd": -6,
+   "pos": 10
+  },
+  {
+   "played": 46,
+   "won": 17,
+   "drawn": 10,
+   "lost": 19,
+   "gf": 55,
+   "ga": 62,
+   "points": 61,
+   "form": [
+    "W",
+    "D",
+    "D",
+    "L",
+    "D"
+   ],
+   "team": "Brentford",
+   "gd": -7,
+   "pos": 11
+  },
+  {
+   "played": 46,
+   "won": 16,
+   "drawn": 11,
+   "lost": 19,
+   "gf": 60,
+   "ga": 62,
+   "points": 59,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Carlisle United",
+   "gd": -2,
+   "pos": 12
+  },
+  {
+   "played": 46,
+   "won": 15,
+   "drawn": 14,
+   "lost": 17,
+   "gf": 62,
+   "ga": 66,
+   "points": 59,
+   "form": [
+    "L",
+    "D",
+    "W",
+    "L",
+    "D"
+   ],
+   "team": "Charlton Athletic",
+   "gd": -4,
+   "pos": 13
+  },
+  {
+   "played": 46,
+   "won": 16,
+   "drawn": 11,
+   "lost": 19,
+   "gf": 56,
+   "ga": 66,
+   "points": 59,
+   "form": [
+    "D",
+    "D",
+    "D",
+    "W",
+    "W"
+   ],
+   "team": "Yeovil Town",
+   "gd": -10,
+   "pos": 14
+  },
+  {
+   "played": 46,
+   "won": 16,
+   "drawn": 10,
+   "lost": 20,
+   "gf": 67,
+   "ga": 67,
+   "points": 58,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "D",
+    "L"
+   ],
+   "team": "Sheffield Wednesday",
+   "gd": 0,
+   "pos": 15
+  },
+  {
+   "played": 46,
+   "won": 15,
+   "drawn": 12,
+   "lost": 19,
+   "gf": 47,
+   "ga": 65,
+   "points": 57,
+   "form": [
+    "L",
+    "D",
+    "L",
+    "D",
+    "D"
+   ],
+   "team": "Hartlepool United",
+   "gd": -18,
+   "pos": 16
+  },
+  {
+   "played": 46,
+   "won": 15,
+   "drawn": 11,
+   "lost": 20,
+   "gf": 53,
+   "ga": 60,
+   "points": 56,
+   "form": [
+    "L",
+    "D",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "Tranmere Rovers",
+   "gd": -7,
+   "pos": 17
+  },
+  {
+   "played": 46,
+   "won": 13,
+   "drawn": 17,
+   "lost": 16,
+   "gf": 53,
+   "ga": 60,
+   "points": 56,
+   "form": [
+    "D",
+    "L",
+    "D",
+    "W",
+    "L"
+   ],
+   "team": "Oldham Athletic",
+   "gd": -7,
+   "pos": 18
+  },
+  {
+   "played": 46,
+   "won": 15,
+   "drawn": 7,
+   "lost": 24,
+   "gf": 51,
+   "ga": 74,
+   "points": 52,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Plymouth Argyle",
+   "gd": -23,
+   "pos": 19
+  },
+  {
+   "played": 46,
+   "won": 14,
+   "drawn": 8,
+   "lost": 24,
+   "gf": 46,
+   "ga": 60,
+   "points": 50,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "L",
+    "D"
+   ],
+   "team": "Notts County",
+   "gd": -14,
+   "pos": 20
+  },
+  {
+   "played": 46,
+   "won": 12,
+   "drawn": 12,
+   "lost": 22,
+   "gf": 56,
+   "ga": 75,
+   "points": 48,
+   "form": [
+    "L",
+    "D",
+    "D",
+    "W",
+    "L"
+   ],
+   "team": "Walsall",
+   "gd": -19,
+   "pos": 21
+  },
+  {
+   "played": 46,
+   "won": 12,
+   "drawn": 11,
+   "lost": 23,
+   "gf": 52,
+   "ga": 70,
+   "points": 47,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Dagenham & Redbridge",
+   "gd": -18,
+   "pos": 22
+  },
+  {
+   "played": 46,
+   "won": 11,
+   "drawn": 12,
+   "lost": 23,
+   "gf": 48,
+   "ga": 82,
+   "points": 45,
+   "form": [
+    "L",
+    "D",
+    "L",
+    "D",
+    "L"
+   ],
+   "team": "Bristol Rovers",
+   "gd": -34,
+   "pos": 23
+  },
+  {
+   "played": 46,
+   "won": 9,
+   "drawn": 14,
+   "lost": 23,
+   "gf": 50,
+   "ga": 72,
+   "points": 41,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "Swindon Town",
+   "gd": -22,
+   "pos": 24
+  }
+ ],
+ "2011/2012": [
+  {
+   "played": 46,
+   "won": 30,
+   "drawn": 11,
+   "lost": 5,
+   "gf": 82,
+   "ga": 36,
+   "points": 101,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "D",
+    "W"
+   ],
+   "team": "Charlton Athletic",
+   "gd": 46,
+   "pos": 1
+  },
+  {
+   "played": 46,
+   "won": 28,
+   "drawn": 9,
+   "lost": 9,
+   "gf": 81,
+   "ga": 48,
+   "points": 93,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Sheffield Wednesday",
+   "gd": 33,
+   "pos": 2
+  },
+  {
+   "played": 46,
+   "won": 27,
+   "drawn": 9,
+   "lost": 10,
+   "gf": 92,
+   "ga": 51,
+   "points": 90,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "D",
+    "D"
+   ],
+   "team": "Sheffield United",
+   "gd": 41,
+   "pos": 3
+  },
+  {
+   "played": 46,
+   "won": 21,
+   "drawn": 18,
+   "lost": 7,
+   "gf": 79,
+   "ga": 47,
+   "points": 81,
+   "form": [
+    "L",
+    "L",
+    "W",
+    "D",
+    "W"
+   ],
+   "team": "Huddersfield Town",
+   "gd": 32,
+   "pos": 4
+  },
+  {
+   "played": 46,
+   "won": 22,
+   "drawn": 14,
+   "lost": 10,
+   "gf": 84,
+   "ga": 47,
+   "points": 80,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "Milton Keynes Dons",
+   "gd": 37,
+   "pos": 5
+  },
+  {
+   "played": 46,
+   "won": 18,
+   "drawn": 19,
+   "lost": 9,
+   "gf": 69,
+   "ga": 44,
+   "points": 73,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "D",
+    "W"
+   ],
+   "team": "Stevenage",
+   "gd": 25,
+   "pos": 6
+  },
+  {
+   "played": 46,
+   "won": 21,
+   "drawn": 10,
+   "lost": 15,
+   "gf": 75,
+   "ga": 63,
+   "points": 73,
+   "form": [
+    "W",
+    "D",
+    "L",
+    "W",
+    "W"
+   ],
+   "team": "Notts County",
+   "gd": 12,
+   "pos": 7
+  },
+  {
+   "played": 46,
+   "won": 18,
+   "drawn": 15,
+   "lost": 13,
+   "gf": 65,
+   "ga": 66,
+   "points": 69,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Carlisle United",
+   "gd": -1,
+   "pos": 8
+  },
+  {
+   "played": 46,
+   "won": 18,
+   "drawn": 13,
+   "lost": 15,
+   "gf": 63,
+   "ga": 52,
+   "points": 67,
+   "form": [
+    "D",
+    "D",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "Brentford",
+   "gd": 11,
+   "pos": 9
+  },
+  {
+   "played": 46,
+   "won": 13,
+   "drawn": 20,
+   "lost": 13,
+   "gf": 61,
+   "ga": 66,
+   "points": 59,
+   "form": [
+    "L",
+    "D",
+    "D",
+    "W",
+    "L"
+   ],
+   "team": "Colchester United",
+   "gd": -5,
+   "pos": 10
+  },
+  {
+   "played": 46,
+   "won": 15,
+   "drawn": 13,
+   "lost": 18,
+   "gf": 48,
+   "ga": 52,
+   "points": 58,
+   "form": [
+    "W",
+    "L",
+    "D",
+    "D",
+    "W"
+   ],
+   "team": "AFC Bournemouth",
+   "gd": -4,
+   "pos": 11
+  },
+  {
+   "played": 46,
+   "won": 14,
+   "drawn": 14,
+   "lost": 18,
+   "gf": 49,
+   "ga": 53,
+   "points": 56,
+   "form": [
+    "L",
+    "W",
+    "D",
+    "L",
+    "D"
+   ],
+   "team": "Tranmere Rovers",
+   "gd": -4,
+   "pos": 12
+  },
+  {
+   "played": 46,
+   "won": 14,
+   "drawn": 14,
+   "lost": 18,
+   "gf": 50,
+   "ga": 55,
+   "points": 56,
+   "form": [
+    "D",
+    "L",
+    "D",
+    "W",
+    "L"
+   ],
+   "team": "Hartlepool United",
+   "gd": -5,
+   "pos": 13
+  },
+  {
+   "played": 46,
+   "won": 15,
+   "drawn": 11,
+   "lost": 20,
+   "gf": 60,
+   "ga": 79,
+   "points": 56,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "D",
+    "L"
+   ],
+   "team": "Bury",
+   "gd": -19,
+   "pos": 14
+  },
+  {
+   "played": 46,
+   "won": 13,
+   "drawn": 15,
+   "lost": 18,
+   "gf": 54,
+   "ga": 68,
+   "points": 54,
+   "form": [
+    "D",
+    "W",
+    "D",
+    "D",
+    "L"
+   ],
+   "team": "Preston North End",
+   "gd": -14,
+   "pos": 15
+  },
+  {
+   "played": 46,
+   "won": 14,
+   "drawn": 12,
+   "lost": 20,
+   "gf": 50,
+   "ga": 66,
+   "points": 54,
+   "form": [
+    "L",
+    "D",
+    "D",
+    "D",
+    "W"
+   ],
+   "team": "Oldham Athletic",
+   "gd": -16,
+   "pos": 16
+  },
+  {
+   "played": 46,
+   "won": 14,
+   "drawn": 12,
+   "lost": 20,
+   "gf": 59,
+   "ga": 80,
+   "points": 54,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "W",
+    "L"
+   ],
+   "team": "Yeovil Town",
+   "gd": -21,
+   "pos": 17
+  },
+  {
+   "played": 46,
+   "won": 10,
+   "drawn": 22,
+   "lost": 14,
+   "gf": 55,
+   "ga": 59,
+   "points": 52,
+   "form": [
+    "D",
+    "L",
+    "L",
+    "D",
+    "D"
+   ],
+   "team": "Scunthorpe United",
+   "gd": -4,
+   "pos": 18
+  },
+  {
+   "played": 46,
+   "won": 10,
+   "drawn": 20,
+   "lost": 16,
+   "gf": 51,
+   "ga": 57,
+   "points": 50,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "D",
+    "W"
+   ],
+   "team": "Walsall",
+   "gd": -6,
+   "pos": 19
+  },
+  {
+   "played": 46,
+   "won": 13,
+   "drawn": 11,
+   "lost": 22,
+   "gf": 48,
+   "ga": 75,
+   "points": 50,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "L",
+    "W"
+   ],
+   "team": "Leyton Orient",
+   "gd": -27,
+   "pos": 20
+  },
+  {
+   "played": 46,
+   "won": 11,
+   "drawn": 10,
+   "lost": 25,
+   "gf": 65,
+   "ga": 88,
+   "points": 43,
+   "form": [
+    "L",
+    "D",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Wycombe Wanderers",
+   "gd": -23,
+   "pos": 21
+  },
+  {
+   "played": 46,
+   "won": 10,
+   "drawn": 12,
+   "lost": 24,
+   "gf": 56,
+   "ga": 81,
+   "points": 42,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "Chesterfield",
+   "gd": -25,
+   "pos": 22
+  },
+  {
+   "played": 46,
+   "won": 10,
+   "drawn": 12,
+   "lost": 24,
+   "gf": 46,
+   "ga": 75,
+   "points": 42,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "L",
+    "D"
+   ],
+   "team": "Exeter City",
+   "gd": -29,
+   "pos": 23
+  },
+  {
+   "played": 46,
+   "won": 8,
+   "drawn": 14,
+   "lost": 24,
+   "gf": 47,
+   "ga": 81,
+   "points": 38,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Rochdale",
+   "gd": -34,
+   "pos": 24
+  }
+ ],
+ "2012/2013": [
+  {
+   "played": 46,
+   "won": 25,
+   "drawn": 9,
+   "lost": 12,
+   "gf": 62,
+   "ga": 44,
+   "points": 84,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "Doncaster Rovers",
+   "gd": 18,
+   "pos": 1
+  },
+  {
+   "played": 46,
+   "won": 24,
+   "drawn": 11,
+   "lost": 11,
+   "gf": 76,
+   "ga": 53,
+   "points": 83,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "W",
+    "D"
+   ],
+   "team": "AFC Bournemouth",
+   "gd": 23,
+   "pos": 2
+  },
+  {
+   "played": 46,
+   "won": 21,
+   "drawn": 16,
+   "lost": 9,
+   "gf": 62,
+   "ga": 47,
+   "points": 79,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "D",
+    "L"
+   ],
+   "team": "Brentford",
+   "gd": 15,
+   "pos": 3
+  },
+  {
+   "played": 46,
+   "won": 23,
+   "drawn": 8,
+   "lost": 15,
+   "gf": 71,
+   "ga": 56,
+   "points": 77,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Yeovil Town",
+   "gd": 15,
+   "pos": 4
+  },
+  {
+   "played": 46,
+   "won": 19,
+   "drawn": 18,
+   "lost": 9,
+   "gf": 56,
+   "ga": 42,
+   "points": 75,
+   "form": [
+    "W",
+    "D",
+    "L",
+    "L",
+    "D"
+   ],
+   "team": "Sheffield United",
+   "gd": 14,
+   "pos": 5
+  },
+  {
+   "played": 46,
+   "won": 20,
+   "drawn": 14,
+   "lost": 12,
+   "gf": 72,
+   "ga": 39,
+   "points": 74,
+   "form": [
+    "L",
+    "L",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "Swindon Town",
+   "gd": 33,
+   "pos": 6
+  },
+  {
+   "played": 46,
+   "won": 21,
+   "drawn": 8,
+   "lost": 17,
+   "gf": 55,
+   "ga": 48,
+   "points": 71,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "W",
+    "D"
+   ],
+   "team": "Leyton Orient",
+   "gd": 7,
+   "pos": 7
+  },
+  {
+   "played": 46,
+   "won": 19,
+   "drawn": 13,
+   "lost": 14,
+   "gf": 62,
+   "ga": 45,
+   "points": 70,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "Milton Keynes Dons",
+   "gd": 17,
+   "pos": 8
+  },
+  {
+   "played": 46,
+   "won": 17,
+   "drawn": 17,
+   "lost": 12,
+   "gf": 65,
+   "ga": 58,
+   "points": 68,
+   "form": [
+    "W",
+    "D",
+    "D",
+    "D",
+    "L"
+   ],
+   "team": "Walsall",
+   "gd": 7,
+   "pos": 9
+  },
+  {
+   "played": 46,
+   "won": 18,
+   "drawn": 14,
+   "lost": 14,
+   "gf": 59,
+   "ga": 58,
+   "points": 68,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "W",
+    "D"
+   ],
+   "team": "Crawley Town",
+   "gd": 1,
+   "pos": 10
+  },
+  {
+   "played": 46,
+   "won": 19,
+   "drawn": 10,
+   "lost": 17,
+   "gf": 58,
+   "ga": 48,
+   "points": 67,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "L",
+    "D"
+   ],
+   "team": "Tranmere Rovers",
+   "gd": 10,
+   "pos": 11
+  },
+  {
+   "played": 46,
+   "won": 16,
+   "drawn": 17,
+   "lost": 13,
+   "gf": 61,
+   "ga": 49,
+   "points": 65,
+   "form": [
+    "L",
+    "L",
+    "W",
+    "W",
+    "D"
+   ],
+   "team": "Notts County",
+   "gd": 12,
+   "pos": 12
+  },
+  {
+   "played": 46,
+   "won": 18,
+   "drawn": 11,
+   "lost": 17,
+   "gf": 66,
+   "ga": 59,
+   "points": 65,
+   "form": [
+    "L",
+    "D",
+    "L",
+    "L",
+    "D"
+   ],
+   "team": "Coventry City",
+   "gd": 7,
+   "pos": 13
+  },
+  {
+   "played": 46,
+   "won": 18,
+   "drawn": 10,
+   "lost": 18,
+   "gf": 54,
+   "ga": 62,
+   "points": 64,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "W",
+    "W"
+   ],
+   "team": "Crewe Alexandra",
+   "gd": -8,
+   "pos": 14
+  },
+  {
+   "played": 46,
+   "won": 14,
+   "drawn": 17,
+   "lost": 15,
+   "gf": 54,
+   "ga": 49,
+   "points": 59,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "L",
+    "D"
+   ],
+   "team": "Preston North End",
+   "gd": 5,
+   "pos": 15
+  },
+  {
+   "played": 46,
+   "won": 13,
+   "drawn": 16,
+   "lost": 17,
+   "gf": 54,
+   "ga": 60,
+   "points": 55,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "W",
+    "W"
+   ],
+   "team": "Shrewsbury Town",
+   "gd": -6,
+   "pos": 16
+  },
+  {
+   "played": 46,
+   "won": 14,
+   "drawn": 13,
+   "lost": 19,
+   "gf": 56,
+   "ga": 77,
+   "points": 55,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "L",
+    "L"
+   ],
+   "team": "Carlisle United",
+   "gd": -21,
+   "pos": 17
+  },
+  {
+   "played": 46,
+   "won": 15,
+   "drawn": 9,
+   "lost": 22,
+   "gf": 47,
+   "ga": 64,
+   "points": 54,
+   "form": [
+    "W",
+    "D",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Stevenage",
+   "gd": -17,
+   "pos": 18
+  },
+  {
+   "played": 46,
+   "won": 14,
+   "drawn": 9,
+   "lost": 23,
+   "gf": 46,
+   "ga": 59,
+   "points": 51,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "L",
+    "D"
+   ],
+   "team": "Oldham Athletic",
+   "gd": -13,
+   "pos": 19
+  },
+  {
+   "played": 46,
+   "won": 14,
+   "drawn": 9,
+   "lost": 23,
+   "gf": 47,
+   "ga": 68,
+   "points": 51,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "D",
+    "W"
+   ],
+   "team": "Colchester United",
+   "gd": -21,
+   "pos": 20
+  },
+  {
+   "played": 46,
+   "won": 13,
+   "drawn": 9,
+   "lost": 24,
+   "gf": 49,
+   "ga": 73,
+   "points": 48,
+   "form": [
+    "L",
+    "D",
+    "L",
+    "W",
+    "W"
+   ],
+   "team": "Scunthorpe United",
+   "gd": -24,
+   "pos": 21
+  },
+  {
+   "played": 46,
+   "won": 10,
+   "drawn": 12,
+   "lost": 24,
+   "gf": 51,
+   "ga": 69,
+   "points": 42,
+   "form": [
+    "W",
+    "D",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Portsmouth",
+   "gd": -18,
+   "pos": 22
+  },
+  {
+   "played": 46,
+   "won": 9,
+   "drawn": 14,
+   "lost": 23,
+   "gf": 45,
+   "ga": 73,
+   "points": 41,
+   "form": [
+    "L",
+    "L",
+    "W",
+    "D",
+    "W"
+   ],
+   "team": "Bury",
+   "gd": -28,
+   "pos": 23
+  },
+  {
+   "played": 46,
+   "won": 9,
+   "drawn": 14,
+   "lost": 23,
+   "gf": 39,
+   "ga": 67,
+   "points": 41,
+   "form": [
+    "L",
+    "W",
+    "W",
+    "D",
+    "D"
+   ],
+   "team": "Hartlepool United",
+   "gd": -28,
+   "pos": 24
+  }
+ ],
+ "2013/2014": [
+  {
+   "played": 46,
+   "won": 31,
+   "drawn": 10,
+   "lost": 5,
+   "gf": 89,
+   "ga": 31,
+   "points": 103,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "D",
+    "W"
+   ],
+   "team": "Wolverhampton Wanderers",
+   "gd": 58,
+   "pos": 1
+  },
+  {
+   "played": 46,
+   "won": 28,
+   "drawn": 10,
+   "lost": 8,
+   "gf": 72,
+   "ga": 43,
+   "points": 94,
+   "form": [
+    "L",
+    "W",
+    "D",
+    "L",
+    "W"
+   ],
+   "team": "Brentford",
+   "gd": 29,
+   "pos": 2
+  },
+  {
+   "played": 46,
+   "won": 25,
+   "drawn": 11,
+   "lost": 10,
+   "gf": 85,
+   "ga": 45,
+   "points": 86,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "W",
+    "W"
+   ],
+   "team": "Leyton Orient",
+   "gd": 40,
+   "pos": 3
+  },
+  {
+   "played": 46,
+   "won": 24,
+   "drawn": 14,
+   "lost": 8,
+   "gf": 86,
+   "ga": 58,
+   "points": 86,
+   "form": [
+    "D",
+    "L",
+    "W",
+    "D",
+    "W"
+   ],
+   "team": "Rotherham United",
+   "gd": 28,
+   "pos": 4
+  },
+  {
+   "played": 46,
+   "won": 23,
+   "drawn": 16,
+   "lost": 7,
+   "gf": 72,
+   "ga": 46,
+   "points": 85,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "Preston North End",
+   "gd": 26,
+   "pos": 5
+  },
+  {
+   "played": 46,
+   "won": 23,
+   "drawn": 5,
+   "lost": 18,
+   "gf": 72,
+   "ga": 58,
+   "points": 74,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "W",
+    "D"
+   ],
+   "team": "Peterborough United",
+   "gd": 14,
+   "pos": 6
+  },
+  {
+   "played": 46,
+   "won": 18,
+   "drawn": 13,
+   "lost": 15,
+   "gf": 48,
+   "ga": 46,
+   "points": 67,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "D",
+    "W"
+   ],
+   "team": "Sheffield United",
+   "gd": 2,
+   "pos": 7
+  },
+  {
+   "played": 46,
+   "won": 19,
+   "drawn": 9,
+   "lost": 18,
+   "gf": 63,
+   "ga": 59,
+   "points": 66,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "Swindon Town",
+   "gd": 4,
+   "pos": 8
+  },
+  {
+   "played": 46,
+   "won": 16,
+   "drawn": 13,
+   "lost": 17,
+   "gf": 74,
+   "ga": 77,
+   "points": 61,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "D",
+    "L"
+   ],
+   "team": "Coventry City",
+   "gd": -3,
+   "pos": 9
+  },
+  {
+   "played": 46,
+   "won": 18,
+   "drawn": 7,
+   "lost": 21,
+   "gf": 59,
+   "ga": 73,
+   "points": 61,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "L",
+    "D"
+   ],
+   "team": "Port Vale",
+   "gd": -14,
+   "pos": 10
+  },
+  {
+   "played": 46,
+   "won": 17,
+   "drawn": 9,
+   "lost": 20,
+   "gf": 63,
+   "ga": 65,
+   "points": 60,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "D",
+    "L"
+   ],
+   "team": "Milton Keynes Dons",
+   "gd": -2,
+   "pos": 11
+  },
+  {
+   "played": 46,
+   "won": 14,
+   "drawn": 17,
+   "lost": 15,
+   "gf": 57,
+   "ga": 54,
+   "points": 59,
+   "form": [
+    "D",
+    "W",
+    "L",
+    "W",
+    "W"
+   ],
+   "team": "Bradford City",
+   "gd": 3,
+   "pos": 12
+  },
+  {
+   "played": 46,
+   "won": 13,
+   "drawn": 19,
+   "lost": 14,
+   "gf": 70,
+   "ga": 67,
+   "points": 58,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "D",
+    "D"
+   ],
+   "team": "Bristol City",
+   "gd": 3,
+   "pos": 13
+  },
+  {
+   "played": 46,
+   "won": 14,
+   "drawn": 16,
+   "lost": 16,
+   "gf": 49,
+   "ga": 49,
+   "points": 58,
+   "form": [
+    "L",
+    "D",
+    "D",
+    "L",
+    "L"
+   ],
+   "team": "Walsall",
+   "gd": 0,
+   "pos": 14
+  },
+  {
+   "played": 46,
+   "won": 14,
+   "drawn": 15,
+   "lost": 17,
+   "gf": 48,
+   "ga": 54,
+   "points": 57,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "D",
+    "D"
+   ],
+   "team": "Crawley Town",
+   "gd": -6,
+   "pos": 15
+  },
+  {
+   "played": 46,
+   "won": 14,
+   "drawn": 14,
+   "lost": 18,
+   "gf": 50,
+   "ga": 59,
+   "points": 56,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "D",
+    "D"
+   ],
+   "team": "Oldham Athletic",
+   "gd": -9,
+   "pos": 16
+  },
+  {
+   "played": 46,
+   "won": 13,
+   "drawn": 14,
+   "lost": 19,
+   "gf": 53,
+   "ga": 61,
+   "points": 53,
+   "form": [
+    "W",
+    "L",
+    "D",
+    "W",
+    "W"
+   ],
+   "team": "Colchester United",
+   "gd": -8,
+   "pos": 17
+  },
+  {
+   "played": 46,
+   "won": 15,
+   "drawn": 8,
+   "lost": 23,
+   "gf": 60,
+   "ga": 79,
+   "points": 53,
+   "form": [
+    "L",
+    "W",
+    "D",
+    "L",
+    "D"
+   ],
+   "team": "Gillingham",
+   "gd": -19,
+   "pos": 18
+  },
+  {
+   "played": 46,
+   "won": 13,
+   "drawn": 12,
+   "lost": 21,
+   "gf": 54,
+   "ga": 80,
+   "points": 51,
+   "form": [
+    "L",
+    "W",
+    "D",
+    "D",
+    "W"
+   ],
+   "team": "Crewe Alexandra",
+   "gd": -26,
+   "pos": 19
+  },
+  {
+   "played": 46,
+   "won": 15,
+   "drawn": 5,
+   "lost": 26,
+   "gf": 64,
+   "ga": 77,
+   "points": 50,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "W",
+    "D"
+   ],
+   "team": "Notts County",
+   "gd": -13,
+   "pos": 20
+  },
+  {
+   "played": 46,
+   "won": 12,
+   "drawn": 11,
+   "lost": 23,
+   "gf": 52,
+   "ga": 79,
+   "points": 47,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "L",
+    "L"
+   ],
+   "team": "Tranmere Rovers",
+   "gd": -27,
+   "pos": 21
+  },
+  {
+   "played": 46,
+   "won": 11,
+   "drawn": 12,
+   "lost": 23,
+   "gf": 43,
+   "ga": 76,
+   "points": 45,
+   "form": [
+    "D",
+    "L",
+    "L",
+    "D",
+    "L"
+   ],
+   "team": "Carlisle United",
+   "gd": -33,
+   "pos": 22
+  },
+  {
+   "played": 46,
+   "won": 9,
+   "drawn": 15,
+   "lost": 22,
+   "gf": 44,
+   "ga": 65,
+   "points": 42,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "L",
+    "D"
+   ],
+   "team": "Shrewsbury Town",
+   "gd": -21,
+   "pos": 23
+  },
+  {
+   "played": 46,
+   "won": 11,
+   "drawn": 9,
+   "lost": 26,
+   "gf": 46,
+   "ga": 72,
+   "points": 42,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Stevenage",
+   "gd": -26,
+   "pos": 24
+  }
+ ],
+ "2014/2015": [
+  {
+   "played": 46,
+   "won": 29,
+   "drawn": 12,
+   "lost": 5,
+   "gf": 96,
+   "ga": 38,
+   "points": 99,
+   "form": [
+    "D",
+    "W",
+    "D",
+    "W",
+    "W"
+   ],
+   "team": "Bristol City",
+   "gd": 58,
+   "pos": 1
+  },
+  {
+   "played": 46,
+   "won": 27,
+   "drawn": 10,
+   "lost": 9,
+   "gf": 101,
+   "ga": 44,
+   "points": 91,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Milton Keynes Dons",
+   "gd": 57,
+   "pos": 2
+  },
+  {
+   "played": 46,
+   "won": 25,
+   "drawn": 14,
+   "lost": 7,
+   "gf": 79,
+   "ga": 40,
+   "points": 89,
+   "form": [
+    "D",
+    "D",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "Preston North End",
+   "gd": 39,
+   "pos": 3
+  },
+  {
+   "played": 46,
+   "won": 23,
+   "drawn": 10,
+   "lost": 13,
+   "gf": 76,
+   "ga": 57,
+   "points": 79,
+   "form": [
+    "L",
+    "D",
+    "L",
+    "D",
+    "D"
+   ],
+   "team": "Swindon Town",
+   "gd": 19,
+   "pos": 4
+  },
+  {
+   "played": 46,
+   "won": 19,
+   "drawn": 14,
+   "lost": 13,
+   "gf": 66,
+   "ga": 53,
+   "points": 71,
+   "form": [
+    "D",
+    "L",
+    "D",
+    "D",
+    "D"
+   ],
+   "team": "Sheffield United",
+   "gd": 13,
+   "pos": 5
+  },
+  {
+   "played": 46,
+   "won": 19,
+   "drawn": 12,
+   "lost": 15,
+   "gf": 68,
+   "ga": 55,
+   "points": 69,
+   "form": [
+    "D",
+    "W",
+    "D",
+    "L",
+    "D"
+   ],
+   "team": "Chesterfield",
+   "gd": 13,
+   "pos": 6
+  },
+  {
+   "played": 46,
+   "won": 17,
+   "drawn": 14,
+   "lost": 15,
+   "gf": 55,
+   "ga": 55,
+   "points": 65,
+   "form": [
+    "L",
+    "D",
+    "D",
+    "W",
+    "W"
+   ],
+   "team": "Bradford City",
+   "gd": 0,
+   "pos": 7
+  },
+  {
+   "played": 46,
+   "won": 19,
+   "drawn": 6,
+   "lost": 21,
+   "gf": 72,
+   "ga": 66,
+   "points": 63,
+   "form": [
+    "L",
+    "L",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "Rochdale",
+   "gd": 6,
+   "pos": 8
+  },
+  {
+   "played": 46,
+   "won": 18,
+   "drawn": 9,
+   "lost": 19,
+   "gf": 53,
+   "ga": 56,
+   "points": 63,
+   "form": [
+    "L",
+    "D",
+    "D",
+    "W",
+    "D"
+   ],
+   "team": "Peterborough United",
+   "gd": -3,
+   "pos": 9
+  },
+  {
+   "played": 46,
+   "won": 17,
+   "drawn": 12,
+   "lost": 17,
+   "gf": 49,
+   "ga": 52,
+   "points": 63,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "L",
+    "W"
+   ],
+   "team": "Fleetwood Town",
+   "gd": -3,
+   "pos": 10
+  },
+  {
+   "played": 46,
+   "won": 17,
+   "drawn": 11,
+   "lost": 18,
+   "gf": 62,
+   "ga": 61,
+   "points": 62,
+   "form": [
+    "D",
+    "D",
+    "D",
+    "L",
+    "W"
+   ],
+   "team": "Barnsley",
+   "gd": 1,
+   "pos": 11
+  },
+  {
+   "played": 46,
+   "won": 16,
+   "drawn": 14,
+   "lost": 16,
+   "gf": 65,
+   "ga": 66,
+   "points": 62,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "Gillingham",
+   "gd": -1,
+   "pos": 12
+  },
+  {
+   "played": 46,
+   "won": 16,
+   "drawn": 13,
+   "lost": 17,
+   "gf": 58,
+   "ga": 62,
+   "points": 61,
+   "form": [
+    "W",
+    "D",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "Doncaster Rovers",
+   "gd": -4,
+   "pos": 13
+  },
+  {
+   "played": 46,
+   "won": 14,
+   "drawn": 17,
+   "lost": 15,
+   "gf": 50,
+   "ga": 54,
+   "points": 59,
+   "form": [
+    "W",
+    "D",
+    "D",
+    "W",
+    "L"
+   ],
+   "team": "Walsall",
+   "gd": -4,
+   "pos": 14
+  },
+  {
+   "played": 46,
+   "won": 14,
+   "drawn": 15,
+   "lost": 17,
+   "gf": 54,
+   "ga": 67,
+   "points": 57,
+   "form": [
+    "D",
+    "D",
+    "D",
+    "L",
+    "D"
+   ],
+   "team": "Oldham Athletic",
+   "gd": -13,
+   "pos": 15
+  },
+  {
+   "played": 46,
+   "won": 14,
+   "drawn": 14,
+   "lost": 18,
+   "gf": 62,
+   "ga": 75,
+   "points": 56,
+   "form": [
+    "D",
+    "D",
+    "D",
+    "W",
+    "L"
+   ],
+   "team": "Scunthorpe United",
+   "gd": -13,
+   "pos": 16
+  },
+  {
+   "played": 46,
+   "won": 13,
+   "drawn": 16,
+   "lost": 17,
+   "gf": 49,
+   "ga": 60,
+   "points": 55,
+   "form": [
+    "W",
+    "D",
+    "D",
+    "L",
+    "W"
+   ],
+   "team": "Coventry City",
+   "gd": -11,
+   "pos": 17
+  },
+  {
+   "played": 46,
+   "won": 15,
+   "drawn": 9,
+   "lost": 22,
+   "gf": 55,
+   "ga": 65,
+   "points": 54,
+   "form": [
+    "D",
+    "D",
+    "D",
+    "W",
+    "L"
+   ],
+   "team": "Port Vale",
+   "gd": -10,
+   "pos": 18
+  },
+  {
+   "played": 46,
+   "won": 14,
+   "drawn": 10,
+   "lost": 22,
+   "gf": 58,
+   "ga": 77,
+   "points": 52,
+   "form": [
+    "L",
+    "D",
+    "W",
+    "D",
+    "W"
+   ],
+   "team": "Colchester United",
+   "gd": -19,
+   "pos": 19
+  },
+  {
+   "played": 46,
+   "won": 14,
+   "drawn": 10,
+   "lost": 22,
+   "gf": 43,
+   "ga": 75,
+   "points": 52,
+   "form": [
+    "D",
+    "D",
+    "D",
+    "W",
+    "L"
+   ],
+   "team": "Crewe Alexandra",
+   "gd": -32,
+   "pos": 20
+  },
+  {
+   "played": 46,
+   "won": 12,
+   "drawn": 14,
+   "lost": 20,
+   "gf": 45,
+   "ga": 63,
+   "points": 50,
+   "form": [
+    "D",
+    "L",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Notts County",
+   "gd": -18,
+   "pos": 21
+  },
+  {
+   "played": 46,
+   "won": 13,
+   "drawn": 11,
+   "lost": 22,
+   "gf": 53,
+   "ga": 79,
+   "points": 50,
+   "form": [
+    "L",
+    "L",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "Crawley Town",
+   "gd": -26,
+   "pos": 22
+  },
+  {
+   "played": 46,
+   "won": 12,
+   "drawn": 13,
+   "lost": 21,
+   "gf": 59,
+   "ga": 69,
+   "points": 49,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "D",
+    "D"
+   ],
+   "team": "Leyton Orient",
+   "gd": -10,
+   "pos": 23
+  },
+  {
+   "played": 46,
+   "won": 10,
+   "drawn": 10,
+   "lost": 26,
+   "gf": 36,
+   "ga": 75,
+   "points": 40,
+   "form": [
+    "D",
+    "W",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "Yeovil Town",
+   "gd": -39,
+   "pos": 24
+  }
+ ],
+ "2015/2016": [
+  {
+   "played": 46,
+   "won": 24,
+   "drawn": 15,
+   "lost": 7,
+   "gf": 82,
+   "ga": 45,
+   "points": 87,
+   "form": [
+    "L",
+    "D",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "Wigan Athletic",
+   "gd": 37,
+   "pos": 1
+  },
+  {
+   "played": 46,
+   "won": 25,
+   "drawn": 10,
+   "lost": 11,
+   "gf": 57,
+   "ga": 37,
+   "points": 85,
+   "form": [
+    "D",
+    "D",
+    "W",
+    "W",
+    "D"
+   ],
+   "team": "Burton Albion",
+   "gd": 20,
+   "pos": 2
+  },
+  {
+   "played": 46,
+   "won": 24,
+   "drawn": 12,
+   "lost": 10,
+   "gf": 71,
+   "ga": 49,
+   "points": 84,
+   "form": [
+    "D",
+    "L",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Walsall",
+   "gd": 22,
+   "pos": 3
+  },
+  {
+   "played": 46,
+   "won": 24,
+   "drawn": 9,
+   "lost": 13,
+   "gf": 73,
+   "ga": 49,
+   "points": 81,
+   "form": [
+    "L",
+    "W",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Millwall",
+   "gd": 24,
+   "pos": 4
+  },
+  {
+   "played": 46,
+   "won": 23,
+   "drawn": 11,
+   "lost": 12,
+   "gf": 55,
+   "ga": 40,
+   "points": 80,
+   "form": [
+    "D",
+    "L",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Bradford City",
+   "gd": 15,
+   "pos": 5
+  },
+  {
+   "played": 46,
+   "won": 22,
+   "drawn": 8,
+   "lost": 16,
+   "gf": 70,
+   "ga": 54,
+   "points": 74,
+   "form": [
+    "D",
+    "W",
+    "D",
+    "D",
+    "W"
+   ],
+   "team": "Barnsley",
+   "gd": 16,
+   "pos": 6
+  },
+  {
+   "played": 46,
+   "won": 21,
+   "drawn": 11,
+   "lost": 14,
+   "gf": 60,
+   "ga": 47,
+   "points": 74,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Scunthorpe United",
+   "gd": 13,
+   "pos": 7
+  },
+  {
+   "played": 46,
+   "won": 19,
+   "drawn": 12,
+   "lost": 15,
+   "gf": 67,
+   "ga": 49,
+   "points": 69,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "W",
+    "W"
+   ],
+   "team": "Coventry City",
+   "gd": 18,
+   "pos": 8
+  },
+  {
+   "played": 46,
+   "won": 19,
+   "drawn": 12,
+   "lost": 15,
+   "gf": 71,
+   "ga": 56,
+   "points": 69,
+   "form": [
+    "L",
+    "D",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Gillingham",
+   "gd": 15,
+   "pos": 9
+  },
+  {
+   "played": 46,
+   "won": 19,
+   "drawn": 12,
+   "lost": 15,
+   "gf": 68,
+   "ga": 61,
+   "points": 69,
+   "form": [
+    "W",
+    "D",
+    "L",
+    "D",
+    "W"
+   ],
+   "team": "Rochdale",
+   "gd": 7,
+   "pos": 10
+  },
+  {
+   "played": 46,
+   "won": 18,
+   "drawn": 12,
+   "lost": 16,
+   "gf": 64,
+   "ga": 59,
+   "points": 66,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "L",
+    "L"
+   ],
+   "team": "Sheffield United",
+   "gd": 5,
+   "pos": 11
+  },
+  {
+   "played": 46,
+   "won": 18,
+   "drawn": 11,
+   "lost": 17,
+   "gf": 56,
+   "ga": 58,
+   "points": 65,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "Port Vale",
+   "gd": -2,
+   "pos": 12
+  },
+  {
+   "played": 46,
+   "won": 19,
+   "drawn": 6,
+   "lost": 21,
+   "gf": 82,
+   "ga": 73,
+   "points": 63,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "W",
+    "W"
+   ],
+   "team": "Peterborough United",
+   "gd": 9,
+   "pos": 13
+  },
+  {
+   "played": 46,
+   "won": 16,
+   "drawn": 12,
+   "lost": 18,
+   "gf": 56,
+   "ga": 73,
+   "points": 60,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "Bury",
+   "gd": -17,
+   "pos": 14
+  },
+  {
+   "played": 46,
+   "won": 16,
+   "drawn": 11,
+   "lost": 19,
+   "gf": 58,
+   "ga": 64,
+   "points": 59,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Southend United",
+   "gd": -6,
+   "pos": 15
+  },
+  {
+   "played": 46,
+   "won": 16,
+   "drawn": 11,
+   "lost": 19,
+   "gf": 64,
+   "ga": 71,
+   "points": 59,
+   "form": [
+    "L",
+    "D",
+    "W",
+    "D",
+    "W"
+   ],
+   "team": "Swindon Town",
+   "gd": -7,
+   "pos": 16
+  },
+  {
+   "played": 46,
+   "won": 12,
+   "drawn": 18,
+   "lost": 16,
+   "gf": 44,
+   "ga": 58,
+   "points": 54,
+   "form": [
+    "D",
+    "W",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "Oldham Athletic",
+   "gd": -14,
+   "pos": 17
+  },
+  {
+   "played": 46,
+   "won": 15,
+   "drawn": 8,
+   "lost": 23,
+   "gf": 58,
+   "ga": 70,
+   "points": 53,
+   "form": [
+    "L",
+    "D",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Chesterfield",
+   "gd": -12,
+   "pos": 18
+  },
+  {
+   "played": 46,
+   "won": 12,
+   "drawn": 15,
+   "lost": 19,
+   "gf": 52,
+   "ga": 56,
+   "points": 51,
+   "form": [
+    "D",
+    "L",
+    "D",
+    "L",
+    "W"
+   ],
+   "team": "Fleetwood Town",
+   "gd": -4,
+   "pos": 19
+  },
+  {
+   "played": 46,
+   "won": 13,
+   "drawn": 11,
+   "lost": 22,
+   "gf": 58,
+   "ga": 79,
+   "points": 50,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Shrewsbury Town",
+   "gd": -21,
+   "pos": 20
+  },
+  {
+   "played": 46,
+   "won": 11,
+   "drawn": 13,
+   "lost": 22,
+   "gf": 48,
+   "ga": 64,
+   "points": 46,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "L",
+    "D"
+   ],
+   "team": "Doncaster Rovers",
+   "gd": -16,
+   "pos": 21
+  },
+  {
+   "played": 46,
+   "won": 12,
+   "drawn": 10,
+   "lost": 24,
+   "gf": 40,
+   "ga": 63,
+   "points": 46,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "L",
+    "L"
+   ],
+   "team": "Blackpool",
+   "gd": -23,
+   "pos": 22
+  },
+  {
+   "played": 46,
+   "won": 9,
+   "drawn": 13,
+   "lost": 24,
+   "gf": 57,
+   "ga": 99,
+   "points": 40,
+   "form": [
+    "L",
+    "D",
+    "L",
+    "D",
+    "L"
+   ],
+   "team": "Colchester United",
+   "gd": -42,
+   "pos": 23
+  },
+  {
+   "played": 46,
+   "won": 7,
+   "drawn": 13,
+   "lost": 26,
+   "gf": 46,
+   "ga": 83,
+   "points": 34,
+   "form": [
+    "L",
+    "D",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Crewe Alexandra",
+   "gd": -37,
+   "pos": 24
+  }
+ ],
+ "2016/2017": [
+  {
+   "played": 46,
+   "won": 30,
+   "drawn": 10,
+   "lost": 6,
+   "gf": 92,
+   "ga": 47,
+   "points": 100,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Sheffield United",
+   "gd": 45,
+   "pos": 1
+  },
+  {
+   "played": 46,
+   "won": 25,
+   "drawn": 11,
+   "lost": 10,
+   "gf": 68,
+   "ga": 36,
+   "points": 86,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "W",
+    "W"
+   ],
+   "team": "Bolton Wanderers",
+   "gd": 32,
+   "pos": 2
+  },
+  {
+   "played": 46,
+   "won": 24,
+   "drawn": 10,
+   "lost": 12,
+   "gf": 80,
+   "ga": 54,
+   "points": 82,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Scunthorpe United",
+   "gd": 26,
+   "pos": 3
+  },
+  {
+   "played": 46,
+   "won": 23,
+   "drawn": 13,
+   "lost": 10,
+   "gf": 64,
+   "ga": 43,
+   "points": 82,
+   "form": [
+    "L",
+    "W",
+    "W",
+    "W",
+    "D"
+   ],
+   "team": "Fleetwood Town",
+   "gd": 21,
+   "pos": 4
+  },
+  {
+   "played": 46,
+   "won": 20,
+   "drawn": 19,
+   "lost": 7,
+   "gf": 62,
+   "ga": 43,
+   "points": 79,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "W",
+    "D"
+   ],
+   "team": "Bradford City",
+   "gd": 19,
+   "pos": 5
+  },
+  {
+   "played": 46,
+   "won": 20,
+   "drawn": 13,
+   "lost": 13,
+   "gf": 66,
+   "ga": 57,
+   "points": 73,
+   "form": [
+    "D",
+    "W",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "Millwall",
+   "gd": 9,
+   "pos": 6
+  },
+  {
+   "played": 46,
+   "won": 20,
+   "drawn": 12,
+   "lost": 14,
+   "gf": 70,
+   "ga": 53,
+   "points": 72,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "Southend United",
+   "gd": 17,
+   "pos": 7
+  },
+  {
+   "played": 46,
+   "won": 20,
+   "drawn": 9,
+   "lost": 17,
+   "gf": 65,
+   "ga": 52,
+   "points": 69,
+   "form": [
+    "D",
+    "L",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Oxford United",
+   "gd": 13,
+   "pos": 8
+  },
+  {
+   "played": 46,
+   "won": 19,
+   "drawn": 12,
+   "lost": 15,
+   "gf": 71,
+   "ga": 62,
+   "points": 69,
+   "form": [
+    "L",
+    "W",
+    "W",
+    "D",
+    "D"
+   ],
+   "team": "Rochdale",
+   "gd": 9,
+   "pos": 9
+  },
+  {
+   "played": 46,
+   "won": 18,
+   "drawn": 12,
+   "lost": 16,
+   "gf": 68,
+   "ga": 70,
+   "points": 66,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "Bristol Rovers",
+   "gd": -2,
+   "pos": 10
+  },
+  {
+   "played": 46,
+   "won": 17,
+   "drawn": 11,
+   "lost": 18,
+   "gf": 62,
+   "ga": 62,
+   "points": 62,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "W",
+    "L"
+   ],
+   "team": "Peterborough United",
+   "gd": 0,
+   "pos": 11
+  },
+  {
+   "played": 46,
+   "won": 16,
+   "drawn": 13,
+   "lost": 17,
+   "gf": 60,
+   "ga": 58,
+   "points": 61,
+   "form": [
+    "D",
+    "L",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "Milton Keynes Dons",
+   "gd": 2,
+   "pos": 12
+  },
+  {
+   "played": 46,
+   "won": 14,
+   "drawn": 18,
+   "lost": 14,
+   "gf": 60,
+   "ga": 53,
+   "points": 60,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Charlton Athletic",
+   "gd": 7,
+   "pos": 13
+  },
+  {
+   "played": 46,
+   "won": 14,
+   "drawn": 16,
+   "lost": 16,
+   "gf": 51,
+   "ga": 58,
+   "points": 58,
+   "form": [
+    "D",
+    "W",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Walsall",
+   "gd": -7,
+   "pos": 14
+  },
+  {
+   "played": 46,
+   "won": 13,
+   "drawn": 18,
+   "lost": 15,
+   "gf": 52,
+   "ga": 55,
+   "points": 57,
+   "form": [
+    "L",
+    "D",
+    "D",
+    "L",
+    "D"
+   ],
+   "team": "AFC Wimbledon",
+   "gd": -3,
+   "pos": 15
+  },
+  {
+   "played": 46,
+   "won": 14,
+   "drawn": 11,
+   "lost": 21,
+   "gf": 60,
+   "ga": 73,
+   "points": 53,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "L",
+    "D"
+   ],
+   "team": "Northampton Town",
+   "gd": -13,
+   "pos": 16
+  },
+  {
+   "played": 46,
+   "won": 12,
+   "drawn": 17,
+   "lost": 17,
+   "gf": 31,
+   "ga": 44,
+   "points": 53,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "D",
+    "D"
+   ],
+   "team": "Oldham Athletic",
+   "gd": -13,
+   "pos": 17
+  },
+  {
+   "played": 46,
+   "won": 13,
+   "drawn": 12,
+   "lost": 21,
+   "gf": 46,
+   "ga": 63,
+   "points": 51,
+   "form": [
+    "W",
+    "D",
+    "D",
+    "W",
+    "L"
+   ],
+   "team": "Shrewsbury Town",
+   "gd": -17,
+   "pos": 18
+  },
+  {
+   "played": 46,
+   "won": 13,
+   "drawn": 11,
+   "lost": 22,
+   "gf": 61,
+   "ga": 73,
+   "points": 50,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "W",
+    "L"
+   ],
+   "team": "Bury",
+   "gd": -12,
+   "pos": 19
+  },
+  {
+   "played": 46,
+   "won": 12,
+   "drawn": 14,
+   "lost": 20,
+   "gf": 59,
+   "ga": 79,
+   "points": 50,
+   "form": [
+    "D",
+    "W",
+    "L",
+    "L",
+    "D"
+   ],
+   "team": "Gillingham",
+   "gd": -20,
+   "pos": 20
+  },
+  {
+   "played": 46,
+   "won": 12,
+   "drawn": 13,
+   "lost": 21,
+   "gf": 45,
+   "ga": 70,
+   "points": 49,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "W",
+    "D"
+   ],
+   "team": "Port Vale",
+   "gd": -25,
+   "pos": 21
+  },
+  {
+   "played": 46,
+   "won": 11,
+   "drawn": 11,
+   "lost": 24,
+   "gf": 44,
+   "ga": 66,
+   "points": 44,
+   "form": [
+    "D",
+    "D",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Swindon Town",
+   "gd": -22,
+   "pos": 22
+  },
+  {
+   "played": 46,
+   "won": 9,
+   "drawn": 12,
+   "lost": 25,
+   "gf": 37,
+   "ga": 68,
+   "points": 39,
+   "form": [
+    "W",
+    "D",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Coventry City",
+   "gd": -31,
+   "pos": 23
+  },
+  {
+   "played": 46,
+   "won": 9,
+   "drawn": 10,
+   "lost": 27,
+   "gf": 43,
+   "ga": 78,
+   "points": 37,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Chesterfield",
+   "gd": -35,
+   "pos": 24
+  }
+ ],
+ "2017/2018": [
+  {
+   "played": 46,
+   "won": 29,
+   "drawn": 11,
+   "lost": 6,
+   "gf": 89,
+   "ga": 29,
+   "points": 98,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "D",
+    "W"
+   ],
+   "team": "Wigan Athletic",
+   "gd": 60,
+   "pos": 1
+  },
+  {
+   "played": 46,
+   "won": 28,
+   "drawn": 12,
+   "lost": 6,
+   "gf": 82,
+   "ga": 40,
+   "points": 96,
+   "form": [
+    "D",
+    "W",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "Blackburn Rovers",
+   "gd": 42,
+   "pos": 2
+  },
+  {
+   "played": 46,
+   "won": 25,
+   "drawn": 12,
+   "lost": 9,
+   "gf": 60,
+   "ga": 39,
+   "points": 87,
+   "form": [
+    "L",
+    "D",
+    "W",
+    "D",
+    "L"
+   ],
+   "team": "Shrewsbury Town",
+   "gd": 21,
+   "pos": 3
+  },
+  {
+   "played": 46,
+   "won": 24,
+   "drawn": 7,
+   "lost": 15,
+   "gf": 73,
+   "ga": 53,
+   "points": 79,
+   "form": [
+    "D",
+    "W",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "Rotherham United",
+   "gd": 20,
+   "pos": 4
+  },
+  {
+   "played": 46,
+   "won": 19,
+   "drawn": 17,
+   "lost": 10,
+   "gf": 65,
+   "ga": 50,
+   "points": 74,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "W",
+    "D"
+   ],
+   "team": "Scunthorpe United",
+   "gd": 15,
+   "pos": 5
+  },
+  {
+   "played": 46,
+   "won": 20,
+   "drawn": 11,
+   "lost": 15,
+   "gf": 58,
+   "ga": 51,
+   "points": 71,
+   "form": [
+    "L",
+    "W",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "Charlton Athletic",
+   "gd": 7,
+   "pos": 6
+  },
+  {
+   "played": 46,
+   "won": 19,
+   "drawn": 11,
+   "lost": 16,
+   "gf": 58,
+   "ga": 59,
+   "points": 68,
+   "form": [
+    "L",
+    "D",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "Plymouth Argyle",
+   "gd": -1,
+   "pos": 7
+  },
+  {
+   "played": 46,
+   "won": 20,
+   "drawn": 6,
+   "lost": 20,
+   "gf": 57,
+   "ga": 56,
+   "points": 66,
+   "form": [
+    "D",
+    "L",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "Portsmouth",
+   "gd": 1,
+   "pos": 8
+  },
+  {
+   "played": 46,
+   "won": 17,
+   "drawn": 13,
+   "lost": 16,
+   "gf": 68,
+   "ga": 60,
+   "points": 64,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Peterborough United",
+   "gd": 8,
+   "pos": 9
+  },
+  {
+   "played": 46,
+   "won": 17,
+   "drawn": 12,
+   "lost": 17,
+   "gf": 58,
+   "ga": 62,
+   "points": 63,
+   "form": [
+    "L",
+    "W",
+    "W",
+    "W",
+    "D"
+   ],
+   "team": "Southend United",
+   "gd": -4,
+   "pos": 10
+  },
+  {
+   "played": 46,
+   "won": 18,
+   "drawn": 9,
+   "lost": 19,
+   "gf": 57,
+   "ga": 67,
+   "points": 63,
+   "form": [
+    "D",
+    "W",
+    "L",
+    "D",
+    "D"
+   ],
+   "team": "Bradford City",
+   "gd": -10,
+   "pos": 11
+  },
+  {
+   "played": 46,
+   "won": 15,
+   "drawn": 15,
+   "lost": 16,
+   "gf": 60,
+   "ga": 55,
+   "points": 60,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "D",
+    "L"
+   ],
+   "team": "Blackpool",
+   "gd": 5,
+   "pos": 12
+  },
+  {
+   "played": 46,
+   "won": 16,
+   "drawn": 11,
+   "lost": 19,
+   "gf": 60,
+   "ga": 66,
+   "points": 59,
+   "form": [
+    "D",
+    "L",
+    "D",
+    "D",
+    "D"
+   ],
+   "team": "Bristol Rovers",
+   "gd": -6,
+   "pos": 13
+  },
+  {
+   "played": 46,
+   "won": 16,
+   "drawn": 9,
+   "lost": 21,
+   "gf": 59,
+   "ga": 68,
+   "points": 57,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "Fleetwood Town",
+   "gd": -9,
+   "pos": 14
+  },
+  {
+   "played": 46,
+   "won": 13,
+   "drawn": 17,
+   "lost": 16,
+   "gf": 52,
+   "ga": 52,
+   "points": 56,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "D",
+    "L"
+   ],
+   "team": "Doncaster Rovers",
+   "gd": 0,
+   "pos": 15
+  },
+  {
+   "played": 46,
+   "won": 15,
+   "drawn": 11,
+   "lost": 20,
+   "gf": 61,
+   "ga": 66,
+   "points": 56,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "Oxford United",
+   "gd": -5,
+   "pos": 16
+  },
+  {
+   "played": 46,
+   "won": 13,
+   "drawn": 17,
+   "lost": 16,
+   "gf": 50,
+   "ga": 55,
+   "points": 56,
+   "form": [
+    "D",
+    "L",
+    "L",
+    "D",
+    "W"
+   ],
+   "team": "Gillingham",
+   "gd": -5,
+   "pos": 17
+  },
+  {
+   "played": 46,
+   "won": 13,
+   "drawn": 14,
+   "lost": 19,
+   "gf": 47,
+   "ga": 58,
+   "points": 53,
+   "form": [
+    "W",
+    "D",
+    "D",
+    "D",
+    "D"
+   ],
+   "team": "AFC Wimbledon",
+   "gd": -11,
+   "pos": 18
+  },
+  {
+   "played": 46,
+   "won": 13,
+   "drawn": 13,
+   "lost": 20,
+   "gf": 53,
+   "ga": 66,
+   "points": 52,
+   "form": [
+    "L",
+    "L",
+    "W",
+    "D",
+    "L"
+   ],
+   "team": "Walsall",
+   "gd": -13,
+   "pos": 19
+  },
+  {
+   "played": 46,
+   "won": 11,
+   "drawn": 18,
+   "lost": 17,
+   "gf": 49,
+   "ga": 57,
+   "points": 51,
+   "form": [
+    "D",
+    "D",
+    "D",
+    "L",
+    "W"
+   ],
+   "team": "Rochdale",
+   "gd": -8,
+   "pos": 20
+  },
+  {
+   "played": 46,
+   "won": 11,
+   "drawn": 17,
+   "lost": 18,
+   "gf": 58,
+   "ga": 75,
+   "points": 50,
+   "form": [
+    "D",
+    "D",
+    "L",
+    "D",
+    "D"
+   ],
+   "team": "Oldham Athletic",
+   "gd": -17,
+   "pos": 21
+  },
+  {
+   "played": 46,
+   "won": 12,
+   "drawn": 11,
+   "lost": 23,
+   "gf": 43,
+   "ga": 77,
+   "points": 47,
+   "form": [
+    "L",
+    "W",
+    "W",
+    "L",
+    "D"
+   ],
+   "team": "Northampton Town",
+   "gd": -34,
+   "pos": 22
+  },
+  {
+   "played": 46,
+   "won": 11,
+   "drawn": 12,
+   "lost": 23,
+   "gf": 43,
+   "ga": 69,
+   "points": 45,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "Milton Keynes Dons",
+   "gd": -26,
+   "pos": 23
+  },
+  {
+   "played": 46,
+   "won": 8,
+   "drawn": 12,
+   "lost": 26,
+   "gf": 41,
+   "ga": 71,
+   "points": 36,
+   "form": [
+    "L",
+    "D",
+    "D",
+    "W",
+    "D"
+   ],
+   "team": "Bury",
+   "gd": -30,
+   "pos": 24
+  }
+ ],
+ "2018/2019": [
+  {
+   "played": 46,
+   "won": 27,
+   "drawn": 13,
+   "lost": 6,
+   "gf": 90,
+   "ga": 42,
+   "points": 94,
+   "form": [
+    "L",
+    "W",
+    "D",
+    "L",
+    "W"
+   ],
+   "team": "Luton Town",
+   "gd": 48,
+   "pos": 1
+  },
+  {
+   "played": 46,
+   "won": 26,
+   "drawn": 13,
+   "lost": 7,
+   "gf": 80,
+   "ga": 39,
+   "points": 91,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "Barnsley",
+   "gd": 41,
+   "pos": 2
+  },
+  {
+   "played": 46,
+   "won": 26,
+   "drawn": 10,
+   "lost": 10,
+   "gf": 73,
+   "ga": 40,
+   "points": 88,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Charlton Athletic",
+   "gd": 33,
+   "pos": 3
+  },
+  {
+   "played": 46,
+   "won": 25,
+   "drawn": 13,
+   "lost": 8,
+   "gf": 83,
+   "ga": 51,
+   "points": 88,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "L",
+    "D"
+   ],
+   "team": "Portsmouth",
+   "gd": 32,
+   "pos": 4
+  },
+  {
+   "played": 46,
+   "won": 22,
+   "drawn": 19,
+   "lost": 5,
+   "gf": 80,
+   "ga": 47,
+   "points": 85,
+   "form": [
+    "W",
+    "D",
+    "D",
+    "L",
+    "L"
+   ],
+   "team": "Sunderland",
+   "gd": 33,
+   "pos": 5
+  },
+  {
+   "played": 46,
+   "won": 20,
+   "drawn": 13,
+   "lost": 13,
+   "gf": 76,
+   "ga": 58,
+   "points": 73,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "D",
+    "W"
+   ],
+   "team": "Doncaster Rovers",
+   "gd": 18,
+   "pos": 6
+  },
+  {
+   "played": 46,
+   "won": 20,
+   "drawn": 12,
+   "lost": 14,
+   "gf": 71,
+   "ga": 62,
+   "points": 72,
+   "form": [
+    "D",
+    "D",
+    "L",
+    "W",
+    "W"
+   ],
+   "team": "Peterborough United",
+   "gd": 9,
+   "pos": 7
+  },
+  {
+   "played": 46,
+   "won": 18,
+   "drawn": 11,
+   "lost": 17,
+   "gf": 54,
+   "ga": 54,
+   "points": 65,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "D",
+    "L"
+   ],
+   "team": "Coventry City",
+   "gd": 0,
+   "pos": 8
+  },
+  {
+   "played": 46,
+   "won": 17,
+   "drawn": 12,
+   "lost": 17,
+   "gf": 66,
+   "ga": 57,
+   "points": 63,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Burton Albion",
+   "gd": 9,
+   "pos": 9
+  },
+  {
+   "played": 46,
+   "won": 15,
+   "drawn": 17,
+   "lost": 14,
+   "gf": 50,
+   "ga": 52,
+   "points": 62,
+   "form": [
+    "L",
+    "D",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "Blackpool",
+   "gd": -2,
+   "pos": 10
+  },
+  {
+   "played": 46,
+   "won": 16,
+   "drawn": 13,
+   "lost": 17,
+   "gf": 58,
+   "ga": 52,
+   "points": 61,
+   "form": [
+    "D",
+    "L",
+    "D",
+    "W",
+    "L"
+   ],
+   "team": "Fleetwood Town",
+   "gd": 6,
+   "pos": 11
+  },
+  {
+   "played": 46,
+   "won": 15,
+   "drawn": 15,
+   "lost": 16,
+   "gf": 58,
+   "ga": 64,
+   "points": 60,
+   "form": [
+    "D",
+    "W",
+    "W",
+    "D",
+    "L"
+   ],
+   "team": "Oxford United",
+   "gd": -6,
+   "pos": 12
+  },
+  {
+   "played": 46,
+   "won": 15,
+   "drawn": 10,
+   "lost": 21,
+   "gf": 61,
+   "ga": 72,
+   "points": 55,
+   "form": [
+    "L",
+    "W",
+    "D",
+    "L",
+    "W"
+   ],
+   "team": "Gillingham",
+   "gd": -11,
+   "pos": 13
+  },
+  {
+   "played": 46,
+   "won": 14,
+   "drawn": 13,
+   "lost": 19,
+   "gf": 51,
+   "ga": 67,
+   "points": 55,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "W",
+    "D"
+   ],
+   "team": "Accrington Stanley",
+   "gd": -16,
+   "pos": 14
+  },
+  {
+   "played": 46,
+   "won": 13,
+   "drawn": 15,
+   "lost": 18,
+   "gf": 47,
+   "ga": 50,
+   "points": 54,
+   "form": [
+    "W",
+    "D",
+    "L",
+    "D",
+    "W"
+   ],
+   "team": "Bristol Rovers",
+   "gd": -3,
+   "pos": 15
+  },
+  {
+   "played": 46,
+   "won": 15,
+   "drawn": 9,
+   "lost": 22,
+   "gf": 54,
+   "ga": 87,
+   "points": 54,
+   "form": [
+    "L",
+    "W",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "Rochdale",
+   "gd": -33,
+   "pos": 16
+  },
+  {
+   "played": 46,
+   "won": 14,
+   "drawn": 11,
+   "lost": 21,
+   "gf": 55,
+   "ga": 67,
+   "points": 53,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "Wycombe Wanderers",
+   "gd": -12,
+   "pos": 17
+  },
+  {
+   "played": 46,
+   "won": 12,
+   "drawn": 16,
+   "lost": 18,
+   "gf": 51,
+   "ga": 59,
+   "points": 52,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "D",
+    "D"
+   ],
+   "team": "Shrewsbury Town",
+   "gd": -8,
+   "pos": 18
+  },
+  {
+   "played": 46,
+   "won": 14,
+   "drawn": 8,
+   "lost": 24,
+   "gf": 55,
+   "ga": 68,
+   "points": 50,
+   "form": [
+    "L",
+    "D",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "Southend United",
+   "gd": -13,
+   "pos": 19
+  },
+  {
+   "played": 46,
+   "won": 13,
+   "drawn": 11,
+   "lost": 22,
+   "gf": 42,
+   "ga": 63,
+   "points": 50,
+   "form": [
+    "D",
+    "D",
+    "D",
+    "W",
+    "D"
+   ],
+   "team": "AFC Wimbledon",
+   "gd": -21,
+   "pos": 20
+  },
+  {
+   "played": 46,
+   "won": 13,
+   "drawn": 11,
+   "lost": 22,
+   "gf": 56,
+   "ga": 80,
+   "points": 50,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "Plymouth Argyle",
+   "gd": -24,
+   "pos": 21
+  },
+  {
+   "played": 46,
+   "won": 12,
+   "drawn": 11,
+   "lost": 23,
+   "gf": 49,
+   "ga": 71,
+   "points": 47,
+   "form": [
+    "L",
+    "D",
+    "L",
+    "W",
+    "D"
+   ],
+   "team": "Walsall",
+   "gd": -22,
+   "pos": 22
+  },
+  {
+   "played": 46,
+   "won": 12,
+   "drawn": 10,
+   "lost": 24,
+   "gf": 53,
+   "ga": 83,
+   "points": 46,
+   "form": [
+    "L",
+    "D",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Scunthorpe United",
+   "gd": -30,
+   "pos": 23
+  },
+  {
+   "played": 46,
+   "won": 11,
+   "drawn": 8,
+   "lost": 27,
+   "gf": 49,
+   "ga": 77,
+   "points": 41,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "W",
+    "D"
+   ],
+   "team": "Bradford City",
+   "gd": -28,
+   "pos": 24
+  }
+ ],
+ "2019/2020": [
+  {
+   "played": 34,
+   "won": 18,
+   "drawn": 13,
+   "lost": 3,
+   "gf": 48,
+   "ga": 30,
+   "points": 67,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "W",
+    "W"
+   ],
+   "team": "Coventry City",
+   "gd": 18,
+   "pos": 1
+  },
+  {
+   "played": 35,
+   "won": 18,
+   "drawn": 8,
+   "lost": 9,
+   "gf": 61,
+   "ga": 38,
+   "points": 62,
+   "form": [
+    "D",
+    "W",
+    "D",
+    "D",
+    "L"
+   ],
+   "team": "Rotherham United",
+   "gd": 23,
+   "pos": 2
+  },
+  {
+   "played": 35,
+   "won": 17,
+   "drawn": 9,
+   "lost": 9,
+   "gf": 61,
+   "ga": 37,
+   "points": 60,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Oxford United",
+   "gd": 24,
+   "pos": 3
+  },
+  {
+   "played": 35,
+   "won": 17,
+   "drawn": 9,
+   "lost": 9,
+   "gf": 53,
+   "ga": 36,
+   "points": 60,
+   "form": [
+    "L",
+    "W",
+    "W",
+    "L",
+    "D"
+   ],
+   "team": "Portsmouth",
+   "gd": 17,
+   "pos": 4
+  },
+  {
+   "played": 35,
+   "won": 16,
+   "drawn": 12,
+   "lost": 7,
+   "gf": 51,
+   "ga": 38,
+   "points": 60,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "D",
+    "D"
+   ],
+   "team": "Fleetwood Town",
+   "gd": 13,
+   "pos": 5
+  },
+  {
+   "played": 35,
+   "won": 17,
+   "drawn": 8,
+   "lost": 10,
+   "gf": 68,
+   "ga": 40,
+   "points": 59,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "D",
+    "W"
+   ],
+   "team": "Peterborough United",
+   "gd": 28,
+   "pos": 6
+  },
+  {
+   "played": 36,
+   "won": 16,
+   "drawn": 11,
+   "lost": 9,
+   "gf": 48,
+   "ga": 32,
+   "points": 59,
+   "form": [
+    "W",
+    "D",
+    "L",
+    "D",
+    "L"
+   ],
+   "team": "Sunderland",
+   "gd": 16,
+   "pos": 7
+  },
+  {
+   "played": 34,
+   "won": 17,
+   "drawn": 8,
+   "lost": 9,
+   "gf": 45,
+   "ga": 40,
+   "points": 59,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "Wycombe Wanderers",
+   "gd": 5,
+   "pos": 8
+  },
+  {
+   "played": 34,
+   "won": 15,
+   "drawn": 9,
+   "lost": 10,
+   "gf": 51,
+   "ga": 33,
+   "points": 54,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "W",
+    "W"
+   ],
+   "team": "Doncaster Rovers",
+   "gd": 18,
+   "pos": 9
+  },
+  {
+   "played": 36,
+   "won": 14,
+   "drawn": 10,
+   "lost": 12,
+   "gf": 46,
+   "ga": 36,
+   "points": 52,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Ipswich Town",
+   "gd": 10,
+   "pos": 10
+  },
+  {
+   "played": 35,
+   "won": 12,
+   "drawn": 15,
+   "lost": 8,
+   "gf": 42,
+   "ga": 34,
+   "points": 51,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "L",
+    "D"
+   ],
+   "team": "Gillingham",
+   "gd": 8,
+   "pos": 11
+  },
+  {
+   "played": 35,
+   "won": 12,
+   "drawn": 12,
+   "lost": 11,
+   "gf": 50,
+   "ga": 50,
+   "points": 48,
+   "form": [
+    "L",
+    "W",
+    "D",
+    "L",
+    "D"
+   ],
+   "team": "Burton Albion",
+   "gd": 0,
+   "pos": 12
+  },
+  {
+   "played": 35,
+   "won": 11,
+   "drawn": 12,
+   "lost": 12,
+   "gf": 44,
+   "ga": 43,
+   "points": 45,
+   "form": [
+    "D",
+    "W",
+    "W",
+    "D",
+    "L"
+   ],
+   "team": "Blackpool",
+   "gd": 1,
+   "pos": 13
+  },
+  {
+   "played": 35,
+   "won": 12,
+   "drawn": 9,
+   "lost": 14,
+   "gf": 38,
+   "ga": 49,
+   "points": 45,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "Bristol Rovers",
+   "gd": -11,
+   "pos": 14
+  },
+  {
+   "played": 35,
+   "won": 12,
+   "drawn": 6,
+   "lost": 17,
+   "gf": 44,
+   "ga": 46,
+   "points": 42,
+   "form": [
+    "L",
+    "D",
+    "L",
+    "D",
+    "W"
+   ],
+   "team": "Lincoln City",
+   "gd": -2,
+   "pos": 15
+  },
+  {
+   "played": 34,
+   "won": 10,
+   "drawn": 11,
+   "lost": 13,
+   "gf": 31,
+   "ga": 42,
+   "points": 41,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Shrewsbury Town",
+   "gd": -11,
+   "pos": 16
+  },
+  {
+   "played": 35,
+   "won": 10,
+   "drawn": 10,
+   "lost": 15,
+   "gf": 47,
+   "ga": 53,
+   "points": 40,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "D",
+    "L"
+   ],
+   "team": "Accrington Stanley",
+   "gd": -6,
+   "pos": 17
+  },
+  {
+   "played": 35,
+   "won": 10,
+   "drawn": 7,
+   "lost": 18,
+   "gf": 36,
+   "ga": 47,
+   "points": 37,
+   "form": [
+    "D",
+    "W",
+    "L",
+    "D",
+    "L"
+   ],
+   "team": "Milton Keynes Dons",
+   "gd": -11,
+   "pos": 18
+  },
+  {
+   "played": 34,
+   "won": 10,
+   "drawn": 6,
+   "lost": 18,
+   "gf": 39,
+   "ga": 57,
+   "points": 36,
+   "form": [
+    "D",
+    "L",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "Rochdale",
+   "gd": -18,
+   "pos": 19
+  },
+  {
+   "played": 35,
+   "won": 8,
+   "drawn": 11,
+   "lost": 16,
+   "gf": 39,
+   "ga": 52,
+   "points": 35,
+   "form": [
+    "D",
+    "L",
+    "D",
+    "W",
+    "D"
+   ],
+   "team": "AFC Wimbledon",
+   "gd": -13,
+   "pos": 20
+  },
+  {
+   "played": 34,
+   "won": 8,
+   "drawn": 8,
+   "lost": 18,
+   "gf": 36,
+   "ga": 60,
+   "points": 32,
+   "form": [
+    "D",
+    "L",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Tranmere Rovers",
+   "gd": -24,
+   "pos": 21
+  },
+  {
+   "played": 34,
+   "won": 5,
+   "drawn": 11,
+   "lost": 18,
+   "gf": 27,
+   "ga": 66,
+   "points": 26,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "D",
+    "D"
+   ],
+   "team": "Bolton Wanderers",
+   "gd": -39,
+   "pos": 22
+  },
+  {
+   "played": 35,
+   "won": 4,
+   "drawn": 7,
+   "lost": 24,
+   "gf": 39,
+   "ga": 85,
+   "points": 19,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "Southend United",
+   "gd": -46,
+   "pos": 23
+  }
+ ],
+ "2020/2021": [
+  {
+   "played": 46,
+   "won": 27,
+   "drawn": 8,
+   "lost": 11,
+   "gf": 80,
+   "ga": 38,
+   "points": 89,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "Hull City",
+   "gd": 42,
+   "pos": 1
+  },
+  {
+   "played": 46,
+   "won": 26,
+   "drawn": 9,
+   "lost": 11,
+   "gf": 83,
+   "ga": 46,
+   "points": 87,
+   "form": [
+    "L",
+    "W",
+    "D",
+    "D",
+    "W"
+   ],
+   "team": "Peterborough United",
+   "gd": 37,
+   "pos": 2
+  },
+  {
+   "played": 46,
+   "won": 23,
+   "drawn": 11,
+   "lost": 12,
+   "gf": 60,
+   "ga": 37,
+   "points": 80,
+   "form": [
+    "L",
+    "W",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Blackpool",
+   "gd": 23,
+   "pos": 3
+  },
+  {
+   "played": 46,
+   "won": 20,
+   "drawn": 17,
+   "lost": 9,
+   "gf": 70,
+   "ga": 42,
+   "points": 77,
+   "form": [
+    "D",
+    "D",
+    "L",
+    "W",
+    "D"
+   ],
+   "team": "Sunderland",
+   "gd": 28,
+   "pos": 4
+  },
+  {
+   "played": 46,
+   "won": 22,
+   "drawn": 11,
+   "lost": 13,
+   "gf": 69,
+   "ga": 50,
+   "points": 77,
+   "form": [
+    "L",
+    "W",
+    "D",
+    "L",
+    "D"
+   ],
+   "team": "Lincoln City",
+   "gd": 19,
+   "pos": 5
+  },
+  {
+   "played": 46,
+   "won": 22,
+   "drawn": 8,
+   "lost": 16,
+   "gf": 77,
+   "ga": 56,
+   "points": 74,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Oxford United",
+   "gd": 21,
+   "pos": 6
+  },
+  {
+   "played": 46,
+   "won": 20,
+   "drawn": 14,
+   "lost": 12,
+   "gf": 70,
+   "ga": 56,
+   "points": 74,
+   "form": [
+    "L",
+    "D",
+    "D",
+    "W",
+    "W"
+   ],
+   "team": "Charlton Athletic",
+   "gd": 14,
+   "pos": 7
+  },
+  {
+   "played": 46,
+   "won": 21,
+   "drawn": 9,
+   "lost": 16,
+   "gf": 65,
+   "ga": 51,
+   "points": 72,
+   "form": [
+    "L",
+    "W",
+    "D",
+    "W",
+    "L"
+   ],
+   "team": "Portsmouth",
+   "gd": 14,
+   "pos": 8
+  },
+  {
+   "played": 46,
+   "won": 19,
+   "drawn": 12,
+   "lost": 15,
+   "gf": 46,
+   "ga": 46,
+   "points": 69,
+   "form": [
+    "L",
+    "D",
+    "W",
+    "D",
+    "W"
+   ],
+   "team": "Ipswich Town",
+   "gd": 0,
+   "pos": 9
+  },
+  {
+   "played": 46,
+   "won": 19,
+   "drawn": 10,
+   "lost": 17,
+   "gf": 63,
+   "ga": 60,
+   "points": 67,
+   "form": [
+    "L",
+    "W",
+    "D",
+    "D",
+    "W"
+   ],
+   "team": "Gillingham",
+   "gd": 3,
+   "pos": 10
+  },
+  {
+   "played": 46,
+   "won": 18,
+   "drawn": 13,
+   "lost": 15,
+   "gf": 63,
+   "ga": 68,
+   "points": 67,
+   "form": [
+    "W",
+    "D",
+    "D",
+    "D",
+    "W"
+   ],
+   "team": "Accrington Stanley",
+   "gd": -5,
+   "pos": 11
+  },
+  {
+   "played": 46,
+   "won": 18,
+   "drawn": 12,
+   "lost": 16,
+   "gf": 56,
+   "ga": 61,
+   "points": 66,
+   "form": [
+    "W",
+    "D",
+    "D",
+    "W",
+    "W"
+   ],
+   "team": "Crewe Alexandra",
+   "gd": -5,
+   "pos": 12
+  },
+  {
+   "played": 46,
+   "won": 18,
+   "drawn": 11,
+   "lost": 17,
+   "gf": 64,
+   "ga": 62,
+   "points": 65,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "D",
+    "L"
+   ],
+   "team": "Milton Keynes Dons",
+   "gd": 2,
+   "pos": 13
+  },
+  {
+   "played": 46,
+   "won": 19,
+   "drawn": 7,
+   "lost": 20,
+   "gf": 63,
+   "ga": 67,
+   "points": 64,
+   "form": [
+    "L",
+    "D",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "Doncaster Rovers",
+   "gd": -4,
+   "pos": 14
+  },
+  {
+   "played": 46,
+   "won": 16,
+   "drawn": 12,
+   "lost": 18,
+   "gf": 49,
+   "ga": 46,
+   "points": 60,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "D",
+    "L"
+   ],
+   "team": "Fleetwood Town",
+   "gd": 3,
+   "pos": 15
+  },
+  {
+   "played": 46,
+   "won": 15,
+   "drawn": 12,
+   "lost": 19,
+   "gf": 61,
+   "ga": 73,
+   "points": 57,
+   "form": [
+    "L",
+    "D",
+    "W",
+    "D",
+    "L"
+   ],
+   "team": "Burton Albion",
+   "gd": -12,
+   "pos": 16
+  },
+  {
+   "played": 46,
+   "won": 13,
+   "drawn": 15,
+   "lost": 18,
+   "gf": 50,
+   "ga": 57,
+   "points": 54,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "D",
+    "L"
+   ],
+   "team": "Shrewsbury Town",
+   "gd": -7,
+   "pos": 17
+  },
+  {
+   "played": 46,
+   "won": 14,
+   "drawn": 11,
+   "lost": 21,
+   "gf": 53,
+   "ga": 80,
+   "points": 53,
+   "form": [
+    "D",
+    "L",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Plymouth Argyle",
+   "gd": -27,
+   "pos": 18
+  },
+  {
+   "played": 46,
+   "won": 12,
+   "drawn": 15,
+   "lost": 19,
+   "gf": 54,
+   "ga": 70,
+   "points": 51,
+   "form": [
+    "W",
+    "D",
+    "D",
+    "L",
+    "D"
+   ],
+   "team": "AFC Wimbledon",
+   "gd": -16,
+   "pos": 19
+  },
+  {
+   "played": 46,
+   "won": 13,
+   "drawn": 9,
+   "lost": 24,
+   "gf": 54,
+   "ga": 77,
+   "points": 48,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "L",
+    "L"
+   ],
+   "team": "Wigan Athletic",
+   "gd": -23,
+   "pos": 20
+  },
+  {
+   "played": 46,
+   "won": 11,
+   "drawn": 14,
+   "lost": 21,
+   "gf": 61,
+   "ga": 78,
+   "points": 47,
+   "form": [
+    "W",
+    "D",
+    "D",
+    "L",
+    "W"
+   ],
+   "team": "Rochdale",
+   "gd": -17,
+   "pos": 21
+  },
+  {
+   "played": 46,
+   "won": 11,
+   "drawn": 12,
+   "lost": 23,
+   "gf": 41,
+   "ga": 67,
+   "points": 45,
+   "form": [
+    "L",
+    "W",
+    "D",
+    "L",
+    "D"
+   ],
+   "team": "Northampton Town",
+   "gd": -26,
+   "pos": 22
+  },
+  {
+   "played": 46,
+   "won": 13,
+   "drawn": 4,
+   "lost": 29,
+   "gf": 55,
+   "ga": 89,
+   "points": 43,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "Swindon Town",
+   "gd": -34,
+   "pos": 23
+  },
+  {
+   "played": 46,
+   "won": 10,
+   "drawn": 8,
+   "lost": 28,
+   "gf": 40,
+   "ga": 70,
+   "points": 38,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Bristol Rovers",
+   "gd": -30,
+   "pos": 24
+  }
+ ],
+ "2021/2022": [
+  {
+   "played": 46,
+   "won": 27,
+   "drawn": 11,
+   "lost": 8,
+   "gf": 82,
+   "ga": 44,
+   "points": 92,
+   "form": [
+    "L",
+    "D",
+    "D",
+    "L",
+    "W"
+   ],
+   "team": "Wigan Athletic",
+   "gd": 38,
+   "pos": 1
+  },
+  {
+   "played": 46,
+   "won": 27,
+   "drawn": 9,
+   "lost": 10,
+   "gf": 70,
+   "ga": 33,
+   "points": 90,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "D",
+    "W"
+   ],
+   "team": "Rotherham United",
+   "gd": 37,
+   "pos": 2
+  },
+  {
+   "played": 46,
+   "won": 26,
+   "drawn": 11,
+   "lost": 9,
+   "gf": 78,
+   "ga": 44,
+   "points": 89,
+   "form": [
+    "D",
+    "L",
+    "L",
+    "W",
+    "W"
+   ],
+   "team": "Milton Keynes Dons",
+   "gd": 34,
+   "pos": 3
+  },
+  {
+   "played": 46,
+   "won": 24,
+   "drawn": 13,
+   "lost": 9,
+   "gf": 78,
+   "ga": 50,
+   "points": 85,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "W",
+    "W"
+   ],
+   "team": "Sheffield Wednesday",
+   "gd": 28,
+   "pos": 4
+  },
+  {
+   "played": 46,
+   "won": 24,
+   "drawn": 12,
+   "lost": 10,
+   "gf": 79,
+   "ga": 53,
+   "points": 84,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "D",
+    "W"
+   ],
+   "team": "Sunderland",
+   "gd": 26,
+   "pos": 5
+  },
+  {
+   "played": 46,
+   "won": 23,
+   "drawn": 14,
+   "lost": 9,
+   "gf": 75,
+   "ga": 51,
+   "points": 83,
+   "form": [
+    "D",
+    "W",
+    "D",
+    "W",
+    "W"
+   ],
+   "team": "Wycombe Wanderers",
+   "gd": 24,
+   "pos": 6
+  },
+  {
+   "played": 46,
+   "won": 23,
+   "drawn": 11,
+   "lost": 12,
+   "gf": 68,
+   "ga": 48,
+   "points": 80,
+   "form": [
+    "D",
+    "L",
+    "D",
+    "D",
+    "L"
+   ],
+   "team": "Plymouth Argyle",
+   "gd": 20,
+   "pos": 7
+  },
+  {
+   "played": 46,
+   "won": 22,
+   "drawn": 10,
+   "lost": 14,
+   "gf": 82,
+   "ga": 59,
+   "points": 76,
+   "form": [
+    "L",
+    "W",
+    "W",
+    "L",
+    "D"
+   ],
+   "team": "Oxford United",
+   "gd": 23,
+   "pos": 8
+  },
+  {
+   "played": 46,
+   "won": 21,
+   "drawn": 10,
+   "lost": 15,
+   "gf": 74,
+   "ga": 57,
+   "points": 73,
+   "form": [
+    "D",
+    "W",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Bolton Wanderers",
+   "gd": 17,
+   "pos": 9
+  },
+  {
+   "played": 46,
+   "won": 20,
+   "drawn": 13,
+   "lost": 13,
+   "gf": 68,
+   "ga": 51,
+   "points": 73,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "Portsmouth",
+   "gd": 17,
+   "pos": 10
+  },
+  {
+   "played": 46,
+   "won": 18,
+   "drawn": 16,
+   "lost": 12,
+   "gf": 67,
+   "ga": 46,
+   "points": 70,
+   "form": [
+    "D",
+    "L",
+    "D",
+    "D",
+    "W"
+   ],
+   "team": "Ipswich Town",
+   "gd": 21,
+   "pos": 11
+  },
+  {
+   "played": 46,
+   "won": 17,
+   "drawn": 10,
+   "lost": 19,
+   "gf": 61,
+   "ga": 80,
+   "points": 61,
+   "form": [
+    "W",
+    "D",
+    "L",
+    "W",
+    "W"
+   ],
+   "team": "Accrington Stanley",
+   "gd": -19,
+   "pos": 12
+  },
+  {
+   "played": 46,
+   "won": 17,
+   "drawn": 8,
+   "lost": 21,
+   "gf": 55,
+   "ga": 59,
+   "points": 59,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "Charlton Athletic",
+   "gd": -4,
+   "pos": 13
+  },
+  {
+   "played": 46,
+   "won": 15,
+   "drawn": 13,
+   "lost": 18,
+   "gf": 56,
+   "ga": 74,
+   "points": 58,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "L",
+    "D"
+   ],
+   "team": "Cambridge United",
+   "gd": -18,
+   "pos": 14
+  },
+  {
+   "played": 46,
+   "won": 13,
+   "drawn": 17,
+   "lost": 16,
+   "gf": 66,
+   "ga": 80,
+   "points": 56,
+   "form": [
+    "W",
+    "D",
+    "L",
+    "L",
+    "D"
+   ],
+   "team": "Cheltenham Town",
+   "gd": -14,
+   "pos": 15
+  },
+  {
+   "played": 46,
+   "won": 14,
+   "drawn": 11,
+   "lost": 21,
+   "gf": 51,
+   "ga": 67,
+   "points": 53,
+   "form": [
+    "D",
+    "D",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "Burton Albion",
+   "gd": -16,
+   "pos": 16
+  },
+  {
+   "played": 46,
+   "won": 14,
+   "drawn": 10,
+   "lost": 22,
+   "gf": 55,
+   "ga": 63,
+   "points": 52,
+   "form": [
+    "L",
+    "L",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "Lincoln City",
+   "gd": -8,
+   "pos": 17
+  },
+  {
+   "played": 46,
+   "won": 12,
+   "drawn": 14,
+   "lost": 20,
+   "gf": 47,
+   "ga": 51,
+   "points": 50,
+   "form": [
+    "D",
+    "L",
+    "D",
+    "L",
+    "L"
+   ],
+   "team": "Shrewsbury Town",
+   "gd": -4,
+   "pos": 18
+  },
+  {
+   "played": 46,
+   "won": 10,
+   "drawn": 12,
+   "lost": 24,
+   "gf": 57,
+   "ga": 88,
+   "points": 42,
+   "form": [
+    "L",
+    "W",
+    "D",
+    "L",
+    "L"
+   ],
+   "team": "Morecambe",
+   "gd": -31,
+   "pos": 19
+  },
+  {
+   "played": 46,
+   "won": 8,
+   "drawn": 16,
+   "lost": 22,
+   "gf": 62,
+   "ga": 82,
+   "points": 40,
+   "form": [
+    "L",
+    "D",
+    "D",
+    "L",
+    "L"
+   ],
+   "team": "Fleetwood Town",
+   "gd": -20,
+   "pos": 20
+  },
+  {
+   "played": 46,
+   "won": 8,
+   "drawn": 16,
+   "lost": 22,
+   "gf": 35,
+   "ga": 69,
+   "points": 40,
+   "form": [
+    "D",
+    "D",
+    "D",
+    "L",
+    "L"
+   ],
+   "team": "Gillingham",
+   "gd": -34,
+   "pos": 21
+  },
+  {
+   "played": 46,
+   "won": 10,
+   "drawn": 8,
+   "lost": 28,
+   "gf": 37,
+   "ga": 82,
+   "points": 38,
+   "form": [
+    "W",
+    "L",
+    "D",
+    "W",
+    "D"
+   ],
+   "team": "Doncaster Rovers",
+   "gd": -45,
+   "pos": 22
+  },
+  {
+   "played": 46,
+   "won": 6,
+   "drawn": 19,
+   "lost": 21,
+   "gf": 49,
+   "ga": 75,
+   "points": 37,
+   "form": [
+    "D",
+    "L",
+    "D",
+    "D",
+    "L"
+   ],
+   "team": "AFC Wimbledon",
+   "gd": -26,
+   "pos": 23
+  },
+  {
+   "played": 46,
+   "won": 7,
+   "drawn": 8,
+   "lost": 31,
+   "gf": 37,
+   "ga": 83,
+   "points": 29,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "D",
+    "L"
+   ],
+   "team": "Crewe Alexandra",
+   "gd": -46,
+   "pos": 24
+  }
+ ],
+ "2022/2023": [
+  {
+   "played": 46,
+   "won": 31,
+   "drawn": 8,
+   "lost": 7,
+   "gf": 82,
+   "ga": 47,
+   "points": 101,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Plymouth Argyle",
+   "gd": 35,
+   "pos": 1
+  },
+  {
+   "played": 46,
+   "won": 28,
+   "drawn": 14,
+   "lost": 4,
+   "gf": 101,
+   "ga": 35,
+   "points": 98,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "W",
+    "D"
+   ],
+   "team": "Ipswich Town",
+   "gd": 66,
+   "pos": 2
+  },
+  {
+   "played": 46,
+   "won": 28,
+   "drawn": 12,
+   "lost": 6,
+   "gf": 81,
+   "ga": 37,
+   "points": 96,
+   "form": [
+    "L",
+    "W",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Sheffield Wednesday",
+   "gd": 44,
+   "pos": 3
+  },
+  {
+   "played": 46,
+   "won": 26,
+   "drawn": 8,
+   "lost": 12,
+   "gf": 80,
+   "ga": 47,
+   "points": 86,
+   "form": [
+    "D",
+    "W",
+    "L",
+    "D",
+    "L"
+   ],
+   "team": "Barnsley",
+   "gd": 33,
+   "pos": 4
+  },
+  {
+   "played": 46,
+   "won": 23,
+   "drawn": 12,
+   "lost": 11,
+   "gf": 62,
+   "ga": 36,
+   "points": 81,
+   "form": [
+    "D",
+    "W",
+    "L",
+    "W",
+    "W"
+   ],
+   "team": "Bolton Wanderers",
+   "gd": 26,
+   "pos": 5
+  },
+  {
+   "played": 46,
+   "won": 24,
+   "drawn": 5,
+   "lost": 17,
+   "gf": 75,
+   "ga": 54,
+   "points": 77,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "D",
+    "W"
+   ],
+   "team": "Peterborough United",
+   "gd": 21,
+   "pos": 6
+  },
+  {
+   "played": 46,
+   "won": 21,
+   "drawn": 13,
+   "lost": 12,
+   "gf": 67,
+   "ga": 46,
+   "points": 76,
+   "form": [
+    "D",
+    "W",
+    "W",
+    "D",
+    "L"
+   ],
+   "team": "Derby County",
+   "gd": 21,
+   "pos": 7
+  },
+  {
+   "played": 46,
+   "won": 17,
+   "drawn": 19,
+   "lost": 10,
+   "gf": 61,
+   "ga": 50,
+   "points": 70,
+   "form": [
+    "D",
+    "D",
+    "W",
+    "D",
+    "D"
+   ],
+   "team": "Portsmouth",
+   "gd": 11,
+   "pos": 8
+  },
+  {
+   "played": 46,
+   "won": 20,
+   "drawn": 9,
+   "lost": 17,
+   "gf": 59,
+   "ga": 51,
+   "points": 69,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "L",
+    "D"
+   ],
+   "team": "Wycombe Wanderers",
+   "gd": 8,
+   "pos": 9
+  },
+  {
+   "played": 46,
+   "won": 16,
+   "drawn": 14,
+   "lost": 16,
+   "gf": 70,
+   "ga": 66,
+   "points": 62,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "W",
+    "D"
+   ],
+   "team": "Charlton Athletic",
+   "gd": 4,
+   "pos": 10
+  },
+  {
+   "played": 46,
+   "won": 14,
+   "drawn": 20,
+   "lost": 12,
+   "gf": 47,
+   "ga": 47,
+   "points": 62,
+   "form": [
+    "D",
+    "W",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "Lincoln City",
+   "gd": 0,
+   "pos": 11
+  },
+  {
+   "played": 46,
+   "won": 17,
+   "drawn": 8,
+   "lost": 21,
+   "gf": 52,
+   "ga": 61,
+   "points": 59,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Shrewsbury Town",
+   "gd": -9,
+   "pos": 12
+  },
+  {
+   "played": 46,
+   "won": 14,
+   "drawn": 16,
+   "lost": 16,
+   "gf": 53,
+   "ga": 51,
+   "points": 58,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "L",
+    "D"
+   ],
+   "team": "Fleetwood Town",
+   "gd": 2,
+   "pos": 13
+  },
+  {
+   "played": 46,
+   "won": 15,
+   "drawn": 11,
+   "lost": 20,
+   "gf": 64,
+   "ga": 68,
+   "points": 56,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "Exeter City",
+   "gd": -4,
+   "pos": 14
+  },
+  {
+   "played": 46,
+   "won": 15,
+   "drawn": 11,
+   "lost": 20,
+   "gf": 57,
+   "ga": 79,
+   "points": 56,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "W",
+    "D"
+   ],
+   "team": "Burton Albion",
+   "gd": -22,
+   "pos": 15
+  },
+  {
+   "played": 46,
+   "won": 14,
+   "drawn": 12,
+   "lost": 20,
+   "gf": 45,
+   "ga": 61,
+   "points": 54,
+   "form": [
+    "D",
+    "W",
+    "L",
+    "W",
+    "D"
+   ],
+   "team": "Cheltenham Town",
+   "gd": -16,
+   "pos": 16
+  },
+  {
+   "played": 46,
+   "won": 14,
+   "drawn": 11,
+   "lost": 21,
+   "gf": 58,
+   "ga": 73,
+   "points": 53,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "L",
+    "L"
+   ],
+   "team": "Bristol Rovers",
+   "gd": -15,
+   "pos": 17
+  },
+  {
+   "played": 46,
+   "won": 13,
+   "drawn": 10,
+   "lost": 23,
+   "gf": 48,
+   "ga": 71,
+   "points": 49,
+   "form": [
+    "L",
+    "L",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "Port Vale",
+   "gd": -23,
+   "pos": 18
+  },
+  {
+   "played": 46,
+   "won": 11,
+   "drawn": 14,
+   "lost": 21,
+   "gf": 49,
+   "ga": 56,
+   "points": 47,
+   "form": [
+    "D",
+    "L",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "Oxford United",
+   "gd": -7,
+   "pos": 19
+  },
+  {
+   "played": 46,
+   "won": 13,
+   "drawn": 7,
+   "lost": 26,
+   "gf": 41,
+   "ga": 68,
+   "points": 46,
+   "form": [
+    "L",
+    "L",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "Cambridge United",
+   "gd": -27,
+   "pos": 20
+  },
+  {
+   "played": 46,
+   "won": 11,
+   "drawn": 12,
+   "lost": 23,
+   "gf": 44,
+   "ga": 66,
+   "points": 45,
+   "form": [
+    "D",
+    "L",
+    "L",
+    "D",
+    "D"
+   ],
+   "team": "Milton Keynes Dons",
+   "gd": -22,
+   "pos": 21
+  },
+  {
+   "played": 46,
+   "won": 10,
+   "drawn": 14,
+   "lost": 22,
+   "gf": 47,
+   "ga": 78,
+   "points": 44,
+   "form": [
+    "D",
+    "W",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "Morecambe",
+   "gd": -31,
+   "pos": 22
+  },
+  {
+   "played": 46,
+   "won": 11,
+   "drawn": 11,
+   "lost": 24,
+   "gf": 40,
+   "ga": 77,
+   "points": 44,
+   "form": [
+    "L",
+    "L",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "Accrington Stanley",
+   "gd": -37,
+   "pos": 23
+  },
+  {
+   "played": 46,
+   "won": 6,
+   "drawn": 9,
+   "lost": 31,
+   "gf": 31,
+   "ga": 89,
+   "points": 27,
+   "form": [
+    "L",
+    "D",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Forest Green Rovers",
+   "gd": -58,
+   "pos": 24
+  }
+ ],
+ "2023/2024": [
+  {
+   "played": 46,
+   "won": 28,
+   "drawn": 13,
+   "lost": 5,
+   "gf": 78,
+   "ga": 41,
+   "points": 97,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "Portsmouth",
+   "gd": 37,
+   "pos": 1
+  },
+  {
+   "played": 46,
+   "won": 28,
+   "drawn": 8,
+   "lost": 10,
+   "gf": 78,
+   "ga": 37,
+   "points": 92,
+   "form": [
+    "D",
+    "D",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Derby County",
+   "gd": 41,
+   "pos": 2
+  },
+  {
+   "played": 46,
+   "won": 25,
+   "drawn": 12,
+   "lost": 9,
+   "gf": 86,
+   "ga": 51,
+   "points": 87,
+   "form": [
+    "W",
+    "D",
+    "D",
+    "W",
+    "D"
+   ],
+   "team": "Bolton Wanderers",
+   "gd": 35,
+   "pos": 3
+  },
+  {
+   "played": 46,
+   "won": 25,
+   "drawn": 9,
+   "lost": 12,
+   "gf": 89,
+   "ga": 61,
+   "points": 84,
+   "form": [
+    "L",
+    "W",
+    "W",
+    "L",
+    "D"
+   ],
+   "team": "Peterborough United",
+   "gd": 28,
+   "pos": 4
+  },
+  {
+   "played": 46,
+   "won": 22,
+   "drawn": 11,
+   "lost": 13,
+   "gf": 79,
+   "ga": 56,
+   "points": 77,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "D",
+    "W"
+   ],
+   "team": "Oxford United",
+   "gd": 23,
+   "pos": 5
+  },
+  {
+   "played": 46,
+   "won": 21,
+   "drawn": 13,
+   "lost": 12,
+   "gf": 82,
+   "ga": 64,
+   "points": 76,
+   "form": [
+    "L",
+    "D",
+    "L",
+    "L",
+    "D"
+   ],
+   "team": "Barnsley",
+   "gd": 18,
+   "pos": 6
+  },
+  {
+   "played": 46,
+   "won": 20,
+   "drawn": 14,
+   "lost": 12,
+   "gf": 65,
+   "ga": 40,
+   "points": 74,
+   "form": [
+    "D",
+    "L",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "Lincoln City",
+   "gd": 25,
+   "pos": 7
+  },
+  {
+   "played": 46,
+   "won": 21,
+   "drawn": 10,
+   "lost": 15,
+   "gf": 65,
+   "ga": 48,
+   "points": 73,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "Blackpool",
+   "gd": 17,
+   "pos": 8
+  },
+  {
+   "played": 46,
+   "won": 19,
+   "drawn": 14,
+   "lost": 13,
+   "gf": 57,
+   "ga": 46,
+   "points": 71,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "D",
+    "W"
+   ],
+   "team": "Stevenage",
+   "gd": 11,
+   "pos": 9
+  },
+  {
+   "played": 46,
+   "won": 20,
+   "drawn": 10,
+   "lost": 16,
+   "gf": 63,
+   "ga": 56,
+   "points": 70,
+   "form": [
+    "D",
+    "D",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Wigan Athletic",
+   "gd": 7,
+   "pos": 10
+  },
+  {
+   "played": 46,
+   "won": 17,
+   "drawn": 14,
+   "lost": 15,
+   "gf": 60,
+   "ga": 55,
+   "points": 65,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "D",
+    "W"
+   ],
+   "team": "Wycombe Wanderers",
+   "gd": 5,
+   "pos": 11
+  },
+  {
+   "played": 46,
+   "won": 18,
+   "drawn": 11,
+   "lost": 17,
+   "gf": 53,
+   "ga": 55,
+   "points": 65,
+   "form": [
+    "W",
+    "D",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "Leyton Orient",
+   "gd": -2,
+   "pos": 12
+  },
+  {
+   "played": 46,
+   "won": 17,
+   "drawn": 10,
+   "lost": 19,
+   "gf": 46,
+   "ga": 61,
+   "points": 61,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "Exeter City",
+   "gd": -15,
+   "pos": 13
+  },
+  {
+   "played": 46,
+   "won": 17,
+   "drawn": 9,
+   "lost": 20,
+   "gf": 57,
+   "ga": 66,
+   "points": 60,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "L",
+    "D"
+   ],
+   "team": "Northampton Town",
+   "gd": -9,
+   "pos": 14
+  },
+  {
+   "played": 46,
+   "won": 16,
+   "drawn": 11,
+   "lost": 19,
+   "gf": 68,
+   "ga": 70,
+   "points": 59,
+   "form": [
+    "D",
+    "W",
+    "D",
+    "L",
+    "W"
+   ],
+   "team": "Reading",
+   "gd": -2,
+   "pos": 15
+  },
+  {
+   "played": 46,
+   "won": 16,
+   "drawn": 9,
+   "lost": 21,
+   "gf": 52,
+   "ga": 68,
+   "points": 57,
+   "form": [
+    "L",
+    "W",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "Bristol Rovers",
+   "gd": -16,
+   "pos": 16
+  },
+  {
+   "played": 46,
+   "won": 11,
+   "drawn": 20,
+   "lost": 15,
+   "gf": 64,
+   "ga": 65,
+   "points": 53,
+   "form": [
+    "W",
+    "D",
+    "D",
+    "D",
+    "L"
+   ],
+   "team": "Charlton Athletic",
+   "gd": -1,
+   "pos": 17
+  },
+  {
+   "played": 46,
+   "won": 12,
+   "drawn": 12,
+   "lost": 22,
+   "gf": 39,
+   "ga": 61,
+   "points": 48,
+   "form": [
+    "D",
+    "L",
+    "L",
+    "D",
+    "D"
+   ],
+   "team": "Cambridge United",
+   "gd": -22,
+   "pos": 18
+  },
+  {
+   "played": 46,
+   "won": 13,
+   "drawn": 9,
+   "lost": 24,
+   "gf": 35,
+   "ga": 67,
+   "points": 48,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "D",
+    "L"
+   ],
+   "team": "Shrewsbury Town",
+   "gd": -32,
+   "pos": 19
+  },
+  {
+   "played": 46,
+   "won": 12,
+   "drawn": 10,
+   "lost": 24,
+   "gf": 39,
+   "ga": 67,
+   "points": 46,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Burton Albion",
+   "gd": -28,
+   "pos": 20
+  },
+  {
+   "played": 46,
+   "won": 12,
+   "drawn": 8,
+   "lost": 26,
+   "gf": 41,
+   "ga": 65,
+   "points": 44,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Cheltenham Town",
+   "gd": -24,
+   "pos": 21
+  },
+  {
+   "played": 46,
+   "won": 10,
+   "drawn": 13,
+   "lost": 23,
+   "gf": 49,
+   "ga": 72,
+   "points": 43,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "W",
+    "W"
+   ],
+   "team": "Fleetwood Town",
+   "gd": -23,
+   "pos": 22
+  },
+  {
+   "played": 46,
+   "won": 10,
+   "drawn": 11,
+   "lost": 25,
+   "gf": 41,
+   "ga": 74,
+   "points": 41,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "L",
+    "D"
+   ],
+   "team": "Port Vale",
+   "gd": -33,
+   "pos": 23
+  },
+  {
+   "played": 46,
+   "won": 7,
+   "drawn": 9,
+   "lost": 30,
+   "gf": 41,
+   "ga": 81,
+   "points": 30,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Carlisle United",
+   "gd": -40,
+   "pos": 24
+  }
+ ],
+ "2024/2025": [
+  {
+   "played": 46,
+   "won": 34,
+   "drawn": 9,
+   "lost": 3,
+   "gf": 84,
+   "ga": 31,
+   "points": 111,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Birmingham City",
+   "gd": 53,
+   "pos": 1
+  },
+  {
+   "played": 46,
+   "won": 27,
+   "drawn": 11,
+   "lost": 8,
+   "gf": 67,
+   "ga": 34,
+   "points": 92,
+   "form": [
+    "D",
+    "D",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Wrexham",
+   "gd": 33,
+   "pos": 2
+  },
+  {
+   "played": 46,
+   "won": 25,
+   "drawn": 12,
+   "lost": 9,
+   "gf": 72,
+   "ga": 42,
+   "points": 87,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Stockport County",
+   "gd": 30,
+   "pos": 3
+  },
+  {
+   "played": 46,
+   "won": 25,
+   "drawn": 10,
+   "lost": 11,
+   "gf": 67,
+   "ga": 43,
+   "points": 85,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "Charlton Athletic",
+   "gd": 24,
+   "pos": 4
+  },
+  {
+   "played": 46,
+   "won": 24,
+   "drawn": 12,
+   "lost": 10,
+   "gf": 70,
+   "ga": 45,
+   "points": 84,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Wycombe Wanderers",
+   "gd": 25,
+   "pos": 5
+  },
+  {
+   "played": 46,
+   "won": 24,
+   "drawn": 6,
+   "lost": 16,
+   "gf": 72,
+   "ga": 48,
+   "points": 78,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Leyton Orient",
+   "gd": 24,
+   "pos": 6
+  },
+  {
+   "played": 46,
+   "won": 21,
+   "drawn": 12,
+   "lost": 13,
+   "gf": 68,
+   "ga": 57,
+   "points": 75,
+   "form": [
+    "D",
+    "L",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "Reading",
+   "gd": 11,
+   "pos": 7
+  },
+  {
+   "played": 46,
+   "won": 20,
+   "drawn": 8,
+   "lost": 18,
+   "gf": 67,
+   "ga": 70,
+   "points": 68,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "D",
+    "D"
+   ],
+   "team": "Bolton Wanderers",
+   "gd": -3,
+   "pos": 8
+  },
+  {
+   "played": 46,
+   "won": 17,
+   "drawn": 16,
+   "lost": 13,
+   "gf": 72,
+   "ga": 60,
+   "points": 67,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "D",
+    "W"
+   ],
+   "team": "Blackpool",
+   "gd": 12,
+   "pos": 9
+  },
+  {
+   "played": 46,
+   "won": 19,
+   "drawn": 7,
+   "lost": 20,
+   "gf": 58,
+   "ga": 55,
+   "points": 64,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Huddersfield Town",
+   "gd": 3,
+   "pos": 10
+  },
+  {
+   "played": 46,
+   "won": 16,
+   "drawn": 13,
+   "lost": 17,
+   "gf": 64,
+   "ga": 56,
+   "points": 61,
+   "form": [
+    "D",
+    "W",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "Lincoln City",
+   "gd": 8,
+   "pos": 11
+  },
+  {
+   "played": 46,
+   "won": 17,
+   "drawn": 10,
+   "lost": 19,
+   "gf": 69,
+   "ga": 73,
+   "points": 61,
+   "form": [
+    "W",
+    "L",
+    "D",
+    "L",
+    "W"
+   ],
+   "team": "Barnsley",
+   "gd": -4,
+   "pos": 12
+  },
+  {
+   "played": 46,
+   "won": 16,
+   "drawn": 11,
+   "lost": 19,
+   "gf": 54,
+   "ga": 59,
+   "points": 59,
+   "form": [
+    "L",
+    "D",
+    "L",
+    "D",
+    "W"
+   ],
+   "team": "Rotherham United",
+   "gd": -5,
+   "pos": 13
+  },
+  {
+   "played": 46,
+   "won": 15,
+   "drawn": 12,
+   "lost": 19,
+   "gf": 42,
+   "ga": 50,
+   "points": 57,
+   "form": [
+    "L",
+    "L",
+    "W",
+    "D",
+    "D"
+   ],
+   "team": "Stevenage",
+   "gd": -8,
+   "pos": 14
+  },
+  {
+   "played": 46,
+   "won": 13,
+   "drawn": 17,
+   "lost": 16,
+   "gf": 40,
+   "ga": 42,
+   "points": 56,
+   "form": [
+    "D",
+    "W",
+    "W",
+    "D",
+    "D"
+   ],
+   "team": "Wigan Athletic",
+   "gd": -2,
+   "pos": 15
+  },
+  {
+   "played": 46,
+   "won": 15,
+   "drawn": 11,
+   "lost": 20,
+   "gf": 49,
+   "ga": 65,
+   "points": 56,
+   "form": [
+    "W",
+    "D",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Exeter City",
+   "gd": -16,
+   "pos": 16
+  },
+  {
+   "played": 46,
+   "won": 15,
+   "drawn": 9,
+   "lost": 22,
+   "gf": 60,
+   "ga": 73,
+   "points": 54,
+   "form": [
+    "W",
+    "D",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "Mansfield Town",
+   "gd": -13,
+   "pos": 17
+  },
+  {
+   "played": 46,
+   "won": 13,
+   "drawn": 12,
+   "lost": 21,
+   "gf": 68,
+   "ga": 81,
+   "points": 51,
+   "form": [
+    "L",
+    "D",
+    "D",
+    "D",
+    "L"
+   ],
+   "team": "Peterborough United",
+   "gd": -13,
+   "pos": 18
+  },
+  {
+   "played": 46,
+   "won": 12,
+   "drawn": 15,
+   "lost": 19,
+   "gf": 48,
+   "ga": 66,
+   "points": 51,
+   "form": [
+    "D",
+    "L",
+    "W",
+    "L",
+    "D"
+   ],
+   "team": "Northampton Town",
+   "gd": -18,
+   "pos": 19
+  },
+  {
+   "played": 46,
+   "won": 11,
+   "drawn": 14,
+   "lost": 21,
+   "gf": 49,
+   "ga": 66,
+   "points": 47,
+   "form": [
+    "W",
+    "D",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Burton Albion",
+   "gd": -17,
+   "pos": 20
+  },
+  {
+   "played": 46,
+   "won": 12,
+   "drawn": 10,
+   "lost": 24,
+   "gf": 57,
+   "ga": 83,
+   "points": 46,
+   "form": [
+    "L",
+    "D",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Crawley Town",
+   "gd": -26,
+   "pos": 21
+  },
+  {
+   "played": 46,
+   "won": 12,
+   "drawn": 7,
+   "lost": 27,
+   "gf": 44,
+   "ga": 76,
+   "points": 43,
+   "form": [
+    "L",
+    "D",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Bristol Rovers",
+   "gd": -32,
+   "pos": 22
+  },
+  {
+   "played": 46,
+   "won": 9,
+   "drawn": 11,
+   "lost": 26,
+   "gf": 45,
+   "ga": 73,
+   "points": 38,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Cambridge United",
+   "gd": -28,
+   "pos": 23
+  },
+  {
+   "played": 46,
+   "won": 8,
+   "drawn": 9,
+   "lost": 29,
+   "gf": 41,
+   "ga": 79,
+   "points": 33,
+   "form": [
+    "D",
+    "L",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Shrewsbury Town",
+   "gd": -38,
+   "pos": 24
+  }
+ ],
+ "2025/2026": [
+  {
+   "played": 30,
+   "won": 21,
+   "drawn": 6,
+   "lost": 3,
+   "gf": 58,
+   "ga": 18,
+   "points": 69,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "D",
+    "W"
+   ],
+   "team": "Cardiff City",
+   "gd": 40,
+   "pos": 1
+  },
+  {
+   "played": 31,
+   "won": 19,
+   "drawn": 8,
+   "lost": 4,
+   "gf": 44,
+   "ga": 24,
+   "points": 65,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "W",
+    "D"
+   ],
+   "team": "Stockport County",
+   "gd": 20,
+   "pos": 2
+  },
+  {
+   "played": 31,
+   "won": 17,
+   "drawn": 10,
+   "lost": 4,
+   "gf": 44,
+   "ga": 27,
+   "points": 61,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Bolton Wanderers",
+   "gd": 17,
+   "pos": 3
+  },
+  {
+   "played": 30,
+   "won": 16,
+   "drawn": 5,
+   "lost": 9,
+   "gf": 44,
+   "ga": 33,
+   "points": 53,
+   "form": [
+    "L",
+    "W",
+    "W",
+    "W",
+    "D"
+   ],
+   "team": "Huddersfield Town",
+   "gd": 11,
+   "pos": 4
+  },
+  {
+   "played": 29,
+   "won": 16,
+   "drawn": 4,
+   "lost": 9,
+   "gf": 39,
+   "ga": 29,
+   "points": 52,
+   "form": [
+    "D",
+    "L",
+    "L",
+    "W",
+    "W"
+   ],
+   "team": "Luton Town",
+   "gd": 10,
+   "pos": 5
+  },
+  {
+   "played": 30,
+   "won": 14,
+   "drawn": 8,
+   "lost": 8,
+   "gf": 44,
+   "ga": 28,
+   "points": 50,
+   "form": [
+    "D",
+    "W",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Lincoln City",
+   "gd": 16,
+   "pos": 6
+  },
+  {
+   "played": 30,
+   "won": 14,
+   "drawn": 7,
+   "lost": 9,
+   "gf": 41,
+   "ga": 28,
+   "points": 49,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "D",
+    "W"
+   ],
+   "team": "Wycombe Wanderers",
+   "gd": 13,
+   "pos": 7
+  },
+  {
+   "played": 30,
+   "won": 12,
+   "drawn": 10,
+   "lost": 8,
+   "gf": 34,
+   "ga": 33,
+   "points": 46,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Bradford City",
+   "gd": 1,
+   "pos": 8
+  },
+  {
+   "played": 30,
+   "won": 14,
+   "drawn": 3,
+   "lost": 13,
+   "gf": 33,
+   "ga": 34,
+   "points": 45,
+   "form": [
+    "L",
+    "D",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "AFC Wimbledon",
+   "gd": -1,
+   "pos": 9
+  },
+  {
+   "played": 30,
+   "won": 14,
+   "drawn": 2,
+   "lost": 14,
+   "gf": 53,
+   "ga": 47,
+   "points": 44,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "Peterborough United",
+   "gd": 6,
+   "pos": 10
+  },
+  {
+   "played": 27,
+   "won": 12,
+   "drawn": 7,
+   "lost": 8,
+   "gf": 44,
+   "ga": 39,
+   "points": 43,
+   "form": [
+    "W",
+    "D",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Barnsley",
+   "gd": 5,
+   "pos": 11
+  },
+  {
+   "played": 30,
+   "won": 12,
+   "drawn": 7,
+   "lost": 11,
+   "gf": 36,
+   "ga": 34,
+   "points": 43,
+   "form": [
+    "L",
+    "D",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Wigan Athletic",
+   "gd": 2,
+   "pos": 12
+  },
+  {
+   "played": 28,
+   "won": 12,
+   "drawn": 5,
+   "lost": 11,
+   "gf": 33,
+   "ga": 33,
+   "points": 41,
+   "form": [
+    "L",
+    "D",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "Rotherham United",
+   "gd": 0,
+   "pos": 13
+  },
+  {
+   "played": 28,
+   "won": 11,
+   "drawn": 5,
+   "lost": 12,
+   "gf": 29,
+   "ga": 36,
+   "points": 38,
+   "form": [
+    "L",
+    "D",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "Stevenage",
+   "gd": -7,
+   "pos": 14
+  },
+  {
+   "played": 30,
+   "won": 10,
+   "drawn": 6,
+   "lost": 14,
+   "gf": 31,
+   "ga": 35,
+   "points": 36,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "L",
+    "D"
+   ],
+   "team": "Exeter City",
+   "gd": -4,
+   "pos": 15
+  },
+  {
+   "played": 30,
+   "won": 8,
+   "drawn": 11,
+   "lost": 11,
+   "gf": 37,
+   "ga": 41,
+   "points": 35,
+   "form": [
+    "L",
+    "D",
+    "D",
+    "W",
+    "L"
+   ],
+   "team": "Reading",
+   "gd": -4,
+   "pos": 16
+  },
+  {
+   "played": 30,
+   "won": 10,
+   "drawn": 5,
+   "lost": 15,
+   "gf": 34,
+   "ga": 43,
+   "points": 35,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "L",
+    "L"
+   ],
+   "team": "Plymouth Argyle",
+   "gd": -9,
+   "pos": 17
+  },
+  {
+   "played": 29,
+   "won": 8,
+   "drawn": 9,
+   "lost": 12,
+   "gf": 34,
+   "ga": 38,
+   "points": 33,
+   "form": [
+    "W",
+    "D",
+    "D",
+    "D",
+    "D"
+   ],
+   "team": "Mansfield Town",
+   "gd": -4,
+   "pos": 18
+  },
+  {
+   "played": 30,
+   "won": 8,
+   "drawn": 5,
+   "lost": 17,
+   "gf": 30,
+   "ga": 46,
+   "points": 29,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "L",
+    "D"
+   ],
+   "team": "Blackpool",
+   "gd": -16,
+   "pos": 19
+  },
+  {
+   "played": 30,
+   "won": 8,
+   "drawn": 5,
+   "lost": 17,
+   "gf": 26,
+   "ga": 50,
+   "points": 29,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "Doncaster Rovers",
+   "gd": -24,
+   "pos": 20
+  },
+  {
+   "played": 30,
+   "won": 6,
+   "drawn": 7,
+   "lost": 17,
+   "gf": 36,
+   "ga": 53,
+   "points": 25,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "L",
+    "D"
+   ],
+   "team": "Leyton Orient",
+   "gd": -17,
+   "pos": 21
+  },
+  {
+   "played": 30,
+   "won": 6,
+   "drawn": 7,
+   "lost": 17,
+   "gf": 20,
+   "ga": 37,
+   "points": 25,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "Northampton Town",
+   "gd": -17,
+   "pos": 22
+  },
+  {
+   "played": 29,
+   "won": 5,
+   "drawn": 7,
+   "lost": 17,
+   "gf": 22,
+   "ga": 39,
+   "points": 22,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "W",
+    "D"
+   ],
+   "team": "Port Vale",
+   "gd": -17,
+   "pos": 23
+  },
+  {
+   "played": 30,
+   "won": 5,
+   "drawn": 7,
+   "lost": 18,
+   "gf": 27,
+   "ga": 48,
+   "points": 22,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "D",
+    "D"
+   ],
+   "team": "Burton Albion",
+   "gd": -21,
+   "pos": 24
+  }
+ ]
+}

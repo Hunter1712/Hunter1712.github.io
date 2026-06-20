@@ -1,0 +1,5506 @@
+{
+ "2010/2011": [
+  {
+   "played": 34,
+   "won": 23,
+   "drawn": 6,
+   "lost": 5,
+   "gf": 67,
+   "ga": 22,
+   "points": 75,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "Borussia Dortmund",
+   "gd": 45,
+   "pos": 1
+  },
+  {
+   "played": 34,
+   "won": 20,
+   "drawn": 8,
+   "lost": 6,
+   "gf": 64,
+   "ga": 44,
+   "points": 68,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "D",
+    "W"
+   ],
+   "team": "Bayer Leverkusen",
+   "gd": 20,
+   "pos": 2
+  },
+  {
+   "played": 34,
+   "won": 19,
+   "drawn": 8,
+   "lost": 7,
+   "gf": 81,
+   "ga": 40,
+   "points": 65,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Bayern München",
+   "gd": 41,
+   "pos": 3
+  },
+  {
+   "played": 34,
+   "won": 19,
+   "drawn": 3,
+   "lost": 12,
+   "gf": 49,
+   "ga": 45,
+   "points": 60,
+   "form": [
+    "D",
+    "W",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "Hannover 96",
+   "gd": 4,
+   "pos": 4
+  },
+  {
+   "played": 34,
+   "won": 18,
+   "drawn": 4,
+   "lost": 12,
+   "gf": 52,
+   "ga": 39,
+   "points": 58,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "1. FSV Mainz 05",
+   "gd": 13,
+   "pos": 5
+  },
+  {
+   "played": 34,
+   "won": 13,
+   "drawn": 8,
+   "lost": 13,
+   "gf": 47,
+   "ga": 45,
+   "points": 47,
+   "form": [
+    "W",
+    "D",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "1. FC Nürnberg",
+   "gd": 2,
+   "pos": 6
+  },
+  {
+   "played": 34,
+   "won": 13,
+   "drawn": 7,
+   "lost": 14,
+   "gf": 48,
+   "ga": 51,
+   "points": 46,
+   "form": [
+    "L",
+    "W",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "1. FC Kaiserslautern",
+   "gd": -3,
+   "pos": 7
+  },
+  {
+   "played": 34,
+   "won": 12,
+   "drawn": 9,
+   "lost": 13,
+   "gf": 46,
+   "ga": 52,
+   "points": 45,
+   "form": [
+    "D",
+    "L",
+    "L",
+    "D",
+    "D"
+   ],
+   "team": "Hamburger SV",
+   "gd": -6,
+   "pos": 8
+  },
+  {
+   "played": 34,
+   "won": 13,
+   "drawn": 5,
+   "lost": 16,
+   "gf": 41,
+   "ga": 50,
+   "points": 44,
+   "form": [
+    "L",
+    "L",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "SC Freiburg",
+   "gd": -9,
+   "pos": 9
+  },
+  {
+   "played": 34,
+   "won": 13,
+   "drawn": 5,
+   "lost": 16,
+   "gf": 47,
+   "ga": 62,
+   "points": 44,
+   "form": [
+    "L",
+    "L",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "1. FC Köln",
+   "gd": -15,
+   "pos": 10
+  },
+  {
+   "played": 34,
+   "won": 11,
+   "drawn": 10,
+   "lost": 13,
+   "gf": 50,
+   "ga": 50,
+   "points": 43,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "1899 Hoffenheim",
+   "gd": 0,
+   "pos": 11
+  },
+  {
+   "played": 34,
+   "won": 12,
+   "drawn": 6,
+   "lost": 16,
+   "gf": 60,
+   "ga": 59,
+   "points": 42,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "VfB Stuttgart",
+   "gd": 1,
+   "pos": 12
+  },
+  {
+   "played": 34,
+   "won": 10,
+   "drawn": 11,
+   "lost": 13,
+   "gf": 47,
+   "ga": 61,
+   "points": 41,
+   "form": [
+    "D",
+    "W",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Werder Bremen",
+   "gd": -14,
+   "pos": 13
+  },
+  {
+   "played": 34,
+   "won": 11,
+   "drawn": 7,
+   "lost": 16,
+   "gf": 38,
+   "ga": 44,
+   "points": 40,
+   "form": [
+    "D",
+    "L",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "FC Schalke 04",
+   "gd": -6,
+   "pos": 14
+  },
+  {
+   "played": 34,
+   "won": 9,
+   "drawn": 11,
+   "lost": 14,
+   "gf": 43,
+   "ga": 48,
+   "points": 38,
+   "form": [
+    "D",
+    "W",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "VfL Wolfsburg",
+   "gd": -5,
+   "pos": 15
+  },
+  {
+   "played": 34,
+   "won": 10,
+   "drawn": 6,
+   "lost": 18,
+   "gf": 48,
+   "ga": 65,
+   "points": 36,
+   "form": [
+    "L",
+    "W",
+    "W",
+    "W",
+    "D"
+   ],
+   "team": "Borussia Mönchengladbach",
+   "gd": -17,
+   "pos": 16
+  },
+  {
+   "played": 34,
+   "won": 9,
+   "drawn": 7,
+   "lost": 18,
+   "gf": 31,
+   "ga": 49,
+   "points": 34,
+   "form": [
+    "L",
+    "D",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Eintracht Frankfurt",
+   "gd": -18,
+   "pos": 17
+  },
+  {
+   "played": 34,
+   "won": 8,
+   "drawn": 5,
+   "lost": 21,
+   "gf": 35,
+   "ga": 68,
+   "points": 29,
+   "form": [
+    "D",
+    "L",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "FC St. Pauli",
+   "gd": -33,
+   "pos": 18
+  }
+ ],
+ "2011/2012": [
+  {
+   "played": 34,
+   "won": 25,
+   "drawn": 6,
+   "lost": 3,
+   "gf": 80,
+   "ga": 25,
+   "points": 81,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Borussia Dortmund",
+   "gd": 55,
+   "pos": 1
+  },
+  {
+   "played": 34,
+   "won": 23,
+   "drawn": 4,
+   "lost": 7,
+   "gf": 77,
+   "ga": 22,
+   "points": 73,
+   "form": [
+    "L",
+    "D",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Bayern München",
+   "gd": 55,
+   "pos": 2
+  },
+  {
+   "played": 34,
+   "won": 20,
+   "drawn": 4,
+   "lost": 10,
+   "gf": 74,
+   "ga": 44,
+   "points": 64,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "W",
+    "W"
+   ],
+   "team": "FC Schalke 04",
+   "gd": 30,
+   "pos": 3
+  },
+  {
+   "played": 34,
+   "won": 17,
+   "drawn": 9,
+   "lost": 8,
+   "gf": 49,
+   "ga": 24,
+   "points": 60,
+   "form": [
+    "D",
+    "W",
+    "L",
+    "D",
+    "W"
+   ],
+   "team": "Borussia Mönchengladbach",
+   "gd": 25,
+   "pos": 4
+  },
+  {
+   "played": 34,
+   "won": 15,
+   "drawn": 9,
+   "lost": 10,
+   "gf": 52,
+   "ga": 44,
+   "points": 54,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Bayer Leverkusen",
+   "gd": 8,
+   "pos": 5
+  },
+  {
+   "played": 34,
+   "won": 15,
+   "drawn": 8,
+   "lost": 11,
+   "gf": 63,
+   "ga": 46,
+   "points": 53,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "L",
+    "W"
+   ],
+   "team": "VfB Stuttgart",
+   "gd": 17,
+   "pos": 6
+  },
+  {
+   "played": 34,
+   "won": 12,
+   "drawn": 12,
+   "lost": 10,
+   "gf": 41,
+   "ga": 45,
+   "points": 48,
+   "form": [
+    "W",
+    "L",
+    "D",
+    "L",
+    "W"
+   ],
+   "team": "Hannover 96",
+   "gd": -4,
+   "pos": 7
+  },
+  {
+   "played": 34,
+   "won": 13,
+   "drawn": 5,
+   "lost": 16,
+   "gf": 47,
+   "ga": 60,
+   "points": 44,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "W",
+    "L"
+   ],
+   "team": "VfL Wolfsburg",
+   "gd": -13,
+   "pos": 8
+  },
+  {
+   "played": 34,
+   "won": 11,
+   "drawn": 9,
+   "lost": 14,
+   "gf": 49,
+   "ga": 58,
+   "points": 42,
+   "form": [
+    "D",
+    "L",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Werder Bremen",
+   "gd": -9,
+   "pos": 9
+  },
+  {
+   "played": 34,
+   "won": 12,
+   "drawn": 6,
+   "lost": 16,
+   "gf": 38,
+   "ga": 49,
+   "points": 42,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "W",
+    "L"
+   ],
+   "team": "1. FC Nürnberg",
+   "gd": -11,
+   "pos": 10
+  },
+  {
+   "played": 34,
+   "won": 10,
+   "drawn": 11,
+   "lost": 13,
+   "gf": 41,
+   "ga": 47,
+   "points": 41,
+   "form": [
+    "W",
+    "D",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "1899 Hoffenheim",
+   "gd": -6,
+   "pos": 11
+  },
+  {
+   "played": 34,
+   "won": 10,
+   "drawn": 10,
+   "lost": 14,
+   "gf": 45,
+   "ga": 61,
+   "points": 40,
+   "form": [
+    "W",
+    "D",
+    "D",
+    "W",
+    "L"
+   ],
+   "team": "SC Freiburg",
+   "gd": -16,
+   "pos": 12
+  },
+  {
+   "played": 34,
+   "won": 9,
+   "drawn": 12,
+   "lost": 13,
+   "gf": 47,
+   "ga": 51,
+   "points": 39,
+   "form": [
+    "W",
+    "D",
+    "D",
+    "D",
+    "L"
+   ],
+   "team": "1. FSV Mainz 05",
+   "gd": -4,
+   "pos": 13
+  },
+  {
+   "played": 34,
+   "won": 8,
+   "drawn": 14,
+   "lost": 12,
+   "gf": 36,
+   "ga": 49,
+   "points": 38,
+   "form": [
+    "L",
+    "W",
+    "D",
+    "D",
+    "W"
+   ],
+   "team": "FC Augsburg",
+   "gd": -13,
+   "pos": 14
+  },
+  {
+   "played": 34,
+   "won": 8,
+   "drawn": 12,
+   "lost": 14,
+   "gf": 35,
+   "ga": 57,
+   "points": 36,
+   "form": [
+    "L",
+    "W",
+    "D",
+    "D",
+    "L"
+   ],
+   "team": "Hamburger SV",
+   "gd": -22,
+   "pos": 15
+  },
+  {
+   "played": 34,
+   "won": 7,
+   "drawn": 10,
+   "lost": 17,
+   "gf": 38,
+   "ga": 64,
+   "points": 31,
+   "form": [
+    "L",
+    "D",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "Hertha BSC",
+   "gd": -26,
+   "pos": 16
+  },
+  {
+   "played": 34,
+   "won": 8,
+   "drawn": 6,
+   "lost": 20,
+   "gf": 39,
+   "ga": 75,
+   "points": 30,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "L",
+    "L"
+   ],
+   "team": "1. FC Köln",
+   "gd": -36,
+   "pos": 17
+  },
+  {
+   "played": 34,
+   "won": 4,
+   "drawn": 11,
+   "lost": 19,
+   "gf": 24,
+   "ga": 54,
+   "points": 23,
+   "form": [
+    "L",
+    "L",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "1. FC Kaiserslautern",
+   "gd": -30,
+   "pos": 18
+  }
+ ],
+ "2012/2013": [
+  {
+   "played": 34,
+   "won": 29,
+   "drawn": 4,
+   "lost": 1,
+   "gf": 98,
+   "ga": 18,
+   "points": 91,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "W",
+    "W"
+   ],
+   "team": "Bayern München",
+   "gd": 80,
+   "pos": 1
+  },
+  {
+   "played": 34,
+   "won": 19,
+   "drawn": 9,
+   "lost": 6,
+   "gf": 81,
+   "ga": 42,
+   "points": 66,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "D",
+    "L"
+   ],
+   "team": "Borussia Dortmund",
+   "gd": 39,
+   "pos": 2
+  },
+  {
+   "played": 34,
+   "won": 19,
+   "drawn": 8,
+   "lost": 7,
+   "gf": 65,
+   "ga": 39,
+   "points": 65,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Bayer Leverkusen",
+   "gd": 26,
+   "pos": 3
+  },
+  {
+   "played": 34,
+   "won": 16,
+   "drawn": 7,
+   "lost": 11,
+   "gf": 58,
+   "ga": 50,
+   "points": 55,
+   "form": [
+    "L",
+    "W",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "FC Schalke 04",
+   "gd": 8,
+   "pos": 4
+  },
+  {
+   "played": 34,
+   "won": 14,
+   "drawn": 9,
+   "lost": 11,
+   "gf": 45,
+   "ga": 40,
+   "points": 51,
+   "form": [
+    "L",
+    "L",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "SC Freiburg",
+   "gd": 5,
+   "pos": 5
+  },
+  {
+   "played": 34,
+   "won": 14,
+   "drawn": 9,
+   "lost": 11,
+   "gf": 49,
+   "ga": 46,
+   "points": 51,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "D",
+    "D"
+   ],
+   "team": "Eintracht Frankfurt",
+   "gd": 3,
+   "pos": 6
+  },
+  {
+   "played": 34,
+   "won": 14,
+   "drawn": 6,
+   "lost": 14,
+   "gf": 42,
+   "ga": 53,
+   "points": 48,
+   "form": [
+    "W",
+    "L",
+    "D",
+    "W",
+    "L"
+   ],
+   "team": "Hamburger SV",
+   "gd": -11,
+   "pos": 7
+  },
+  {
+   "played": 34,
+   "won": 12,
+   "drawn": 11,
+   "lost": 11,
+   "gf": 45,
+   "ga": 49,
+   "points": 47,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Borussia Mönchengladbach",
+   "gd": -4,
+   "pos": 8
+  },
+  {
+   "played": 34,
+   "won": 13,
+   "drawn": 6,
+   "lost": 15,
+   "gf": 60,
+   "ga": 62,
+   "points": 45,
+   "form": [
+    "L",
+    "W",
+    "D",
+    "L",
+    "W"
+   ],
+   "team": "Hannover 96",
+   "gd": -2,
+   "pos": 9
+  },
+  {
+   "played": 34,
+   "won": 11,
+   "drawn": 11,
+   "lost": 12,
+   "gf": 39,
+   "ga": 47,
+   "points": 44,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "W",
+    "W"
+   ],
+   "team": "1. FC Nürnberg",
+   "gd": -8,
+   "pos": 10
+  },
+  {
+   "played": 34,
+   "won": 10,
+   "drawn": 13,
+   "lost": 11,
+   "gf": 47,
+   "ga": 52,
+   "points": 43,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "D",
+    "D"
+   ],
+   "team": "VfL Wolfsburg",
+   "gd": -5,
+   "pos": 11
+  },
+  {
+   "played": 34,
+   "won": 12,
+   "drawn": 7,
+   "lost": 15,
+   "gf": 37,
+   "ga": 55,
+   "points": 43,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "W",
+    "D"
+   ],
+   "team": "VfB Stuttgart",
+   "gd": -18,
+   "pos": 12
+  },
+  {
+   "played": 34,
+   "won": 10,
+   "drawn": 12,
+   "lost": 12,
+   "gf": 42,
+   "ga": 44,
+   "points": 42,
+   "form": [
+    "L",
+    "D",
+    "D",
+    "L",
+    "D"
+   ],
+   "team": "1. FSV Mainz 05",
+   "gd": -2,
+   "pos": 13
+  },
+  {
+   "played": 34,
+   "won": 8,
+   "drawn": 10,
+   "lost": 16,
+   "gf": 50,
+   "ga": 66,
+   "points": 34,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "D",
+    "L"
+   ],
+   "team": "Werder Bremen",
+   "gd": -16,
+   "pos": 14
+  },
+  {
+   "played": 34,
+   "won": 8,
+   "drawn": 9,
+   "lost": 17,
+   "gf": 33,
+   "ga": 51,
+   "points": 33,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "FC Augsburg",
+   "gd": -18,
+   "pos": 15
+  },
+  {
+   "played": 34,
+   "won": 8,
+   "drawn": 7,
+   "lost": 19,
+   "gf": 42,
+   "ga": 67,
+   "points": 31,
+   "form": [
+    "L",
+    "W",
+    "D",
+    "L",
+    "W"
+   ],
+   "team": "1899 Hoffenheim",
+   "gd": -25,
+   "pos": 16
+  },
+  {
+   "played": 34,
+   "won": 7,
+   "drawn": 9,
+   "lost": 18,
+   "gf": 39,
+   "ga": 57,
+   "points": 30,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Fortuna Düsseldorf",
+   "gd": -18,
+   "pos": 17
+  },
+  {
+   "played": 34,
+   "won": 4,
+   "drawn": 9,
+   "lost": 21,
+   "gf": 26,
+   "ga": 60,
+   "points": 21,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "SpVgg Greuther Fürth",
+   "gd": -34,
+   "pos": 18
+  }
+ ],
+ "2013/2014": [
+  {
+   "played": 34,
+   "won": 29,
+   "drawn": 3,
+   "lost": 2,
+   "gf": 94,
+   "ga": 23,
+   "points": 90,
+   "form": [
+    "L",
+    "W",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Bayern München",
+   "gd": 71,
+   "pos": 1
+  },
+  {
+   "played": 34,
+   "won": 22,
+   "drawn": 5,
+   "lost": 7,
+   "gf": 80,
+   "ga": 38,
+   "points": 71,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "W",
+    "W"
+   ],
+   "team": "Borussia Dortmund",
+   "gd": 42,
+   "pos": 2
+  },
+  {
+   "played": 34,
+   "won": 19,
+   "drawn": 7,
+   "lost": 8,
+   "gf": 63,
+   "ga": 43,
+   "points": 64,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "W",
+    "W"
+   ],
+   "team": "FC Schalke 04",
+   "gd": 20,
+   "pos": 3
+  },
+  {
+   "played": 34,
+   "won": 19,
+   "drawn": 4,
+   "lost": 11,
+   "gf": 60,
+   "ga": 41,
+   "points": 61,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "W",
+    "W"
+   ],
+   "team": "Bayer Leverkusen",
+   "gd": 19,
+   "pos": 4
+  },
+  {
+   "played": 34,
+   "won": 18,
+   "drawn": 6,
+   "lost": 10,
+   "gf": 63,
+   "ga": 50,
+   "points": 60,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "W",
+    "W"
+   ],
+   "team": "VfL Wolfsburg",
+   "gd": 13,
+   "pos": 5
+  },
+  {
+   "played": 34,
+   "won": 16,
+   "drawn": 7,
+   "lost": 11,
+   "gf": 59,
+   "ga": 43,
+   "points": 55,
+   "form": [
+    "D",
+    "L",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "Borussia Mönchengladbach",
+   "gd": 16,
+   "pos": 6
+  },
+  {
+   "played": 34,
+   "won": 16,
+   "drawn": 5,
+   "lost": 13,
+   "gf": 52,
+   "ga": 54,
+   "points": 53,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "1. FSV Mainz 05",
+   "gd": -2,
+   "pos": 7
+  },
+  {
+   "played": 34,
+   "won": 15,
+   "drawn": 7,
+   "lost": 12,
+   "gf": 47,
+   "ga": 47,
+   "points": 52,
+   "form": [
+    "L",
+    "D",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "FC Augsburg",
+   "gd": 0,
+   "pos": 8
+  },
+  {
+   "played": 34,
+   "won": 11,
+   "drawn": 11,
+   "lost": 12,
+   "gf": 72,
+   "ga": 70,
+   "points": 44,
+   "form": [
+    "W",
+    "L",
+    "D",
+    "L",
+    "W"
+   ],
+   "team": "1899 Hoffenheim",
+   "gd": 2,
+   "pos": 9
+  },
+  {
+   "played": 34,
+   "won": 12,
+   "drawn": 6,
+   "lost": 16,
+   "gf": 46,
+   "ga": 59,
+   "points": 42,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "W",
+    "W"
+   ],
+   "team": "Hannover 96",
+   "gd": -13,
+   "pos": 10
+  },
+  {
+   "played": 34,
+   "won": 11,
+   "drawn": 8,
+   "lost": 15,
+   "gf": 40,
+   "ga": 48,
+   "points": 41,
+   "form": [
+    "L",
+    "D",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "Hertha BSC",
+   "gd": -8,
+   "pos": 11
+  },
+  {
+   "played": 34,
+   "won": 10,
+   "drawn": 9,
+   "lost": 15,
+   "gf": 42,
+   "ga": 66,
+   "points": 39,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Werder Bremen",
+   "gd": -24,
+   "pos": 12
+  },
+  {
+   "played": 34,
+   "won": 9,
+   "drawn": 9,
+   "lost": 16,
+   "gf": 40,
+   "ga": 57,
+   "points": 36,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "L",
+    "L"
+   ],
+   "team": "Eintracht Frankfurt",
+   "gd": -17,
+   "pos": 13
+  },
+  {
+   "played": 34,
+   "won": 9,
+   "drawn": 9,
+   "lost": 16,
+   "gf": 43,
+   "ga": 61,
+   "points": 36,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "L",
+    "L"
+   ],
+   "team": "SC Freiburg",
+   "gd": -18,
+   "pos": 14
+  },
+  {
+   "played": 34,
+   "won": 8,
+   "drawn": 8,
+   "lost": 18,
+   "gf": 49,
+   "ga": 62,
+   "points": 32,
+   "form": [
+    "D",
+    "W",
+    "D",
+    "L",
+    "L"
+   ],
+   "team": "VfB Stuttgart",
+   "gd": -13,
+   "pos": 15
+  },
+  {
+   "played": 34,
+   "won": 7,
+   "drawn": 6,
+   "lost": 21,
+   "gf": 51,
+   "ga": 75,
+   "points": 27,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Hamburger SV",
+   "gd": -24,
+   "pos": 16
+  },
+  {
+   "played": 34,
+   "won": 5,
+   "drawn": 11,
+   "lost": 18,
+   "gf": 37,
+   "ga": 70,
+   "points": 26,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "1. FC Nürnberg",
+   "gd": -33,
+   "pos": 17
+  },
+  {
+   "played": 34,
+   "won": 6,
+   "drawn": 7,
+   "lost": 21,
+   "gf": 29,
+   "ga": 60,
+   "points": 25,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Eintracht Braunschweig",
+   "gd": -31,
+   "pos": 18
+  }
+ ],
+ "2014/2015": [
+  {
+   "played": 34,
+   "won": 25,
+   "drawn": 4,
+   "lost": 5,
+   "gf": 80,
+   "ga": 18,
+   "points": 79,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "Bayern München",
+   "gd": 62,
+   "pos": 1
+  },
+  {
+   "played": 34,
+   "won": 20,
+   "drawn": 9,
+   "lost": 5,
+   "gf": 72,
+   "ga": 38,
+   "points": 69,
+   "form": [
+    "L",
+    "D",
+    "W",
+    "W",
+    "D"
+   ],
+   "team": "VfL Wolfsburg",
+   "gd": 34,
+   "pos": 2
+  },
+  {
+   "played": 34,
+   "won": 19,
+   "drawn": 9,
+   "lost": 6,
+   "gf": 53,
+   "ga": 26,
+   "points": 66,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "Borussia Mönchengladbach",
+   "gd": 27,
+   "pos": 3
+  },
+  {
+   "played": 34,
+   "won": 17,
+   "drawn": 10,
+   "lost": 7,
+   "gf": 62,
+   "ga": 37,
+   "points": 61,
+   "form": [
+    "D",
+    "W",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Bayer Leverkusen",
+   "gd": 25,
+   "pos": 4
+  },
+  {
+   "played": 34,
+   "won": 15,
+   "drawn": 4,
+   "lost": 15,
+   "gf": 43,
+   "ga": 43,
+   "points": 49,
+   "form": [
+    "L",
+    "D",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "FC Augsburg",
+   "gd": 0,
+   "pos": 5
+  },
+  {
+   "played": 34,
+   "won": 13,
+   "drawn": 9,
+   "lost": 12,
+   "gf": 42,
+   "ga": 40,
+   "points": 48,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "FC Schalke 04",
+   "gd": 2,
+   "pos": 6
+  },
+  {
+   "played": 34,
+   "won": 13,
+   "drawn": 7,
+   "lost": 14,
+   "gf": 47,
+   "ga": 42,
+   "points": 46,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "Borussia Dortmund",
+   "gd": 5,
+   "pos": 7
+  },
+  {
+   "played": 34,
+   "won": 12,
+   "drawn": 8,
+   "lost": 14,
+   "gf": 49,
+   "ga": 55,
+   "points": 44,
+   "form": [
+    "W",
+    "D",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "1899 Hoffenheim",
+   "gd": -6,
+   "pos": 8
+  },
+  {
+   "played": 34,
+   "won": 11,
+   "drawn": 10,
+   "lost": 13,
+   "gf": 56,
+   "ga": 62,
+   "points": 43,
+   "form": [
+    "L",
+    "L",
+    "W",
+    "D",
+    "W"
+   ],
+   "team": "Eintracht Frankfurt",
+   "gd": -6,
+   "pos": 9
+  },
+  {
+   "played": 34,
+   "won": 11,
+   "drawn": 10,
+   "lost": 13,
+   "gf": 50,
+   "ga": 65,
+   "points": 43,
+   "form": [
+    "D",
+    "W",
+    "D",
+    "L",
+    "L"
+   ],
+   "team": "Werder Bremen",
+   "gd": -15,
+   "pos": 10
+  },
+  {
+   "played": 34,
+   "won": 9,
+   "drawn": 13,
+   "lost": 12,
+   "gf": 45,
+   "ga": 47,
+   "points": 40,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "1. FSV Mainz 05",
+   "gd": -2,
+   "pos": 11
+  },
+  {
+   "played": 34,
+   "won": 9,
+   "drawn": 13,
+   "lost": 12,
+   "gf": 34,
+   "ga": 40,
+   "points": 40,
+   "form": [
+    "D",
+    "D",
+    "W",
+    "L",
+    "D"
+   ],
+   "team": "1. FC Köln",
+   "gd": -6,
+   "pos": 12
+  },
+  {
+   "played": 34,
+   "won": 9,
+   "drawn": 10,
+   "lost": 15,
+   "gf": 40,
+   "ga": 56,
+   "points": 37,
+   "form": [
+    "L",
+    "D",
+    "D",
+    "W",
+    "W"
+   ],
+   "team": "Hannover 96",
+   "gd": -16,
+   "pos": 13
+  },
+  {
+   "played": 34,
+   "won": 9,
+   "drawn": 9,
+   "lost": 16,
+   "gf": 42,
+   "ga": 60,
+   "points": 36,
+   "form": [
+    "D",
+    "L",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "VfB Stuttgart",
+   "gd": -18,
+   "pos": 14
+  },
+  {
+   "played": 34,
+   "won": 9,
+   "drawn": 8,
+   "lost": 17,
+   "gf": 36,
+   "ga": 52,
+   "points": 35,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "D",
+    "L"
+   ],
+   "team": "Hertha BSC",
+   "gd": -16,
+   "pos": 15
+  },
+  {
+   "played": 34,
+   "won": 9,
+   "drawn": 8,
+   "lost": 17,
+   "gf": 25,
+   "ga": 50,
+   "points": 35,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "L",
+    "W"
+   ],
+   "team": "Hamburger SV",
+   "gd": -25,
+   "pos": 16
+  },
+  {
+   "played": 34,
+   "won": 7,
+   "drawn": 13,
+   "lost": 14,
+   "gf": 36,
+   "ga": 47,
+   "points": 34,
+   "form": [
+    "D",
+    "L",
+    "D",
+    "W",
+    "L"
+   ],
+   "team": "SC Freiburg",
+   "gd": -11,
+   "pos": 17
+  },
+  {
+   "played": 34,
+   "won": 7,
+   "drawn": 10,
+   "lost": 17,
+   "gf": 31,
+   "ga": 65,
+   "points": 31,
+   "form": [
+    "D",
+    "W",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "SC Paderborn 07",
+   "gd": -34,
+   "pos": 18
+  }
+ ],
+ "2015/2016": [
+  {
+   "played": 34,
+   "won": 28,
+   "drawn": 4,
+   "lost": 2,
+   "gf": 80,
+   "ga": 17,
+   "points": 88,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "W",
+    "W"
+   ],
+   "team": "Bayern München",
+   "gd": 63,
+   "pos": 1
+  },
+  {
+   "played": 34,
+   "won": 24,
+   "drawn": 6,
+   "lost": 4,
+   "gf": 82,
+   "ga": 34,
+   "points": 78,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "L",
+    "D"
+   ],
+   "team": "Borussia Dortmund",
+   "gd": 48,
+   "pos": 2
+  },
+  {
+   "played": 34,
+   "won": 18,
+   "drawn": 6,
+   "lost": 10,
+   "gf": 56,
+   "ga": 40,
+   "points": 60,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "Bayer Leverkusen",
+   "gd": 16,
+   "pos": 3
+  },
+  {
+   "played": 34,
+   "won": 17,
+   "drawn": 4,
+   "lost": 13,
+   "gf": 67,
+   "ga": 50,
+   "points": 55,
+   "form": [
+    "L",
+    "W",
+    "D",
+    "W",
+    "W"
+   ],
+   "team": "Borussia Mönchengladbach",
+   "gd": 17,
+   "pos": 4
+  },
+  {
+   "played": 34,
+   "won": 15,
+   "drawn": 7,
+   "lost": 12,
+   "gf": 51,
+   "ga": 49,
+   "points": 52,
+   "form": [
+    "L",
+    "L",
+    "W",
+    "D",
+    "W"
+   ],
+   "team": "FC Schalke 04",
+   "gd": 2,
+   "pos": 5
+  },
+  {
+   "played": 34,
+   "won": 14,
+   "drawn": 8,
+   "lost": 12,
+   "gf": 46,
+   "ga": 42,
+   "points": 50,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "W",
+    "D"
+   ],
+   "team": "1. FSV Mainz 05",
+   "gd": 4,
+   "pos": 6
+  },
+  {
+   "played": 34,
+   "won": 14,
+   "drawn": 8,
+   "lost": 12,
+   "gf": 42,
+   "ga": 42,
+   "points": 50,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "L",
+    "D"
+   ],
+   "team": "Hertha BSC",
+   "gd": 0,
+   "pos": 7
+  },
+  {
+   "played": 34,
+   "won": 12,
+   "drawn": 9,
+   "lost": 13,
+   "gf": 47,
+   "ga": 49,
+   "points": 45,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "W",
+    "W"
+   ],
+   "team": "VfL Wolfsburg",
+   "gd": -2,
+   "pos": 8
+  },
+  {
+   "played": 34,
+   "won": 10,
+   "drawn": 13,
+   "lost": 11,
+   "gf": 38,
+   "ga": 42,
+   "points": 43,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "D",
+    "D"
+   ],
+   "team": "1. FC Köln",
+   "gd": -4,
+   "pos": 9
+  },
+  {
+   "played": 34,
+   "won": 11,
+   "drawn": 8,
+   "lost": 15,
+   "gf": 40,
+   "ga": 46,
+   "points": 41,
+   "form": [
+    "L",
+    "W",
+    "D",
+    "L",
+    "W"
+   ],
+   "team": "Hamburger SV",
+   "gd": -6,
+   "pos": 10
+  },
+  {
+   "played": 34,
+   "won": 10,
+   "drawn": 10,
+   "lost": 14,
+   "gf": 33,
+   "ga": 42,
+   "points": 40,
+   "form": [
+    "L",
+    "D",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "FC Ingolstadt 04",
+   "gd": -9,
+   "pos": 11
+  },
+  {
+   "played": 34,
+   "won": 9,
+   "drawn": 11,
+   "lost": 14,
+   "gf": 42,
+   "ga": 52,
+   "points": 38,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "D",
+    "L"
+   ],
+   "team": "FC Augsburg",
+   "gd": -10,
+   "pos": 12
+  },
+  {
+   "played": 34,
+   "won": 10,
+   "drawn": 8,
+   "lost": 16,
+   "gf": 50,
+   "ga": 65,
+   "points": 38,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "D",
+    "W"
+   ],
+   "team": "Werder Bremen",
+   "gd": -15,
+   "pos": 13
+  },
+  {
+   "played": 34,
+   "won": 9,
+   "drawn": 11,
+   "lost": 14,
+   "gf": 38,
+   "ga": 53,
+   "points": 38,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "SV Darmstadt 98",
+   "gd": -15,
+   "pos": 14
+  },
+  {
+   "played": 34,
+   "won": 9,
+   "drawn": 10,
+   "lost": 15,
+   "gf": 39,
+   "ga": 54,
+   "points": 37,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "1899 Hoffenheim",
+   "gd": -15,
+   "pos": 15
+  },
+  {
+   "played": 34,
+   "won": 9,
+   "drawn": 9,
+   "lost": 16,
+   "gf": 34,
+   "ga": 52,
+   "points": 36,
+   "form": [
+    "L",
+    "W",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "Eintracht Frankfurt",
+   "gd": -18,
+   "pos": 16
+  },
+  {
+   "played": 34,
+   "won": 9,
+   "drawn": 6,
+   "lost": 19,
+   "gf": 50,
+   "ga": 75,
+   "points": 33,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "VfB Stuttgart",
+   "gd": -25,
+   "pos": 17
+  },
+  {
+   "played": 34,
+   "won": 7,
+   "drawn": 4,
+   "lost": 23,
+   "gf": 31,
+   "ga": 62,
+   "points": 25,
+   "form": [
+    "W",
+    "D",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Hannover 96",
+   "gd": -31,
+   "pos": 18
+  }
+ ],
+ "2016/2017": [
+  {
+   "played": 34,
+   "won": 25,
+   "drawn": 7,
+   "lost": 2,
+   "gf": 89,
+   "ga": 22,
+   "points": 82,
+   "form": [
+    "D",
+    "W",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Bayern München",
+   "gd": 67,
+   "pos": 1
+  },
+  {
+   "played": 34,
+   "won": 20,
+   "drawn": 7,
+   "lost": 7,
+   "gf": 66,
+   "ga": 39,
+   "points": 67,
+   "form": [
+    "D",
+    "D",
+    "W",
+    "L",
+    "D"
+   ],
+   "team": "RB Leipzig",
+   "gd": 27,
+   "pos": 2
+  },
+  {
+   "played": 34,
+   "won": 18,
+   "drawn": 10,
+   "lost": 6,
+   "gf": 72,
+   "ga": 40,
+   "points": 64,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "D",
+    "W"
+   ],
+   "team": "Borussia Dortmund",
+   "gd": 32,
+   "pos": 3
+  },
+  {
+   "played": 34,
+   "won": 16,
+   "drawn": 14,
+   "lost": 4,
+   "gf": 64,
+   "ga": 37,
+   "points": 62,
+   "form": [
+    "D",
+    "W",
+    "L",
+    "W",
+    "D"
+   ],
+   "team": "1899 Hoffenheim",
+   "gd": 27,
+   "pos": 4
+  },
+  {
+   "played": 34,
+   "won": 12,
+   "drawn": 13,
+   "lost": 9,
+   "gf": 51,
+   "ga": 42,
+   "points": 49,
+   "form": [
+    "D",
+    "D",
+    "W",
+    "D",
+    "W"
+   ],
+   "team": "1. FC Köln",
+   "gd": 9,
+   "pos": 5
+  },
+  {
+   "played": 34,
+   "won": 15,
+   "drawn": 4,
+   "lost": 15,
+   "gf": 43,
+   "ga": 47,
+   "points": 49,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Hertha BSC",
+   "gd": -4,
+   "pos": 6
+  },
+  {
+   "played": 34,
+   "won": 14,
+   "drawn": 6,
+   "lost": 14,
+   "gf": 42,
+   "ga": 60,
+   "points": 48,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "D",
+    "L"
+   ],
+   "team": "SC Freiburg",
+   "gd": -18,
+   "pos": 7
+  },
+  {
+   "played": 34,
+   "won": 13,
+   "drawn": 6,
+   "lost": 15,
+   "gf": 61,
+   "ga": 64,
+   "points": 45,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Werder Bremen",
+   "gd": -3,
+   "pos": 8
+  },
+  {
+   "played": 34,
+   "won": 12,
+   "drawn": 9,
+   "lost": 13,
+   "gf": 45,
+   "ga": 49,
+   "points": 45,
+   "form": [
+    "L",
+    "W",
+    "D",
+    "D",
+    "D"
+   ],
+   "team": "Borussia Mönchengladbach",
+   "gd": -4,
+   "pos": 9
+  },
+  {
+   "played": 34,
+   "won": 11,
+   "drawn": 10,
+   "lost": 13,
+   "gf": 45,
+   "ga": 40,
+   "points": 43,
+   "form": [
+    "D",
+    "W",
+    "L",
+    "D",
+    "D"
+   ],
+   "team": "FC Schalke 04",
+   "gd": 5,
+   "pos": 10
+  },
+  {
+   "played": 34,
+   "won": 11,
+   "drawn": 9,
+   "lost": 14,
+   "gf": 36,
+   "ga": 43,
+   "points": 42,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "L",
+    "D"
+   ],
+   "team": "Eintracht Frankfurt",
+   "gd": -7,
+   "pos": 11
+  },
+  {
+   "played": 34,
+   "won": 11,
+   "drawn": 8,
+   "lost": 15,
+   "gf": 53,
+   "ga": 55,
+   "points": 41,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "D",
+    "W"
+   ],
+   "team": "Bayer Leverkusen",
+   "gd": -2,
+   "pos": 12
+  },
+  {
+   "played": 34,
+   "won": 9,
+   "drawn": 11,
+   "lost": 14,
+   "gf": 35,
+   "ga": 51,
+   "points": 38,
+   "form": [
+    "L",
+    "W",
+    "D",
+    "D",
+    "D"
+   ],
+   "team": "FC Augsburg",
+   "gd": -16,
+   "pos": 13
+  },
+  {
+   "played": 34,
+   "won": 10,
+   "drawn": 8,
+   "lost": 16,
+   "gf": 33,
+   "ga": 61,
+   "points": 38,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "D",
+    "W"
+   ],
+   "team": "Hamburger SV",
+   "gd": -28,
+   "pos": 14
+  },
+  {
+   "played": 34,
+   "won": 10,
+   "drawn": 7,
+   "lost": 17,
+   "gf": 44,
+   "ga": 55,
+   "points": 37,
+   "form": [
+    "D",
+    "L",
+    "D",
+    "W",
+    "L"
+   ],
+   "team": "1. FSV Mainz 05",
+   "gd": -11,
+   "pos": 15
+  },
+  {
+   "played": 34,
+   "won": 10,
+   "drawn": 7,
+   "lost": 17,
+   "gf": 34,
+   "ga": 52,
+   "points": 37,
+   "form": [
+    "L",
+    "L",
+    "W",
+    "D",
+    "L"
+   ],
+   "team": "VfL Wolfsburg",
+   "gd": -18,
+   "pos": 16
+  },
+  {
+   "played": 34,
+   "won": 8,
+   "drawn": 8,
+   "lost": 18,
+   "gf": 36,
+   "ga": 57,
+   "points": 32,
+   "form": [
+    "L",
+    "D",
+    "D",
+    "D",
+    "D"
+   ],
+   "team": "FC Ingolstadt 04",
+   "gd": -21,
+   "pos": 17
+  },
+  {
+   "played": 34,
+   "won": 7,
+   "drawn": 4,
+   "lost": 23,
+   "gf": 28,
+   "ga": 63,
+   "points": 25,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "L",
+    "D"
+   ],
+   "team": "SV Darmstadt 98",
+   "gd": -35,
+   "pos": 18
+  }
+ ],
+ "2017/2018": [
+  {
+   "played": 34,
+   "won": 27,
+   "drawn": 3,
+   "lost": 4,
+   "gf": 92,
+   "ga": 28,
+   "points": 84,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "Bayern München",
+   "gd": 64,
+   "pos": 1
+  },
+  {
+   "played": 34,
+   "won": 18,
+   "drawn": 9,
+   "lost": 7,
+   "gf": 53,
+   "ga": 37,
+   "points": 63,
+   "form": [
+    "W",
+    "D",
+    "D",
+    "W",
+    "W"
+   ],
+   "team": "FC Schalke 04",
+   "gd": 16,
+   "pos": 2
+  },
+  {
+   "played": 34,
+   "won": 15,
+   "drawn": 10,
+   "lost": 9,
+   "gf": 66,
+   "ga": 48,
+   "points": 55,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "1899 Hoffenheim",
+   "gd": 18,
+   "pos": 3
+  },
+  {
+   "played": 34,
+   "won": 15,
+   "drawn": 10,
+   "lost": 9,
+   "gf": 64,
+   "ga": 47,
+   "points": 55,
+   "form": [
+    "L",
+    "W",
+    "D",
+    "L",
+    "L"
+   ],
+   "team": "Borussia Dortmund",
+   "gd": 17,
+   "pos": 4
+  },
+  {
+   "played": 34,
+   "won": 15,
+   "drawn": 10,
+   "lost": 9,
+   "gf": 58,
+   "ga": 44,
+   "points": 55,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "D",
+    "W"
+   ],
+   "team": "Bayer Leverkusen",
+   "gd": 14,
+   "pos": 5
+  },
+  {
+   "played": 34,
+   "won": 15,
+   "drawn": 8,
+   "lost": 11,
+   "gf": 57,
+   "ga": 53,
+   "points": 53,
+   "form": [
+    "D",
+    "L",
+    "L",
+    "W",
+    "W"
+   ],
+   "team": "RB Leipzig",
+   "gd": 4,
+   "pos": 6
+  },
+  {
+   "played": 34,
+   "won": 15,
+   "drawn": 6,
+   "lost": 13,
+   "gf": 36,
+   "ga": 36,
+   "points": 51,
+   "form": [
+    "D",
+    "W",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "VfB Stuttgart",
+   "gd": 0,
+   "pos": 7
+  },
+  {
+   "played": 34,
+   "won": 14,
+   "drawn": 7,
+   "lost": 13,
+   "gf": 45,
+   "ga": 45,
+   "points": 49,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Eintracht Frankfurt",
+   "gd": 0,
+   "pos": 8
+  },
+  {
+   "played": 34,
+   "won": 13,
+   "drawn": 8,
+   "lost": 13,
+   "gf": 47,
+   "ga": 52,
+   "points": 47,
+   "form": [
+    "L",
+    "W",
+    "D",
+    "W",
+    "L"
+   ],
+   "team": "Borussia Mönchengladbach",
+   "gd": -5,
+   "pos": 9
+  },
+  {
+   "played": 34,
+   "won": 10,
+   "drawn": 13,
+   "lost": 11,
+   "gf": 43,
+   "ga": 46,
+   "points": 43,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "L",
+    "L"
+   ],
+   "team": "Hertha BSC",
+   "gd": -3,
+   "pos": 10
+  },
+  {
+   "played": 34,
+   "won": 10,
+   "drawn": 12,
+   "lost": 12,
+   "gf": 37,
+   "ga": 40,
+   "points": 42,
+   "form": [
+    "D",
+    "L",
+    "D",
+    "D",
+    "W"
+   ],
+   "team": "Werder Bremen",
+   "gd": -3,
+   "pos": 11
+  },
+  {
+   "played": 34,
+   "won": 10,
+   "drawn": 11,
+   "lost": 13,
+   "gf": 43,
+   "ga": 46,
+   "points": 41,
+   "form": [
+    "D",
+    "W",
+    "D",
+    "L",
+    "L"
+   ],
+   "team": "FC Augsburg",
+   "gd": -3,
+   "pos": 12
+  },
+  {
+   "played": 34,
+   "won": 10,
+   "drawn": 9,
+   "lost": 15,
+   "gf": 44,
+   "ga": 54,
+   "points": 39,
+   "form": [
+    "D",
+    "L",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Hannover 96",
+   "gd": -10,
+   "pos": 13
+  },
+  {
+   "played": 34,
+   "won": 9,
+   "drawn": 9,
+   "lost": 16,
+   "gf": 38,
+   "ga": 52,
+   "points": 36,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "1. FSV Mainz 05",
+   "gd": -14,
+   "pos": 14
+  },
+  {
+   "played": 34,
+   "won": 8,
+   "drawn": 12,
+   "lost": 14,
+   "gf": 32,
+   "ga": 56,
+   "points": 36,
+   "form": [
+    "L",
+    "L",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "SC Freiburg",
+   "gd": -24,
+   "pos": 15
+  },
+  {
+   "played": 34,
+   "won": 6,
+   "drawn": 15,
+   "lost": 13,
+   "gf": 36,
+   "ga": 48,
+   "points": 33,
+   "form": [
+    "D",
+    "L",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "VfL Wolfsburg",
+   "gd": -12,
+   "pos": 16
+  },
+  {
+   "played": 34,
+   "won": 8,
+   "drawn": 7,
+   "lost": 19,
+   "gf": 29,
+   "ga": 53,
+   "points": 31,
+   "form": [
+    "L",
+    "W",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "Hamburger SV",
+   "gd": -24,
+   "pos": 17
+  },
+  {
+   "played": 34,
+   "won": 5,
+   "drawn": 7,
+   "lost": 22,
+   "gf": 35,
+   "ga": 70,
+   "points": 22,
+   "form": [
+    "L",
+    "D",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "1. FC Köln",
+   "gd": -35,
+   "pos": 18
+  }
+ ],
+ "2018/2019": [
+  {
+   "played": 34,
+   "won": 24,
+   "drawn": 6,
+   "lost": 4,
+   "gf": 88,
+   "ga": 32,
+   "points": 78,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "D",
+    "W"
+   ],
+   "team": "Bayern München",
+   "gd": 56,
+   "pos": 1
+  },
+  {
+   "played": 34,
+   "won": 23,
+   "drawn": 7,
+   "lost": 4,
+   "gf": 81,
+   "ga": 44,
+   "points": 76,
+   "form": [
+    "W",
+    "L",
+    "D",
+    "W",
+    "W"
+   ],
+   "team": "Borussia Dortmund",
+   "gd": 37,
+   "pos": 2
+  },
+  {
+   "played": 34,
+   "won": 19,
+   "drawn": 9,
+   "lost": 6,
+   "gf": 63,
+   "ga": 29,
+   "points": 66,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "D",
+    "L"
+   ],
+   "team": "RB Leipzig",
+   "gd": 34,
+   "pos": 3
+  },
+  {
+   "played": 34,
+   "won": 18,
+   "drawn": 4,
+   "lost": 12,
+   "gf": 69,
+   "ga": 52,
+   "points": 58,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "D",
+    "W"
+   ],
+   "team": "Bayer Leverkusen",
+   "gd": 17,
+   "pos": 4
+  },
+  {
+   "played": 34,
+   "won": 16,
+   "drawn": 7,
+   "lost": 11,
+   "gf": 55,
+   "ga": 42,
+   "points": 55,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "W",
+    "L"
+   ],
+   "team": "Borussia Mönchengladbach",
+   "gd": 13,
+   "pos": 5
+  },
+  {
+   "played": 34,
+   "won": 16,
+   "drawn": 7,
+   "lost": 11,
+   "gf": 62,
+   "ga": 50,
+   "points": 55,
+   "form": [
+    "D",
+    "W",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "VfL Wolfsburg",
+   "gd": 12,
+   "pos": 6
+  },
+  {
+   "played": 34,
+   "won": 15,
+   "drawn": 9,
+   "lost": 10,
+   "gf": 60,
+   "ga": 48,
+   "points": 54,
+   "form": [
+    "D",
+    "D",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Eintracht Frankfurt",
+   "gd": 12,
+   "pos": 7
+  },
+  {
+   "played": 34,
+   "won": 14,
+   "drawn": 11,
+   "lost": 9,
+   "gf": 58,
+   "ga": 49,
+   "points": 53,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "W",
+    "W"
+   ],
+   "team": "Werder Bremen",
+   "gd": 9,
+   "pos": 8
+  },
+  {
+   "played": 34,
+   "won": 13,
+   "drawn": 12,
+   "lost": 9,
+   "gf": 70,
+   "ga": 52,
+   "points": 51,
+   "form": [
+    "W",
+    "L",
+    "D",
+    "L",
+    "L"
+   ],
+   "team": "1899 Hoffenheim",
+   "gd": 18,
+   "pos": 9
+  },
+  {
+   "played": 34,
+   "won": 13,
+   "drawn": 5,
+   "lost": 16,
+   "gf": 49,
+   "ga": 65,
+   "points": 44,
+   "form": [
+    "L",
+    "W",
+    "D",
+    "L",
+    "W"
+   ],
+   "team": "Fortuna Düsseldorf",
+   "gd": -16,
+   "pos": 10
+  },
+  {
+   "played": 34,
+   "won": 11,
+   "drawn": 10,
+   "lost": 13,
+   "gf": 49,
+   "ga": 57,
+   "points": 43,
+   "form": [
+    "D",
+    "D",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "Hertha BSC",
+   "gd": -8,
+   "pos": 11
+  },
+  {
+   "played": 34,
+   "won": 12,
+   "drawn": 7,
+   "lost": 15,
+   "gf": 46,
+   "ga": 57,
+   "points": 43,
+   "form": [
+    "W",
+    "L",
+    "D",
+    "W",
+    "W"
+   ],
+   "team": "1. FSV Mainz 05",
+   "gd": -11,
+   "pos": 12
+  },
+  {
+   "played": 34,
+   "won": 8,
+   "drawn": 12,
+   "lost": 14,
+   "gf": 46,
+   "ga": 61,
+   "points": 36,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "L",
+    "W"
+   ],
+   "team": "SC Freiburg",
+   "gd": -15,
+   "pos": 13
+  },
+  {
+   "played": 34,
+   "won": 8,
+   "drawn": 9,
+   "lost": 17,
+   "gf": 37,
+   "ga": 55,
+   "points": 33,
+   "form": [
+    "L",
+    "W",
+    "D",
+    "D",
+    "D"
+   ],
+   "team": "FC Schalke 04",
+   "gd": -18,
+   "pos": 14
+  },
+  {
+   "played": 34,
+   "won": 8,
+   "drawn": 8,
+   "lost": 18,
+   "gf": 51,
+   "ga": 71,
+   "points": 32,
+   "form": [
+    "W",
+    "L",
+    "D",
+    "L",
+    "L"
+   ],
+   "team": "FC Augsburg",
+   "gd": -20,
+   "pos": 15
+  },
+  {
+   "played": 34,
+   "won": 7,
+   "drawn": 7,
+   "lost": 20,
+   "gf": 32,
+   "ga": 70,
+   "points": 28,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "W",
+    "D"
+   ],
+   "team": "VfB Stuttgart",
+   "gd": -38,
+   "pos": 16
+  },
+  {
+   "played": 34,
+   "won": 5,
+   "drawn": 6,
+   "lost": 23,
+   "gf": 31,
+   "ga": 71,
+   "points": 21,
+   "form": [
+    "D",
+    "W",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Hannover 96",
+   "gd": -40,
+   "pos": 17
+  },
+  {
+   "played": 34,
+   "won": 3,
+   "drawn": 10,
+   "lost": 21,
+   "gf": 26,
+   "ga": 68,
+   "points": 19,
+   "form": [
+    "L",
+    "D",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "1. FC Nürnberg",
+   "gd": -42,
+   "pos": 18
+  }
+ ],
+ "2019/2020": [
+  {
+   "played": 34,
+   "won": 26,
+   "drawn": 4,
+   "lost": 4,
+   "gf": 100,
+   "ga": 32,
+   "points": 82,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Bayern München",
+   "gd": 68,
+   "pos": 1
+  },
+  {
+   "played": 34,
+   "won": 21,
+   "drawn": 6,
+   "lost": 7,
+   "gf": 84,
+   "ga": 41,
+   "points": 69,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Borussia Dortmund",
+   "gd": 43,
+   "pos": 2
+  },
+  {
+   "played": 34,
+   "won": 18,
+   "drawn": 12,
+   "lost": 4,
+   "gf": 81,
+   "ga": 37,
+   "points": 66,
+   "form": [
+    "D",
+    "W",
+    "D",
+    "L",
+    "W"
+   ],
+   "team": "RB Leipzig",
+   "gd": 44,
+   "pos": 3
+  },
+  {
+   "played": 34,
+   "won": 20,
+   "drawn": 5,
+   "lost": 9,
+   "gf": 66,
+   "ga": 40,
+   "points": 65,
+   "form": [
+    "L",
+    "L",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Borussia Mönchengladbach",
+   "gd": 26,
+   "pos": 4
+  },
+  {
+   "played": 34,
+   "won": 19,
+   "drawn": 6,
+   "lost": 9,
+   "gf": 61,
+   "ga": 44,
+   "points": 63,
+   "form": [
+    "L",
+    "D",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "Bayer Leverkusen",
+   "gd": 17,
+   "pos": 5
+  },
+  {
+   "played": 34,
+   "won": 15,
+   "drawn": 7,
+   "lost": 12,
+   "gf": 53,
+   "ga": 53,
+   "points": 52,
+   "form": [
+    "D",
+    "L",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "1899 Hoffenheim",
+   "gd": 0,
+   "pos": 6
+  },
+  {
+   "played": 34,
+   "won": 13,
+   "drawn": 10,
+   "lost": 11,
+   "gf": 48,
+   "ga": 46,
+   "points": 49,
+   "form": [
+    "W",
+    "D",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "VfL Wolfsburg",
+   "gd": 2,
+   "pos": 7
+  },
+  {
+   "played": 34,
+   "won": 13,
+   "drawn": 9,
+   "lost": 12,
+   "gf": 48,
+   "ga": 47,
+   "points": 48,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "SC Freiburg",
+   "gd": 1,
+   "pos": 8
+  },
+  {
+   "played": 34,
+   "won": 13,
+   "drawn": 6,
+   "lost": 15,
+   "gf": 59,
+   "ga": 60,
+   "points": 45,
+   "form": [
+    "L",
+    "W",
+    "W",
+    "D",
+    "W"
+   ],
+   "team": "Eintracht Frankfurt",
+   "gd": -1,
+   "pos": 9
+  },
+  {
+   "played": 34,
+   "won": 11,
+   "drawn": 8,
+   "lost": 15,
+   "gf": 48,
+   "ga": 59,
+   "points": 41,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Hertha BSC",
+   "gd": -11,
+   "pos": 10
+  },
+  {
+   "played": 34,
+   "won": 12,
+   "drawn": 5,
+   "lost": 17,
+   "gf": 41,
+   "ga": 58,
+   "points": 41,
+   "form": [
+    "D",
+    "W",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "1. FC Union Berlin",
+   "gd": -17,
+   "pos": 11
+  },
+  {
+   "played": 34,
+   "won": 9,
+   "drawn": 12,
+   "lost": 13,
+   "gf": 38,
+   "ga": 58,
+   "points": 39,
+   "form": [
+    "D",
+    "D",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "FC Schalke 04",
+   "gd": -20,
+   "pos": 12
+  },
+  {
+   "played": 34,
+   "won": 11,
+   "drawn": 4,
+   "lost": 19,
+   "gf": 44,
+   "ga": 65,
+   "points": 37,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "1. FSV Mainz 05",
+   "gd": -21,
+   "pos": 13
+  },
+  {
+   "played": 34,
+   "won": 10,
+   "drawn": 6,
+   "lost": 18,
+   "gf": 51,
+   "ga": 69,
+   "points": 36,
+   "form": [
+    "D",
+    "L",
+    "L",
+    "D",
+    "L"
+   ],
+   "team": "1. FC Köln",
+   "gd": -18,
+   "pos": 14
+  },
+  {
+   "played": 34,
+   "won": 9,
+   "drawn": 9,
+   "lost": 16,
+   "gf": 45,
+   "ga": 63,
+   "points": 36,
+   "form": [
+    "D",
+    "W",
+    "L",
+    "D",
+    "L"
+   ],
+   "team": "FC Augsburg",
+   "gd": -18,
+   "pos": 15
+  },
+  {
+   "played": 34,
+   "won": 8,
+   "drawn": 7,
+   "lost": 19,
+   "gf": 42,
+   "ga": 69,
+   "points": 31,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "Werder Bremen",
+   "gd": -27,
+   "pos": 16
+  },
+  {
+   "played": 34,
+   "won": 6,
+   "drawn": 12,
+   "lost": 16,
+   "gf": 36,
+   "ga": 67,
+   "points": 30,
+   "form": [
+    "D",
+    "L",
+    "D",
+    "D",
+    "L"
+   ],
+   "team": "Fortuna Düsseldorf",
+   "gd": -31,
+   "pos": 17
+  },
+  {
+   "played": 34,
+   "won": 4,
+   "drawn": 8,
+   "lost": 22,
+   "gf": 37,
+   "ga": 74,
+   "points": 20,
+   "form": [
+    "D",
+    "L",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "SC Paderborn 07",
+   "gd": -37,
+   "pos": 18
+  }
+ ],
+ "2020/2021": [
+  {
+   "played": 34,
+   "won": 24,
+   "drawn": 6,
+   "lost": 4,
+   "gf": 99,
+   "ga": 44,
+   "points": 78,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "D",
+    "W"
+   ],
+   "team": "Bayern München",
+   "gd": 55,
+   "pos": 1
+  },
+  {
+   "played": 34,
+   "won": 19,
+   "drawn": 8,
+   "lost": 7,
+   "gf": 60,
+   "ga": 32,
+   "points": 65,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "D",
+    "L"
+   ],
+   "team": "RB Leipzig",
+   "gd": 28,
+   "pos": 2
+  },
+  {
+   "played": 34,
+   "won": 20,
+   "drawn": 4,
+   "lost": 10,
+   "gf": 75,
+   "ga": 46,
+   "points": 64,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Borussia Dortmund",
+   "gd": 29,
+   "pos": 3
+  },
+  {
+   "played": 34,
+   "won": 17,
+   "drawn": 10,
+   "lost": 7,
+   "gf": 61,
+   "ga": 37,
+   "points": 61,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "D",
+    "L"
+   ],
+   "team": "VfL Wolfsburg",
+   "gd": 24,
+   "pos": 4
+  },
+  {
+   "played": 34,
+   "won": 16,
+   "drawn": 12,
+   "lost": 6,
+   "gf": 69,
+   "ga": 53,
+   "points": 60,
+   "form": [
+    "W",
+    "L",
+    "D",
+    "L",
+    "W"
+   ],
+   "team": "Eintracht Frankfurt",
+   "gd": 16,
+   "pos": 5
+  },
+  {
+   "played": 34,
+   "won": 14,
+   "drawn": 10,
+   "lost": 10,
+   "gf": 53,
+   "ga": 39,
+   "points": 52,
+   "form": [
+    "L",
+    "W",
+    "D",
+    "D",
+    "L"
+   ],
+   "team": "Bayer Leverkusen",
+   "gd": 14,
+   "pos": 6
+  },
+  {
+   "played": 34,
+   "won": 12,
+   "drawn": 14,
+   "lost": 8,
+   "gf": 50,
+   "ga": 43,
+   "points": 50,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "D",
+    "W"
+   ],
+   "team": "1. FC Union Berlin",
+   "gd": 7,
+   "pos": 7
+  },
+  {
+   "played": 34,
+   "won": 13,
+   "drawn": 10,
+   "lost": 11,
+   "gf": 64,
+   "ga": 56,
+   "points": 49,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "Borussia Mönchengladbach",
+   "gd": 8,
+   "pos": 8
+  },
+  {
+   "played": 34,
+   "won": 12,
+   "drawn": 9,
+   "lost": 13,
+   "gf": 56,
+   "ga": 55,
+   "points": 45,
+   "form": [
+    "L",
+    "L",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "VfB Stuttgart",
+   "gd": 1,
+   "pos": 9
+  },
+  {
+   "played": 34,
+   "won": 12,
+   "drawn": 9,
+   "lost": 13,
+   "gf": 52,
+   "ga": 52,
+   "points": 45,
+   "form": [
+    "D",
+    "L",
+    "W",
+    "D",
+    "L"
+   ],
+   "team": "SC Freiburg",
+   "gd": 0,
+   "pos": 10
+  },
+  {
+   "played": 34,
+   "won": 11,
+   "drawn": 10,
+   "lost": 13,
+   "gf": 52,
+   "ga": 54,
+   "points": 43,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "D",
+    "W"
+   ],
+   "team": "1899 Hoffenheim",
+   "gd": -2,
+   "pos": 11
+  },
+  {
+   "played": 34,
+   "won": 10,
+   "drawn": 9,
+   "lost": 15,
+   "gf": 39,
+   "ga": 56,
+   "points": 39,
+   "form": [
+    "W",
+    "D",
+    "D",
+    "L",
+    "W"
+   ],
+   "team": "1. FSV Mainz 05",
+   "gd": -17,
+   "pos": 12
+  },
+  {
+   "played": 34,
+   "won": 10,
+   "drawn": 6,
+   "lost": 18,
+   "gf": 36,
+   "ga": 54,
+   "points": 36,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "FC Augsburg",
+   "gd": -18,
+   "pos": 13
+  },
+  {
+   "played": 34,
+   "won": 8,
+   "drawn": 11,
+   "lost": 15,
+   "gf": 41,
+   "ga": 52,
+   "points": 35,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "D",
+    "L"
+   ],
+   "team": "Hertha BSC",
+   "gd": -11,
+   "pos": 14
+  },
+  {
+   "played": 34,
+   "won": 9,
+   "drawn": 8,
+   "lost": 17,
+   "gf": 26,
+   "ga": 52,
+   "points": 35,
+   "form": [
+    "W",
+    "L",
+    "D",
+    "D",
+    "W"
+   ],
+   "team": "Arminia Bielefeld",
+   "gd": -26,
+   "pos": 15
+  },
+  {
+   "played": 34,
+   "won": 8,
+   "drawn": 9,
+   "lost": 17,
+   "gf": 34,
+   "ga": 60,
+   "points": 33,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "D",
+    "W"
+   ],
+   "team": "1. FC Köln",
+   "gd": -26,
+   "pos": 16
+  },
+  {
+   "played": 34,
+   "won": 7,
+   "drawn": 10,
+   "lost": 17,
+   "gf": 36,
+   "ga": 57,
+   "points": 31,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "L",
+    "L"
+   ],
+   "team": "Werder Bremen",
+   "gd": -21,
+   "pos": 17
+  },
+  {
+   "played": 34,
+   "won": 3,
+   "drawn": 7,
+   "lost": 24,
+   "gf": 25,
+   "ga": 86,
+   "points": 16,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "FC Schalke 04",
+   "gd": -61,
+   "pos": 18
+  }
+ ],
+ "2021/2022": [
+  {
+   "played": 34,
+   "won": 24,
+   "drawn": 5,
+   "lost": 5,
+   "gf": 97,
+   "ga": 37,
+   "points": 77,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "D",
+    "D"
+   ],
+   "team": "Bayern München",
+   "gd": 60,
+   "pos": 1
+  },
+  {
+   "played": 34,
+   "won": 22,
+   "drawn": 3,
+   "lost": 9,
+   "gf": 85,
+   "ga": 52,
+   "points": 69,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "W",
+    "W"
+   ],
+   "team": "Borussia Dortmund",
+   "gd": 33,
+   "pos": 2
+  },
+  {
+   "played": 34,
+   "won": 19,
+   "drawn": 7,
+   "lost": 8,
+   "gf": 80,
+   "ga": 47,
+   "points": 64,
+   "form": [
+    "L",
+    "W",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Bayer Leverkusen",
+   "gd": 33,
+   "pos": 3
+  },
+  {
+   "played": 34,
+   "won": 17,
+   "drawn": 7,
+   "lost": 10,
+   "gf": 72,
+   "ga": 37,
+   "points": 58,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "W",
+    "D"
+   ],
+   "team": "RB Leipzig",
+   "gd": 35,
+   "pos": 4
+  },
+  {
+   "played": 34,
+   "won": 16,
+   "drawn": 9,
+   "lost": 9,
+   "gf": 50,
+   "ga": 44,
+   "points": 57,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "W",
+    "W"
+   ],
+   "team": "1. FC Union Berlin",
+   "gd": 6,
+   "pos": 5
+  },
+  {
+   "played": 34,
+   "won": 15,
+   "drawn": 10,
+   "lost": 9,
+   "gf": 58,
+   "ga": 46,
+   "points": 55,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "SC Freiburg",
+   "gd": 12,
+   "pos": 6
+  },
+  {
+   "played": 34,
+   "won": 14,
+   "drawn": 10,
+   "lost": 10,
+   "gf": 52,
+   "ga": 49,
+   "points": 52,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "1. FC Köln",
+   "gd": 3,
+   "pos": 7
+  },
+  {
+   "played": 34,
+   "won": 13,
+   "drawn": 7,
+   "lost": 14,
+   "gf": 50,
+   "ga": 45,
+   "points": 46,
+   "form": [
+    "D",
+    "L",
+    "W",
+    "W",
+    "D"
+   ],
+   "team": "1. FSV Mainz 05",
+   "gd": 5,
+   "pos": 8
+  },
+  {
+   "played": 34,
+   "won": 13,
+   "drawn": 7,
+   "lost": 14,
+   "gf": 58,
+   "ga": 60,
+   "points": 46,
+   "form": [
+    "D",
+    "D",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "1899 Hoffenheim",
+   "gd": -2,
+   "pos": 9
+  },
+  {
+   "played": 34,
+   "won": 12,
+   "drawn": 9,
+   "lost": 13,
+   "gf": 54,
+   "ga": 61,
+   "points": 45,
+   "form": [
+    "L",
+    "D",
+    "W",
+    "D",
+    "W"
+   ],
+   "team": "Borussia Mönchengladbach",
+   "gd": -7,
+   "pos": 10
+  },
+  {
+   "played": 34,
+   "won": 10,
+   "drawn": 12,
+   "lost": 12,
+   "gf": 45,
+   "ga": 49,
+   "points": 42,
+   "form": [
+    "L",
+    "D",
+    "L",
+    "D",
+    "D"
+   ],
+   "team": "Eintracht Frankfurt",
+   "gd": -4,
+   "pos": 11
+  },
+  {
+   "played": 34,
+   "won": 12,
+   "drawn": 6,
+   "lost": 16,
+   "gf": 43,
+   "ga": 54,
+   "points": 42,
+   "form": [
+    "L",
+    "W",
+    "D",
+    "W",
+    "D"
+   ],
+   "team": "VfL Wolfsburg",
+   "gd": -11,
+   "pos": 12
+  },
+  {
+   "played": 34,
+   "won": 12,
+   "drawn": 6,
+   "lost": 16,
+   "gf": 38,
+   "ga": 52,
+   "points": 42,
+   "form": [
+    "L",
+    "L",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "VfL Bochum 1848",
+   "gd": -14,
+   "pos": 13
+  },
+  {
+   "played": 34,
+   "won": 10,
+   "drawn": 8,
+   "lost": 16,
+   "gf": 39,
+   "ga": 56,
+   "points": 38,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "FC Augsburg",
+   "gd": -17,
+   "pos": 14
+  },
+  {
+   "played": 34,
+   "won": 7,
+   "drawn": 12,
+   "lost": 15,
+   "gf": 41,
+   "ga": 59,
+   "points": 33,
+   "form": [
+    "D",
+    "L",
+    "D",
+    "D",
+    "W"
+   ],
+   "team": "VfB Stuttgart",
+   "gd": -18,
+   "pos": 15
+  },
+  {
+   "played": 34,
+   "won": 9,
+   "drawn": 6,
+   "lost": 19,
+   "gf": 37,
+   "ga": 71,
+   "points": 33,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "L",
+    "L"
+   ],
+   "team": "Hertha BSC",
+   "gd": -34,
+   "pos": 16
+  },
+  {
+   "played": 34,
+   "won": 5,
+   "drawn": 13,
+   "lost": 16,
+   "gf": 27,
+   "ga": 53,
+   "points": 28,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "L",
+    "D"
+   ],
+   "team": "Arminia Bielefeld",
+   "gd": -26,
+   "pos": 17
+  },
+  {
+   "played": 34,
+   "won": 3,
+   "drawn": 9,
+   "lost": 22,
+   "gf": 28,
+   "ga": 82,
+   "points": 18,
+   "form": [
+    "D",
+    "L",
+    "D",
+    "L",
+    "L"
+   ],
+   "team": "SpVgg Greuther Fürth",
+   "gd": -54,
+   "pos": 18
+  }
+ ],
+ "2022/2023": [
+  {
+   "played": 34,
+   "won": 21,
+   "drawn": 8,
+   "lost": 5,
+   "gf": 92,
+   "ga": 38,
+   "points": 71,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "Bayern München",
+   "gd": 54,
+   "pos": 1
+  },
+  {
+   "played": 34,
+   "won": 22,
+   "drawn": 5,
+   "lost": 7,
+   "gf": 83,
+   "ga": 44,
+   "points": 71,
+   "form": [
+    "D",
+    "W",
+    "W",
+    "W",
+    "D"
+   ],
+   "team": "Borussia Dortmund",
+   "gd": 39,
+   "pos": 2
+  },
+  {
+   "played": 34,
+   "won": 20,
+   "drawn": 6,
+   "lost": 8,
+   "gf": 64,
+   "ga": 41,
+   "points": 66,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "RB Leipzig",
+   "gd": 23,
+   "pos": 3
+  },
+  {
+   "played": 34,
+   "won": 18,
+   "drawn": 8,
+   "lost": 8,
+   "gf": 51,
+   "ga": 38,
+   "points": 62,
+   "form": [
+    "D",
+    "L",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "1. FC Union Berlin",
+   "gd": 13,
+   "pos": 4
+  },
+  {
+   "played": 34,
+   "won": 17,
+   "drawn": 8,
+   "lost": 9,
+   "gf": 51,
+   "ga": 44,
+   "points": 59,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "SC Freiburg",
+   "gd": 7,
+   "pos": 5
+  },
+  {
+   "played": 34,
+   "won": 14,
+   "drawn": 8,
+   "lost": 12,
+   "gf": 57,
+   "ga": 49,
+   "points": 50,
+   "form": [
+    "D",
+    "L",
+    "D",
+    "D",
+    "L"
+   ],
+   "team": "Bayer Leverkusen",
+   "gd": 8,
+   "pos": 6
+  },
+  {
+   "played": 34,
+   "won": 13,
+   "drawn": 11,
+   "lost": 10,
+   "gf": 58,
+   "ga": 52,
+   "points": 50,
+   "form": [
+    "D",
+    "L",
+    "W",
+    "D",
+    "W"
+   ],
+   "team": "Eintracht Frankfurt",
+   "gd": 6,
+   "pos": 7
+  },
+  {
+   "played": 34,
+   "won": 13,
+   "drawn": 10,
+   "lost": 11,
+   "gf": 57,
+   "ga": 48,
+   "points": 49,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "VfL Wolfsburg",
+   "gd": 9,
+   "pos": 8
+  },
+  {
+   "played": 34,
+   "won": 12,
+   "drawn": 10,
+   "lost": 12,
+   "gf": 54,
+   "ga": 55,
+   "points": 46,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "L",
+    "D"
+   ],
+   "team": "1. FSV Mainz 05",
+   "gd": -1,
+   "pos": 9
+  },
+  {
+   "played": 34,
+   "won": 11,
+   "drawn": 10,
+   "lost": 13,
+   "gf": 52,
+   "ga": 55,
+   "points": 43,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "D",
+    "W"
+   ],
+   "team": "Borussia Mönchengladbach",
+   "gd": -3,
+   "pos": 10
+  },
+  {
+   "played": 34,
+   "won": 10,
+   "drawn": 12,
+   "lost": 12,
+   "gf": 49,
+   "ga": 54,
+   "points": 42,
+   "form": [
+    "L",
+    "W",
+    "W",
+    "D",
+    "L"
+   ],
+   "team": "1. FC Köln",
+   "gd": -5,
+   "pos": 11
+  },
+  {
+   "played": 34,
+   "won": 10,
+   "drawn": 6,
+   "lost": 18,
+   "gf": 48,
+   "ga": 57,
+   "points": 36,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "W",
+    "D"
+   ],
+   "team": "1899 Hoffenheim",
+   "gd": -9,
+   "pos": 12
+  },
+  {
+   "played": 34,
+   "won": 10,
+   "drawn": 6,
+   "lost": 18,
+   "gf": 51,
+   "ga": 64,
+   "points": 36,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "D",
+    "L"
+   ],
+   "team": "Werder Bremen",
+   "gd": -13,
+   "pos": 13
+  },
+  {
+   "played": 34,
+   "won": 10,
+   "drawn": 5,
+   "lost": 19,
+   "gf": 40,
+   "ga": 72,
+   "points": 35,
+   "form": [
+    "D",
+    "L",
+    "W",
+    "D",
+    "W"
+   ],
+   "team": "VfL Bochum 1848",
+   "gd": -32,
+   "pos": 14
+  },
+  {
+   "played": 34,
+   "won": 9,
+   "drawn": 7,
+   "lost": 18,
+   "gf": 42,
+   "ga": 63,
+   "points": 34,
+   "form": [
+    "D",
+    "W",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "FC Augsburg",
+   "gd": -21,
+   "pos": 15
+  },
+  {
+   "played": 34,
+   "won": 7,
+   "drawn": 12,
+   "lost": 15,
+   "gf": 45,
+   "ga": 57,
+   "points": 33,
+   "form": [
+    "W",
+    "L",
+    "D",
+    "W",
+    "D"
+   ],
+   "team": "VfB Stuttgart",
+   "gd": -12,
+   "pos": 16
+  },
+  {
+   "played": 34,
+   "won": 7,
+   "drawn": 10,
+   "lost": 17,
+   "gf": 35,
+   "ga": 71,
+   "points": 31,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "D",
+    "L"
+   ],
+   "team": "FC Schalke 04",
+   "gd": -36,
+   "pos": 17
+  },
+  {
+   "played": 34,
+   "won": 7,
+   "drawn": 8,
+   "lost": 19,
+   "gf": 42,
+   "ga": 69,
+   "points": 29,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "D",
+    "W"
+   ],
+   "team": "Hertha BSC",
+   "gd": -27,
+   "pos": 18
+  }
+ ],
+ "2023/2024": [
+  {
+   "played": 34,
+   "won": 28,
+   "drawn": 6,
+   "lost": 0,
+   "gf": 89,
+   "ga": 24,
+   "points": 90,
+   "form": [
+    "D",
+    "D",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Bayer Leverkusen",
+   "gd": 65,
+   "pos": 1
+  },
+  {
+   "played": 34,
+   "won": 23,
+   "drawn": 4,
+   "lost": 7,
+   "gf": 78,
+   "ga": 39,
+   "points": 73,
+   "form": [
+    "L",
+    "D",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "VfB Stuttgart",
+   "gd": 39,
+   "pos": 2
+  },
+  {
+   "played": 34,
+   "won": 23,
+   "drawn": 3,
+   "lost": 8,
+   "gf": 94,
+   "ga": 45,
+   "points": 72,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Bayern München",
+   "gd": 49,
+   "pos": 3
+  },
+  {
+   "played": 34,
+   "won": 19,
+   "drawn": 8,
+   "lost": 7,
+   "gf": 77,
+   "ga": 39,
+   "points": 65,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "D",
+    "D"
+   ],
+   "team": "RB Leipzig",
+   "gd": 38,
+   "pos": 4
+  },
+  {
+   "played": 34,
+   "won": 18,
+   "drawn": 9,
+   "lost": 7,
+   "gf": 68,
+   "ga": 43,
+   "points": 63,
+   "form": [
+    "D",
+    "L",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "Borussia Dortmund",
+   "gd": 25,
+   "pos": 5
+  },
+  {
+   "played": 34,
+   "won": 11,
+   "drawn": 14,
+   "lost": 9,
+   "gf": 51,
+   "ga": 50,
+   "points": 47,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "D",
+    "D"
+   ],
+   "team": "Eintracht Frankfurt",
+   "gd": 1,
+   "pos": 6
+  },
+  {
+   "played": 34,
+   "won": 13,
+   "drawn": 7,
+   "lost": 14,
+   "gf": 66,
+   "ga": 66,
+   "points": 46,
+   "form": [
+    "W",
+    "L",
+    "D",
+    "W",
+    "W"
+   ],
+   "team": "1899 Hoffenheim",
+   "gd": 0,
+   "pos": 7
+  },
+  {
+   "played": 34,
+   "won": 10,
+   "drawn": 12,
+   "lost": 12,
+   "gf": 50,
+   "ga": 55,
+   "points": 42,
+   "form": [
+    "L",
+    "W",
+    "D",
+    "D",
+    "W"
+   ],
+   "team": "1. FC Heidenheim 1846",
+   "gd": -5,
+   "pos": 8
+  },
+  {
+   "played": 34,
+   "won": 11,
+   "drawn": 9,
+   "lost": 14,
+   "gf": 48,
+   "ga": 54,
+   "points": 42,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "D",
+    "W"
+   ],
+   "team": "Werder Bremen",
+   "gd": -6,
+   "pos": 9
+  },
+  {
+   "played": 34,
+   "won": 11,
+   "drawn": 9,
+   "lost": 14,
+   "gf": 45,
+   "ga": 58,
+   "points": 42,
+   "form": [
+    "D",
+    "L",
+    "D",
+    "D",
+    "L"
+   ],
+   "team": "SC Freiburg",
+   "gd": -13,
+   "pos": 10
+  },
+  {
+   "played": 34,
+   "won": 10,
+   "drawn": 9,
+   "lost": 15,
+   "gf": 50,
+   "ga": 60,
+   "points": 39,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "FC Augsburg",
+   "gd": -10,
+   "pos": 11
+  },
+  {
+   "played": 34,
+   "won": 10,
+   "drawn": 7,
+   "lost": 17,
+   "gf": 41,
+   "ga": 56,
+   "points": 37,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "VfL Wolfsburg",
+   "gd": -15,
+   "pos": 12
+  },
+  {
+   "played": 34,
+   "won": 7,
+   "drawn": 14,
+   "lost": 13,
+   "gf": 39,
+   "ga": 51,
+   "points": 35,
+   "form": [
+    "D",
+    "D",
+    "D",
+    "W",
+    "W"
+   ],
+   "team": "1. FSV Mainz 05",
+   "gd": -12,
+   "pos": 13
+  },
+  {
+   "played": 34,
+   "won": 7,
+   "drawn": 13,
+   "lost": 14,
+   "gf": 56,
+   "ga": 67,
+   "points": 34,
+   "form": [
+    "L",
+    "D",
+    "D",
+    "D",
+    "L"
+   ],
+   "team": "Borussia Mönchengladbach",
+   "gd": -11,
+   "pos": 14
+  },
+  {
+   "played": 34,
+   "won": 9,
+   "drawn": 6,
+   "lost": 19,
+   "gf": 33,
+   "ga": 58,
+   "points": 33,
+   "form": [
+    "L",
+    "D",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "1. FC Union Berlin",
+   "gd": -25,
+   "pos": 15
+  },
+  {
+   "played": 34,
+   "won": 7,
+   "drawn": 12,
+   "lost": 15,
+   "gf": 42,
+   "ga": 74,
+   "points": 33,
+   "form": [
+    "L",
+    "W",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "VfL Bochum 1848",
+   "gd": -32,
+   "pos": 16
+  },
+  {
+   "played": 34,
+   "won": 5,
+   "drawn": 12,
+   "lost": 17,
+   "gf": 28,
+   "ga": 60,
+   "points": 27,
+   "form": [
+    "L",
+    "D",
+    "D",
+    "W",
+    "L"
+   ],
+   "team": "1. FC Köln",
+   "gd": -32,
+   "pos": 17
+  },
+  {
+   "played": 34,
+   "won": 3,
+   "drawn": 8,
+   "lost": 23,
+   "gf": 30,
+   "ga": 86,
+   "points": 17,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "SV Darmstadt 98",
+   "gd": -56,
+   "pos": 18
+  }
+ ],
+ "2024/2025": [
+  {
+   "played": 34,
+   "won": 25,
+   "drawn": 7,
+   "lost": 2,
+   "gf": 99,
+   "ga": 32,
+   "points": 82,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "W",
+    "W"
+   ],
+   "team": "Bayern München",
+   "gd": 67,
+   "pos": 1
+  },
+  {
+   "played": 34,
+   "won": 19,
+   "drawn": 12,
+   "lost": 3,
+   "gf": 72,
+   "ga": 43,
+   "points": 69,
+   "form": [
+    "D",
+    "W",
+    "D",
+    "L",
+    "D"
+   ],
+   "team": "Bayer Leverkusen",
+   "gd": 29,
+   "pos": 2
+  },
+  {
+   "played": 34,
+   "won": 17,
+   "drawn": 9,
+   "lost": 8,
+   "gf": 68,
+   "ga": 46,
+   "points": 60,
+   "form": [
+    "D",
+    "W",
+    "D",
+    "D",
+    "W"
+   ],
+   "team": "Eintracht Frankfurt",
+   "gd": 22,
+   "pos": 3
+  },
+  {
+   "played": 34,
+   "won": 17,
+   "drawn": 6,
+   "lost": 11,
+   "gf": 71,
+   "ga": 51,
+   "points": 57,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Borussia Dortmund",
+   "gd": 20,
+   "pos": 4
+  },
+  {
+   "played": 34,
+   "won": 16,
+   "drawn": 7,
+   "lost": 11,
+   "gf": 49,
+   "ga": 53,
+   "points": 55,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "W",
+    "L"
+   ],
+   "team": "SC Freiburg",
+   "gd": -4,
+   "pos": 5
+  },
+  {
+   "played": 34,
+   "won": 14,
+   "drawn": 10,
+   "lost": 10,
+   "gf": 55,
+   "ga": 43,
+   "points": 52,
+   "form": [
+    "D",
+    "L",
+    "D",
+    "W",
+    "D"
+   ],
+   "team": "1. FSV Mainz 05",
+   "gd": 12,
+   "pos": 6
+  },
+  {
+   "played": 34,
+   "won": 13,
+   "drawn": 12,
+   "lost": 9,
+   "gf": 53,
+   "ga": 48,
+   "points": 51,
+   "form": [
+    "D",
+    "L",
+    "D",
+    "D",
+    "L"
+   ],
+   "team": "RB Leipzig",
+   "gd": 5,
+   "pos": 7
+  },
+  {
+   "played": 34,
+   "won": 14,
+   "drawn": 9,
+   "lost": 11,
+   "gf": 54,
+   "ga": 57,
+   "points": 51,
+   "form": [
+    "W",
+    "D",
+    "D",
+    "D",
+    "W"
+   ],
+   "team": "Werder Bremen",
+   "gd": -3,
+   "pos": 8
+  },
+  {
+   "played": 34,
+   "won": 14,
+   "drawn": 8,
+   "lost": 12,
+   "gf": 64,
+   "ga": 53,
+   "points": 50,
+   "form": [
+    "D",
+    "L",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "VfB Stuttgart",
+   "gd": 11,
+   "pos": 9
+  },
+  {
+   "played": 34,
+   "won": 13,
+   "drawn": 6,
+   "lost": 15,
+   "gf": 55,
+   "ga": 57,
+   "points": 45,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "L",
+    "L"
+   ],
+   "team": "Borussia Mönchengladbach",
+   "gd": -2,
+   "pos": 10
+  },
+  {
+   "played": 34,
+   "won": 11,
+   "drawn": 10,
+   "lost": 13,
+   "gf": 56,
+   "ga": 54,
+   "points": 43,
+   "form": [
+    "D",
+    "L",
+    "L",
+    "D",
+    "W"
+   ],
+   "team": "VfL Wolfsburg",
+   "gd": 2,
+   "pos": 11
+  },
+  {
+   "played": 34,
+   "won": 11,
+   "drawn": 10,
+   "lost": 13,
+   "gf": 35,
+   "ga": 51,
+   "points": 43,
+   "form": [
+    "D",
+    "L",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "FC Augsburg",
+   "gd": -16,
+   "pos": 12
+  },
+  {
+   "played": 34,
+   "won": 10,
+   "drawn": 10,
+   "lost": 14,
+   "gf": 35,
+   "ga": 51,
+   "points": 40,
+   "form": [
+    "D",
+    "D",
+    "D",
+    "L",
+    "W"
+   ],
+   "team": "1. FC Union Berlin",
+   "gd": -16,
+   "pos": 13
+  },
+  {
+   "played": 34,
+   "won": 8,
+   "drawn": 8,
+   "lost": 18,
+   "gf": 28,
+   "ga": 41,
+   "points": 32,
+   "form": [
+    "D",
+    "D",
+    "L",
+    "D",
+    "L"
+   ],
+   "team": "FC St. Pauli",
+   "gd": -13,
+   "pos": 14
+  },
+  {
+   "played": 34,
+   "won": 7,
+   "drawn": 11,
+   "lost": 16,
+   "gf": 46,
+   "ga": 68,
+   "points": 32,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "D",
+    "L"
+   ],
+   "team": "1899 Hoffenheim",
+   "gd": -22,
+   "pos": 15
+  },
+  {
+   "played": 34,
+   "won": 8,
+   "drawn": 5,
+   "lost": 21,
+   "gf": 37,
+   "ga": 64,
+   "points": 29,
+   "form": [
+    "L",
+    "W",
+    "D",
+    "W",
+    "L"
+   ],
+   "team": "1. FC Heidenheim 1846",
+   "gd": -27,
+   "pos": 16
+  },
+  {
+   "played": 34,
+   "won": 6,
+   "drawn": 7,
+   "lost": 21,
+   "gf": 49,
+   "ga": 80,
+   "points": 25,
+   "form": [
+    "D",
+    "W",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "Holstein Kiel",
+   "gd": -31,
+   "pos": 17
+  },
+  {
+   "played": 34,
+   "won": 6,
+   "drawn": 7,
+   "lost": 21,
+   "gf": 33,
+   "ga": 67,
+   "points": 25,
+   "form": [
+    "L",
+    "D",
+    "D",
+    "L",
+    "W"
+   ],
+   "team": "VfL Bochum 1848",
+   "gd": -34,
+   "pos": 18
+  }
+ ],
+ "2025/2026": [
+  {
+   "played": 34,
+   "won": 28,
+   "drawn": 5,
+   "lost": 1,
+   "gf": 122,
+   "ga": 36,
+   "points": 89,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "W",
+    "W"
+   ],
+   "team": "Bayern München",
+   "gd": 86,
+   "pos": 1
+  },
+  {
+   "played": 34,
+   "won": 22,
+   "drawn": 7,
+   "lost": 5,
+   "gf": 70,
+   "ga": 34,
+   "points": 73,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "W",
+    "W"
+   ],
+   "team": "Borussia Dortmund",
+   "gd": 36,
+   "pos": 2
+  },
+  {
+   "played": 34,
+   "won": 20,
+   "drawn": 5,
+   "lost": 9,
+   "gf": 66,
+   "ga": 47,
+   "points": 65,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "RB Leipzig",
+   "gd": 19,
+   "pos": 3
+  },
+  {
+   "played": 34,
+   "won": 18,
+   "drawn": 8,
+   "lost": 8,
+   "gf": 71,
+   "ga": 49,
+   "points": 62,
+   "form": [
+    "L",
+    "D",
+    "D",
+    "W",
+    "D"
+   ],
+   "team": "VfB Stuttgart",
+   "gd": 22,
+   "pos": 4
+  },
+  {
+   "played": 34,
+   "won": 18,
+   "drawn": 7,
+   "lost": 9,
+   "gf": 65,
+   "ga": 52,
+   "points": 61,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "W",
+    "L"
+   ],
+   "team": "1899 Hoffenheim",
+   "gd": 13,
+   "pos": 5
+  },
+  {
+   "played": 34,
+   "won": 17,
+   "drawn": 8,
+   "lost": 9,
+   "gf": 68,
+   "ga": 47,
+   "points": 59,
+   "form": [
+    "L",
+    "W",
+    "W",
+    "L",
+    "D"
+   ],
+   "team": "Bayer Leverkusen",
+   "gd": 21,
+   "pos": 6
+  },
+  {
+   "played": 34,
+   "won": 13,
+   "drawn": 8,
+   "lost": 13,
+   "gf": 51,
+   "ga": 57,
+   "points": 47,
+   "form": [
+    "W",
+    "L",
+    "D",
+    "L",
+    "W"
+   ],
+   "team": "SC Freiburg",
+   "gd": -6,
+   "pos": 7
+  },
+  {
+   "played": 34,
+   "won": 11,
+   "drawn": 11,
+   "lost": 12,
+   "gf": 61,
+   "ga": 65,
+   "points": 44,
+   "form": [
+    "L",
+    "D",
+    "L",
+    "L",
+    "D"
+   ],
+   "team": "Eintracht Frankfurt",
+   "gd": -4,
+   "pos": 8
+  },
+  {
+   "played": 34,
+   "won": 12,
+   "drawn": 7,
+   "lost": 15,
+   "gf": 45,
+   "ga": 61,
+   "points": 43,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "FC Augsburg",
+   "gd": -16,
+   "pos": 9
+  },
+  {
+   "played": 34,
+   "won": 10,
+   "drawn": 10,
+   "lost": 14,
+   "gf": 44,
+   "ga": 53,
+   "points": 40,
+   "form": [
+    "D",
+    "L",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "1. FSV Mainz 05",
+   "gd": -9,
+   "pos": 10
+  },
+  {
+   "played": 34,
+   "won": 10,
+   "drawn": 9,
+   "lost": 15,
+   "gf": 44,
+   "ga": 58,
+   "points": 39,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "W",
+    "W"
+   ],
+   "team": "1. FC Union Berlin",
+   "gd": -14,
+   "pos": 11
+  },
+  {
+   "played": 34,
+   "won": 9,
+   "drawn": 11,
+   "lost": 14,
+   "gf": 42,
+   "ga": 53,
+   "points": 38,
+   "form": [
+    "D",
+    "D",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "Borussia Mönchengladbach",
+   "gd": -11,
+   "pos": 12
+  },
+  {
+   "played": 34,
+   "won": 9,
+   "drawn": 11,
+   "lost": 14,
+   "gf": 40,
+   "ga": 54,
+   "points": 38,
+   "form": [
+    "L",
+    "L",
+    "W",
+    "W",
+    "D"
+   ],
+   "team": "Hamburger SV",
+   "gd": -14,
+   "pos": 13
+  },
+  {
+   "played": 34,
+   "won": 7,
+   "drawn": 11,
+   "lost": 16,
+   "gf": 49,
+   "ga": 63,
+   "points": 32,
+   "form": [
+    "D",
+    "L",
+    "D",
+    "L",
+    "L"
+   ],
+   "team": "1. FC Köln",
+   "gd": -14,
+   "pos": 14
+  },
+  {
+   "played": 34,
+   "won": 8,
+   "drawn": 8,
+   "lost": 18,
+   "gf": 37,
+   "ga": 60,
+   "points": 32,
+   "form": [
+    "W",
+    "D",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Werder Bremen",
+   "gd": -23,
+   "pos": 15
+  },
+  {
+   "played": 34,
+   "won": 7,
+   "drawn": 8,
+   "lost": 19,
+   "gf": 45,
+   "ga": 69,
+   "points": 29,
+   "form": [
+    "W",
+    "D",
+    "D",
+    "L",
+    "W"
+   ],
+   "team": "VfL Wolfsburg",
+   "gd": -24,
+   "pos": 16
+  },
+  {
+   "played": 34,
+   "won": 6,
+   "drawn": 8,
+   "lost": 20,
+   "gf": 41,
+   "ga": 72,
+   "points": 26,
+   "form": [
+    "L",
+    "W",
+    "D",
+    "W",
+    "L"
+   ],
+   "team": "1. FC Heidenheim 1846",
+   "gd": -31,
+   "pos": 17
+  },
+  {
+   "played": 34,
+   "won": 6,
+   "drawn": 8,
+   "lost": 20,
+   "gf": 29,
+   "ga": 60,
+   "points": 26,
+   "form": [
+    "D",
+    "L",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "FC St. Pauli",
+   "gd": -31,
+   "pos": 18
+  }
+ ]
+}

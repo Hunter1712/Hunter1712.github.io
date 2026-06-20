@@ -1,0 +1,8 @@
+/data/predictions/*
+  Cache-Control: public, max-age=604800, immutable
+/data/standings/*
+  Cache-Control: public, max-age=604800, immutable
+/data/results/*
+  Cache-Control: public, max-age=604800, immutable
+/data/leagues.json
+  Cache-Control: public, max-age=604800, immutable

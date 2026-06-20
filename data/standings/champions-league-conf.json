@@ -1,0 +1,2932 @@
+{
+ "2021/2022": [
+  {
+   "played": 13,
+   "won": 8,
+   "drawn": 4,
+   "lost": 1,
+   "gf": 28,
+   "ga": 16,
+   "points": 28,
+   "form": [
+    "D",
+    "W",
+    "W",
+    "D",
+    "L"
+   ],
+   "team": "Feyenoord",
+   "gd": 12,
+   "pos": 1
+  },
+  {
+   "played": 13,
+   "won": 8,
+   "drawn": 3,
+   "lost": 2,
+   "gf": 28,
+   "ga": 15,
+   "points": 27,
+   "form": [
+    "L",
+    "W",
+    "D",
+    "W",
+    "W"
+   ],
+   "team": "AS Roma",
+   "gd": 13,
+   "pos": 2
+  },
+  {
+   "played": 12,
+   "won": 7,
+   "drawn": 4,
+   "lost": 1,
+   "gf": 25,
+   "ga": 14,
+   "points": 25,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "W",
+    "L"
+   ],
+   "team": "FK Bodø/Glimt",
+   "gd": 11,
+   "pos": 3
+  },
+  {
+   "played": 12,
+   "won": 6,
+   "drawn": 2,
+   "lost": 4,
+   "gf": 14,
+   "ga": 10,
+   "points": 20,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "PAOK Saloniki",
+   "gd": 4,
+   "pos": 4
+  },
+  {
+   "played": 8,
+   "won": 6,
+   "drawn": 1,
+   "lost": 1,
+   "gf": 17,
+   "ga": 8,
+   "points": 19,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "LASK",
+   "gd": 9,
+   "pos": 5
+  },
+  {
+   "played": 8,
+   "won": 6,
+   "drawn": 1,
+   "lost": 1,
+   "gf": 15,
+   "ga": 7,
+   "points": 19,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "L",
+    "D"
+   ],
+   "team": "Olympique Marseille",
+   "gd": 8,
+   "pos": 6
+  },
+  {
+   "played": 12,
+   "won": 5,
+   "drawn": 3,
+   "lost": 4,
+   "gf": 25,
+   "ga": 22,
+   "points": 18,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "D",
+    "L"
+   ],
+   "team": "Slavia Praha",
+   "gd": 3,
+   "pos": 7
+  },
+  {
+   "played": 8,
+   "won": 5,
+   "drawn": 2,
+   "lost": 1,
+   "gf": 15,
+   "ga": 10,
+   "points": 17,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "Stade Rennais",
+   "gd": 5,
+   "pos": 8
+  },
+  {
+   "played": 8,
+   "won": 5,
+   "drawn": 1,
+   "lost": 2,
+   "gf": 19,
+   "ga": 13,
+   "points": 16,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "D",
+    "L"
+   ],
+   "team": "FC København",
+   "gd": 6,
+   "pos": 9
+  },
+  {
+   "played": 8,
+   "won": 4,
+   "drawn": 3,
+   "lost": 1,
+   "gf": 11,
+   "ga": 7,
+   "points": 15,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "L",
+    "D"
+   ],
+   "team": "AZ Alkmaar",
+   "gd": 4,
+   "pos": 10
+  },
+  {
+   "played": 8,
+   "won": 4,
+   "drawn": 2,
+   "lost": 2,
+   "gf": 16,
+   "ga": 10,
+   "points": 14,
+   "form": [
+    "D",
+    "W",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "FC Basel 1893",
+   "gd": 6,
+   "pos": 11
+  },
+  {
+   "played": 8,
+   "won": 4,
+   "drawn": 2,
+   "lost": 2,
+   "gf": 13,
+   "ga": 7,
+   "points": 14,
+   "form": [
+    "L",
+    "D",
+    "W",
+    "D",
+    "L"
+   ],
+   "team": "Leicester City",
+   "gd": 6,
+   "pos": 12
+  },
+  {
+   "played": 10,
+   "won": 4,
+   "drawn": 2,
+   "lost": 4,
+   "gf": 16,
+   "ga": 13,
+   "points": 14,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "L",
+    "D"
+   ],
+   "team": "Vitesse",
+   "gd": 3,
+   "pos": 13
+  },
+  {
+   "played": 10,
+   "won": 4,
+   "drawn": 2,
+   "lost": 4,
+   "gf": 12,
+   "ga": 13,
+   "points": 14,
+   "form": [
+    "D",
+    "W",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "Partizan",
+   "gd": -1,
+   "pos": 14
+  },
+  {
+   "played": 8,
+   "won": 4,
+   "drawn": 1,
+   "lost": 3,
+   "gf": 7,
+   "ga": 5,
+   "points": 13,
+   "form": [
+    "D",
+    "L",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "KAA Gent",
+   "gd": 2,
+   "pos": 15
+  },
+  {
+   "played": 8,
+   "won": 3,
+   "drawn": 3,
+   "lost": 2,
+   "gf": 15,
+   "ga": 6,
+   "points": 12,
+   "form": [
+    "W",
+    "L",
+    "D",
+    "L",
+    "D"
+   ],
+   "team": "Maccabi Tel Aviv",
+   "gd": 9,
+   "pos": 16
+  },
+  {
+   "played": 8,
+   "won": 3,
+   "drawn": 2,
+   "lost": 3,
+   "gf": 11,
+   "ga": 14,
+   "points": 11,
+   "form": [
+    "W",
+    "D",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Qarabağ FK",
+   "gd": -3,
+   "pos": 17
+  },
+  {
+   "played": 6,
+   "won": 2,
+   "drawn": 3,
+   "lost": 1,
+   "gf": 11,
+   "ga": 7,
+   "points": 9,
+   "form": [
+    "D",
+    "D",
+    "W",
+    "D",
+    "L"
+   ],
+   "team": "PSV Eindhoven",
+   "gd": 4,
+   "pos": 18
+  },
+  {
+   "played": 6,
+   "won": 2,
+   "drawn": 2,
+   "lost": 2,
+   "gf": 8,
+   "ga": 7,
+   "points": 8,
+   "form": [
+    "D",
+    "W",
+    "W",
+    "D",
+    "L"
+   ],
+   "team": "Slovan Bratislava",
+   "gd": 1,
+   "pos": 19
+  },
+  {
+   "played": 6,
+   "won": 2,
+   "drawn": 1,
+   "lost": 3,
+   "gf": 11,
+   "ga": 11,
+   "points": 7,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "Tottenham Hotspur",
+   "gd": 0,
+   "pos": 20
+  },
+  {
+   "played": 6,
+   "won": 2,
+   "drawn": 1,
+   "lost": 3,
+   "gf": 8,
+   "ga": 9,
+   "points": 7,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "W",
+    "D"
+   ],
+   "team": "1. FC Union Berlin",
+   "gd": -1,
+   "pos": 21
+  },
+  {
+   "played": 8,
+   "won": 1,
+   "drawn": 4,
+   "lost": 3,
+   "gf": 11,
+   "ga": 16,
+   "points": 7,
+   "form": [
+    "D",
+    "W",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Randers",
+   "gd": -5,
+   "pos": 22
+  },
+  {
+   "played": 6,
+   "won": 2,
+   "drawn": 1,
+   "lost": 3,
+   "gf": 5,
+   "ga": 11,
+   "points": 7,
+   "form": [
+    "L",
+    "W",
+    "W",
+    "L",
+    "D"
+   ],
+   "team": "Zorya Lugansk",
+   "gd": -6,
+   "pos": 23
+  },
+  {
+   "played": 6,
+   "won": 1,
+   "drawn": 3,
+   "lost": 2,
+   "gf": 6,
+   "ga": 8,
+   "points": 6,
+   "form": [
+    "L",
+    "D",
+    "D",
+    "D",
+    "L"
+   ],
+   "team": "FK Jablonec",
+   "gd": -2,
+   "pos": 24
+  },
+  {
+   "played": 6,
+   "won": 1,
+   "drawn": 3,
+   "lost": 2,
+   "gf": 6,
+   "ga": 9,
+   "points": 6,
+   "form": [
+    "L",
+    "D",
+    "D",
+    "W",
+    "D"
+   ],
+   "team": "Anorthosis Famagusta",
+   "gd": -3,
+   "pos": 25
+  },
+  {
+   "played": 6,
+   "won": 2,
+   "drawn": 0,
+   "lost": 4,
+   "gf": 5,
+   "ga": 15,
+   "points": 6,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "HJK Helsinki",
+   "gd": -10,
+   "pos": 26
+  },
+  {
+   "played": 6,
+   "won": 1,
+   "drawn": 2,
+   "lost": 3,
+   "gf": 5,
+   "ga": 8,
+   "points": 5,
+   "form": [
+    "L",
+    "D",
+    "D",
+    "W",
+    "L"
+   ],
+   "team": "FC Flora",
+   "gd": -3,
+   "pos": 27
+  },
+  {
+   "played": 6,
+   "won": 1,
+   "drawn": 1,
+   "lost": 4,
+   "gf": 4,
+   "ga": 7,
+   "points": 4,
+   "form": [
+    "D",
+    "L",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "CFR Cluj",
+   "gd": -3,
+   "pos": 28
+  },
+  {
+   "played": 6,
+   "won": 0,
+   "drawn": 4,
+   "lost": 2,
+   "gf": 5,
+   "ga": 10,
+   "points": 4,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "D",
+    "D"
+   ],
+   "team": "Omonia Nikosia",
+   "gd": -5,
+   "pos": 29
+  },
+  {
+   "played": 6,
+   "won": 1,
+   "drawn": 1,
+   "lost": 4,
+   "gf": 2,
+   "ga": 7,
+   "points": 4,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Maccabi Haifa",
+   "gd": -5,
+   "pos": 30
+  },
+  {
+   "played": 2,
+   "won": 1,
+   "drawn": 0,
+   "lost": 1,
+   "gf": 2,
+   "ga": 2,
+   "points": 3,
+   "form": [
+    "W",
+    "L"
+   ],
+   "team": "FC Midtjylland",
+   "gd": 0,
+   "pos": 31
+  },
+  {
+   "played": 2,
+   "won": 1,
+   "drawn": 0,
+   "lost": 1,
+   "gf": 2,
+   "ga": 3,
+   "points": 3,
+   "form": [
+    "W",
+    "L"
+   ],
+   "team": "Rapid Wien",
+   "gd": -1,
+   "pos": 32
+  },
+  {
+   "played": 6,
+   "won": 1,
+   "drawn": 0,
+   "lost": 5,
+   "gf": 5,
+   "ga": 14,
+   "points": 3,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "NŠ Mura",
+   "gd": -9,
+   "pos": 33
+  },
+  {
+   "played": 6,
+   "won": 0,
+   "drawn": 2,
+   "lost": 4,
+   "gf": 6,
+   "ga": 11,
+   "points": 2,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "L",
+    "D"
+   ],
+   "team": "FK Kairat",
+   "gd": -5,
+   "pos": 34
+  },
+  {
+   "played": 6,
+   "won": 0,
+   "drawn": 1,
+   "lost": 5,
+   "gf": 3,
+   "ga": 13,
+   "points": 1,
+   "form": [
+    "D",
+    "L",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "CSKA Sofia",
+   "gd": -10,
+   "pos": 35
+  },
+  {
+   "played": 6,
+   "won": 0,
+   "drawn": 1,
+   "lost": 5,
+   "gf": 4,
+   "ga": 15,
+   "points": 1,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "L",
+    "D"
+   ],
+   "team": "FC Alashkert",
+   "gd": -11,
+   "pos": 36
+  },
+  {
+   "played": 2,
+   "won": 0,
+   "drawn": 0,
+   "lost": 2,
+   "gf": 4,
+   "ga": 6,
+   "points": 0,
+   "form": [
+    "L",
+    "L"
+   ],
+   "team": "Fenerbahçe",
+   "gd": -2,
+   "pos": 37
+  },
+  {
+   "played": 2,
+   "won": 0,
+   "drawn": 0,
+   "lost": 2,
+   "gf": 1,
+   "ga": 3,
+   "points": 0,
+   "form": [
+    "L",
+    "L"
+   ],
+   "team": "AC Sparta Praha",
+   "gd": -2,
+   "pos": 38
+  },
+  {
+   "played": 2,
+   "won": 0,
+   "drawn": 0,
+   "lost": 2,
+   "gf": 1,
+   "ga": 5,
+   "points": 0,
+   "form": [
+    "L",
+    "L"
+   ],
+   "team": "Celtic",
+   "gd": -4,
+   "pos": 39
+  },
+  {
+   "played": 6,
+   "won": 0,
+   "drawn": 0,
+   "lost": 6,
+   "gf": 2,
+   "ga": 17,
+   "points": 0,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Lincoln Red Imps",
+   "gd": -15,
+   "pos": 40
+  }
+ ],
+ "2022/2023": [
+  {
+   "played": 13,
+   "won": 12,
+   "drawn": 1,
+   "lost": 0,
+   "gf": 29,
+   "ga": 8,
+   "points": 37,
+   "form": [
+    "D",
+    "W",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "West Ham United",
+   "gd": 21,
+   "pos": 1
+  },
+  {
+   "played": 15,
+   "won": 10,
+   "drawn": 1,
+   "lost": 4,
+   "gf": 37,
+   "ga": 18,
+   "points": 31,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "ACF Fiorentina",
+   "gd": 19,
+   "pos": 2
+  },
+  {
+   "played": 12,
+   "won": 8,
+   "drawn": 0,
+   "lost": 4,
+   "gf": 19,
+   "ga": 13,
+   "points": 24,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "AZ Alkmaar",
+   "gd": 6,
+   "pos": 3
+  },
+  {
+   "played": 14,
+   "won": 6,
+   "drawn": 5,
+   "lost": 3,
+   "gf": 24,
+   "ga": 21,
+   "points": 23,
+   "form": [
+    "D",
+    "D",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "FC Basel 1893",
+   "gd": 3,
+   "pos": 4
+  },
+  {
+   "played": 12,
+   "won": 6,
+   "drawn": 4,
+   "lost": 2,
+   "gf": 22,
+   "ga": 13,
+   "points": 22,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "Lech Poznań",
+   "gd": 9,
+   "pos": 5
+  },
+  {
+   "played": 12,
+   "won": 5,
+   "drawn": 3,
+   "lost": 4,
+   "gf": 12,
+   "ga": 10,
+   "points": 18,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "RSC Anderlecht",
+   "gd": 2,
+   "pos": 6
+  },
+  {
+   "played": 12,
+   "won": 4,
+   "drawn": 4,
+   "lost": 4,
+   "gf": 18,
+   "ga": 14,
+   "points": 16,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "D",
+    "L"
+   ],
+   "team": "KAA Gent",
+   "gd": 4,
+   "pos": 7
+  },
+  {
+   "played": 10,
+   "won": 4,
+   "drawn": 4,
+   "lost": 2,
+   "gf": 15,
+   "ga": 12,
+   "points": 16,
+   "form": [
+    "D",
+    "W",
+    "W",
+    "D",
+    "L"
+   ],
+   "team": "OGC Nice",
+   "gd": 3,
+   "pos": 8
+  },
+  {
+   "played": 8,
+   "won": 5,
+   "drawn": 1,
+   "lost": 2,
+   "gf": 12,
+   "ga": 11,
+   "points": 16,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "Djurgårdens IF",
+   "gd": 1,
+   "pos": 9
+  },
+  {
+   "played": 8,
+   "won": 4,
+   "drawn": 2,
+   "lost": 2,
+   "gf": 16,
+   "ga": 8,
+   "points": 14,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "D",
+    "L"
+   ],
+   "team": "İstanbul Başakşehir",
+   "gd": 8,
+   "pos": 10
+  },
+  {
+   "played": 8,
+   "won": 4,
+   "drawn": 2,
+   "lost": 2,
+   "gf": 15,
+   "ga": 11,
+   "points": 14,
+   "form": [
+    "W",
+    "D",
+    "L",
+    "D",
+    "L"
+   ],
+   "team": "Villarreal",
+   "gd": 4,
+   "pos": 11
+  },
+  {
+   "played": 8,
+   "won": 3,
+   "drawn": 4,
+   "lost": 1,
+   "gf": 13,
+   "ga": 11,
+   "points": 13,
+   "form": [
+    "D",
+    "W",
+    "W",
+    "D",
+    "D"
+   ],
+   "team": "Slovan Bratislava",
+   "gd": 2,
+   "pos": 12
+  },
+  {
+   "played": 8,
+   "won": 3,
+   "drawn": 3,
+   "lost": 2,
+   "gf": 11,
+   "ga": 10,
+   "points": 12,
+   "form": [
+    "W",
+    "L",
+    "D",
+    "W",
+    "L"
+   ],
+   "team": "Partizan",
+   "gd": 1,
+   "pos": 13
+  },
+  {
+   "played": 8,
+   "won": 3,
+   "drawn": 2,
+   "lost": 3,
+   "gf": 9,
+   "ga": 8,
+   "points": 11,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "L",
+    "D"
+   ],
+   "team": "SK Dnipro-1",
+   "gd": 1,
+   "pos": 14
+  },
+  {
+   "played": 8,
+   "won": 3,
+   "drawn": 2,
+   "lost": 3,
+   "gf": 12,
+   "ga": 12,
+   "points": 11,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "L",
+    "L"
+   ],
+   "team": "Sivasspor",
+   "gd": 0,
+   "pos": 15
+  },
+  {
+   "played": 8,
+   "won": 3,
+   "drawn": 2,
+   "lost": 3,
+   "gf": 5,
+   "ga": 6,
+   "points": 11,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "L",
+    "D"
+   ],
+   "team": "CFR Cluj",
+   "gd": -1,
+   "pos": 16
+  },
+  {
+   "played": 6,
+   "won": 2,
+   "drawn": 2,
+   "lost": 2,
+   "gf": 8,
+   "ga": 8,
+   "points": 8,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "W",
+    "D"
+   ],
+   "team": "1. FC Köln",
+   "gd": 0,
+   "pos": 17
+  },
+  {
+   "played": 6,
+   "won": 2,
+   "drawn": 2,
+   "lost": 2,
+   "gf": 6,
+   "ga": 7,
+   "points": 8,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "W",
+    "D"
+   ],
+   "team": "Slavia Praha",
+   "gd": -1,
+   "pos": 18
+  },
+  {
+   "played": 6,
+   "won": 1,
+   "drawn": 4,
+   "lost": 1,
+   "gf": 8,
+   "ga": 5,
+   "points": 7,
+   "form": [
+    "L",
+    "D",
+    "D",
+    "D",
+    "W"
+   ],
+   "team": "Hapoel Be'er Sheva",
+   "gd": 3,
+   "pos": 19
+  },
+  {
+   "played": 6,
+   "won": 2,
+   "drawn": 1,
+   "lost": 3,
+   "gf": 9,
+   "ga": 10,
+   "points": 7,
+   "form": [
+    "L",
+    "W",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "Molde FK",
+   "gd": -1,
+   "pos": 20
+  },
+  {
+   "played": 6,
+   "won": 2,
+   "drawn": 1,
+   "lost": 3,
+   "gf": 5,
+   "ga": 7,
+   "points": 7,
+   "form": [
+    "L",
+    "L",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "Apollon Limassol",
+   "gd": -2,
+   "pos": 21
+  },
+  {
+   "played": 6,
+   "won": 2,
+   "drawn": 0,
+   "lost": 4,
+   "gf": 12,
+   "ga": 7,
+   "points": 6,
+   "form": [
+    "L",
+    "W",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "Silkeborg IF",
+   "gd": 5,
+   "pos": 22
+  },
+  {
+   "played": 6,
+   "won": 2,
+   "drawn": 0,
+   "lost": 4,
+   "gf": 8,
+   "ga": 9,
+   "points": 6,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Pyunik",
+   "gd": -1,
+   "pos": 23
+  },
+  {
+   "played": 6,
+   "won": 2,
+   "drawn": 0,
+   "lost": 4,
+   "gf": 6,
+   "ga": 16,
+   "points": 6,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Heart of Midlothian",
+   "gd": -10,
+   "pos": 24
+  },
+  {
+   "played": 6,
+   "won": 1,
+   "drawn": 2,
+   "lost": 3,
+   "gf": 8,
+   "ga": 11,
+   "points": 5,
+   "form": [
+    "L",
+    "L",
+    "W",
+    "L",
+    "D"
+   ],
+   "team": "1. FC Slovácko",
+   "gd": -3,
+   "pos": 25
+  },
+  {
+   "played": 6,
+   "won": 1,
+   "drawn": 2,
+   "lost": 3,
+   "gf": 5,
+   "ga": 8,
+   "points": 5,
+   "form": [
+    "L",
+    "L",
+    "W",
+    "D",
+    "L"
+   ],
+   "team": "FK Žalgiris",
+   "gd": -3,
+   "pos": 26
+  },
+  {
+   "played": 4,
+   "won": 1,
+   "drawn": 1,
+   "lost": 2,
+   "gf": 3,
+   "ga": 4,
+   "points": 4,
+   "form": [
+    "W",
+    "D",
+    "L",
+    "L"
+   ],
+   "team": "SS Lazio",
+   "gd": -1,
+   "pos": 27
+  },
+  {
+   "played": 6,
+   "won": 1,
+   "drawn": 1,
+   "lost": 4,
+   "gf": 8,
+   "ga": 11,
+   "points": 4,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "KF Ballkani",
+   "gd": -3,
+   "pos": 28
+  },
+  {
+   "played": 4,
+   "won": 1,
+   "drawn": 1,
+   "lost": 2,
+   "gf": 1,
+   "ga": 6,
+   "points": 4,
+   "form": [
+    "W",
+    "D",
+    "L",
+    "L"
+   ],
+   "team": "AEK Larnaca",
+   "gd": -5,
+   "pos": 29
+  },
+  {
+   "played": 2,
+   "won": 1,
+   "drawn": 0,
+   "lost": 1,
+   "gf": 2,
+   "ga": 2,
+   "points": 3,
+   "form": [
+    "W",
+    "L"
+   ],
+   "team": "PFC Ludogorets Razgrad",
+   "gd": 0,
+   "pos": 30
+  },
+  {
+   "played": 2,
+   "won": 1,
+   "drawn": 0,
+   "lost": 1,
+   "gf": 1,
+   "ga": 1,
+   "points": 3,
+   "form": [
+    "W",
+    "L"
+   ],
+   "team": "Qarabağ FK",
+   "gd": 0,
+   "pos": 31
+  },
+  {
+   "played": 2,
+   "won": 1,
+   "drawn": 0,
+   "lost": 1,
+   "gf": 1,
+   "ga": 2,
+   "points": 3,
+   "form": [
+    "W",
+    "L"
+   ],
+   "team": "Trabzonspor",
+   "gd": -1,
+   "pos": 32
+  },
+  {
+   "played": 4,
+   "won": 1,
+   "drawn": 0,
+   "lost": 3,
+   "gf": 4,
+   "ga": 6,
+   "points": 3,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "FC Sheriff",
+   "gd": -2,
+   "pos": 33
+  },
+  {
+   "played": 6,
+   "won": 0,
+   "drawn": 2,
+   "lost": 4,
+   "gf": 5,
+   "ga": 11,
+   "points": 2,
+   "form": [
+    "L",
+    "D",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "FC Vaduz",
+   "gd": -6,
+   "pos": 34
+  },
+  {
+   "played": 6,
+   "won": 0,
+   "drawn": 2,
+   "lost": 4,
+   "gf": 2,
+   "ga": 11,
+   "points": 2,
+   "form": [
+    "L",
+    "D",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "FK RFS",
+   "gd": -9,
+   "pos": 35
+  },
+  {
+   "played": 6,
+   "won": 0,
+   "drawn": 2,
+   "lost": 4,
+   "gf": 1,
+   "ga": 10,
+   "points": 2,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "D",
+    "L"
+   ],
+   "team": "Shamrock Rovers",
+   "gd": -9,
+   "pos": 36
+  },
+  {
+   "played": 6,
+   "won": 0,
+   "drawn": 2,
+   "lost": 4,
+   "gf": 2,
+   "ga": 15,
+   "points": 2,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "D",
+    "L"
+   ],
+   "team": "Austria Wien",
+   "gd": -13,
+   "pos": 37
+  },
+  {
+   "played": 6,
+   "won": 0,
+   "drawn": 2,
+   "lost": 4,
+   "gf": 3,
+   "ga": 18,
+   "points": 2,
+   "form": [
+    "D",
+    "L",
+    "L",
+    "D",
+    "L"
+   ],
+   "team": "FCSB",
+   "gd": -15,
+   "pos": 38
+  },
+  {
+   "played": 2,
+   "won": 0,
+   "drawn": 1,
+   "lost": 1,
+   "gf": 0,
+   "ga": 1,
+   "points": 1,
+   "form": [
+    "D",
+    "L"
+   ],
+   "team": "FK Bodø/Glimt",
+   "gd": -1,
+   "pos": 39
+  },
+  {
+   "played": 2,
+   "won": 0,
+   "drawn": 0,
+   "lost": 2,
+   "gf": 2,
+   "ga": 7,
+   "points": 0,
+   "form": [
+    "L",
+    "L"
+   ],
+   "team": "Sporting Braga",
+   "gd": -5,
+   "pos": 40
+  }
+ ],
+ "2023/2024": [
+  {
+   "played": 12,
+   "won": 8,
+   "drawn": 2,
+   "lost": 2,
+   "gf": 25,
+   "ga": 9,
+   "points": 26,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "L",
+    "D"
+   ],
+   "team": "Club Brugge KV",
+   "gd": 16,
+   "pos": 1
+  },
+  {
+   "played": 13,
+   "won": 6,
+   "drawn": 6,
+   "lost": 1,
+   "gf": 25,
+   "ga": 14,
+   "points": 24,
+   "form": [
+    "D",
+    "W",
+    "W",
+    "D",
+    "L"
+   ],
+   "team": "ACF Fiorentina",
+   "gd": 11,
+   "pos": 2
+  },
+  {
+   "played": 10,
+   "won": 6,
+   "drawn": 3,
+   "lost": 1,
+   "gf": 17,
+   "ga": 6,
+   "points": 21,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "L",
+    "W"
+   ],
+   "team": "Lille OSC",
+   "gd": 11,
+   "pos": 3
+  },
+  {
+   "played": 9,
+   "won": 7,
+   "drawn": 0,
+   "lost": 2,
+   "gf": 19,
+   "ga": 10,
+   "points": 21,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Olympiakos Piraeus",
+   "gd": 9,
+   "pos": 4
+  },
+  {
+   "played": 10,
+   "won": 6,
+   "drawn": 3,
+   "lost": 1,
+   "gf": 9,
+   "ga": 3,
+   "points": 21,
+   "form": [
+    "W",
+    "D",
+    "D",
+    "D",
+    "L"
+   ],
+   "team": "Viktoria Plzeň",
+   "gd": 6,
+   "pos": 5
+  },
+  {
+   "played": 12,
+   "won": 6,
+   "drawn": 2,
+   "lost": 4,
+   "gf": 21,
+   "ga": 16,
+   "points": 20,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Aston Villa",
+   "gd": 5,
+   "pos": 6
+  },
+  {
+   "played": 10,
+   "won": 6,
+   "drawn": 1,
+   "lost": 3,
+   "gf": 21,
+   "ga": 16,
+   "points": 19,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "PAOK Saloniki",
+   "gd": 5,
+   "pos": 7
+  },
+  {
+   "played": 10,
+   "won": 6,
+   "drawn": 0,
+   "lost": 4,
+   "gf": 19,
+   "ga": 15,
+   "points": 18,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "Fenerbahçe",
+   "gd": 4,
+   "pos": 8
+  },
+  {
+   "played": 8,
+   "won": 6,
+   "drawn": 0,
+   "lost": 2,
+   "gf": 19,
+   "ga": 16,
+   "points": 18,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "Maccabi Tel Aviv",
+   "gd": 3,
+   "pos": 9
+  },
+  {
+   "played": 10,
+   "won": 5,
+   "drawn": 1,
+   "lost": 4,
+   "gf": 15,
+   "ga": 11,
+   "points": 16,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "W",
+    "L"
+   ],
+   "team": "Dinamo Zagreb",
+   "gd": 4,
+   "pos": 10
+  },
+  {
+   "played": 8,
+   "won": 4,
+   "drawn": 2,
+   "lost": 2,
+   "gf": 17,
+   "ga": 9,
+   "points": 14,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "L",
+    "D"
+   ],
+   "team": "KAA Gent",
+   "gd": 8,
+   "pos": 11
+  },
+  {
+   "played": 8,
+   "won": 4,
+   "drawn": 1,
+   "lost": 3,
+   "gf": 11,
+   "ga": 12,
+   "points": 13,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "D",
+    "L"
+   ],
+   "team": "PFC Ludogorets Razgrad",
+   "gd": -1,
+   "pos": 12
+  },
+  {
+   "played": 8,
+   "won": 4,
+   "drawn": 0,
+   "lost": 4,
+   "gf": 12,
+   "ga": 12,
+   "points": 12,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "Legia Warszawa",
+   "gd": 0,
+   "pos": 13
+  },
+  {
+   "played": 8,
+   "won": 3,
+   "drawn": 2,
+   "lost": 3,
+   "gf": 14,
+   "ga": 12,
+   "points": 11,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "D",
+    "L"
+   ],
+   "team": "FK Bodø/Glimt",
+   "gd": 2,
+   "pos": 14
+  },
+  {
+   "played": 6,
+   "won": 3,
+   "drawn": 1,
+   "lost": 2,
+   "gf": 17,
+   "ga": 7,
+   "points": 10,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "W",
+    "L"
+   ],
+   "team": "FC Nordsjælland",
+   "gd": 10,
+   "pos": 15
+  },
+  {
+   "played": 8,
+   "won": 3,
+   "drawn": 1,
+   "lost": 4,
+   "gf": 14,
+   "ga": 11,
+   "points": 10,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "D",
+    "L"
+   ],
+   "team": "Eintracht Frankfurt",
+   "gd": 3,
+   "pos": 16
+  },
+  {
+   "played": 8,
+   "won": 2,
+   "drawn": 4,
+   "lost": 2,
+   "gf": 9,
+   "ga": 8,
+   "points": 10,
+   "form": [
+    "D",
+    "W",
+    "D",
+    "L",
+    "L"
+   ],
+   "team": "Ferencvárosi TC",
+   "gd": 1,
+   "pos": 17
+  },
+  {
+   "played": 8,
+   "won": 3,
+   "drawn": 1,
+   "lost": 4,
+   "gf": 9,
+   "ga": 12,
+   "points": 10,
+   "form": [
+    "D",
+    "W",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Slovan Bratislava",
+   "gd": -3,
+   "pos": 18
+  },
+  {
+   "played": 6,
+   "won": 2,
+   "drawn": 3,
+   "lost": 1,
+   "gf": 8,
+   "ga": 5,
+   "points": 9,
+   "form": [
+    "W",
+    "D",
+    "D",
+    "L",
+    "W"
+   ],
+   "team": "KRC Genk",
+   "gd": 3,
+   "pos": 19
+  },
+  {
+   "played": 4,
+   "won": 3,
+   "drawn": 0,
+   "lost": 1,
+   "gf": 8,
+   "ga": 6,
+   "points": 9,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "Molde FK",
+   "gd": 2,
+   "pos": 20
+  },
+  {
+   "played": 4,
+   "won": 2,
+   "drawn": 1,
+   "lost": 1,
+   "gf": 6,
+   "ga": 5,
+   "points": 7,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "D"
+   ],
+   "team": "Sturm Graz",
+   "gd": 1,
+   "pos": 21
+  },
+  {
+   "played": 6,
+   "won": 2,
+   "drawn": 1,
+   "lost": 3,
+   "gf": 10,
+   "ga": 11,
+   "points": 7,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "Zorya Lugansk",
+   "gd": -1,
+   "pos": 22
+  },
+  {
+   "played": 4,
+   "won": 2,
+   "drawn": 1,
+   "lost": 1,
+   "gf": 5,
+   "ga": 6,
+   "points": 7,
+   "form": [
+    "D",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "Union Saint-Gilloise",
+   "gd": -1,
+   "pos": 23
+  },
+  {
+   "played": 4,
+   "won": 1,
+   "drawn": 3,
+   "lost": 0,
+   "gf": 1,
+   "ga": 0,
+   "points": 6,
+   "form": [
+    "D",
+    "W",
+    "D",
+    "D"
+   ],
+   "team": "Servette",
+   "gd": 1,
+   "pos": 24
+  },
+  {
+   "played": 6,
+   "won": 1,
+   "drawn": 3,
+   "lost": 2,
+   "gf": 10,
+   "ga": 10,
+   "points": 6,
+   "form": [
+    "D",
+    "L",
+    "D",
+    "D",
+    "W"
+   ],
+   "team": "Aberdeen",
+   "gd": 0,
+   "pos": 25
+  },
+  {
+   "played": 6,
+   "won": 2,
+   "drawn": 0,
+   "lost": 4,
+   "gf": 7,
+   "ga": 12,
+   "points": 6,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "AZ Alkmaar",
+   "gd": -5,
+   "pos": 26
+  },
+  {
+   "played": 6,
+   "won": 2,
+   "drawn": 0,
+   "lost": 4,
+   "gf": 4,
+   "ga": 9,
+   "points": 6,
+   "form": [
+    "L",
+    "L",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "Olimpija Ljubljana",
+   "gd": -5,
+   "pos": 27
+  },
+  {
+   "played": 4,
+   "won": 1,
+   "drawn": 2,
+   "lost": 1,
+   "gf": 6,
+   "ga": 6,
+   "points": 5,
+   "form": [
+    "W",
+    "D",
+    "L",
+    "D"
+   ],
+   "team": "Maccabi Haifa",
+   "gd": 0,
+   "pos": 28
+  },
+  {
+   "played": 4,
+   "won": 1,
+   "drawn": 2,
+   "lost": 1,
+   "gf": 4,
+   "ga": 7,
+   "points": 5,
+   "form": [
+    "D",
+    "W",
+    "D",
+    "L"
+   ],
+   "team": "AFC Ajax",
+   "gd": -3,
+   "pos": 29
+  },
+  {
+   "played": 6,
+   "won": 1,
+   "drawn": 1,
+   "lost": 4,
+   "gf": 6,
+   "ga": 10,
+   "points": 4,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "L",
+    "D"
+   ],
+   "team": "Zrinjski Mostar",
+   "gd": -4,
+   "pos": 30
+  },
+  {
+   "played": 6,
+   "won": 1,
+   "drawn": 1,
+   "lost": 4,
+   "gf": 5,
+   "ga": 9,
+   "points": 4,
+   "form": [
+    "D",
+    "W",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "KÍ Klaksvík",
+   "gd": -4,
+   "pos": 31
+  },
+  {
+   "played": 6,
+   "won": 1,
+   "drawn": 1,
+   "lost": 4,
+   "gf": 3,
+   "ga": 7,
+   "points": 4,
+   "form": [
+    "W",
+    "L",
+    "D",
+    "L",
+    "L"
+   ],
+   "team": "KF Ballkani",
+   "gd": -4,
+   "pos": 32
+  },
+  {
+   "played": 6,
+   "won": 1,
+   "drawn": 1,
+   "lost": 4,
+   "gf": 7,
+   "ga": 14,
+   "points": 4,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "Beşiktaş",
+   "gd": -7,
+   "pos": 33
+  },
+  {
+   "played": 6,
+   "won": 1,
+   "drawn": 1,
+   "lost": 4,
+   "gf": 6,
+   "ga": 14,
+   "points": 4,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "FC Lugano",
+   "gd": -8,
+   "pos": 34
+  },
+  {
+   "played": 6,
+   "won": 1,
+   "drawn": 1,
+   "lost": 4,
+   "gf": 4,
+   "ga": 13,
+   "points": 4,
+   "form": [
+    "L",
+    "W",
+    "D",
+    "L",
+    "L"
+   ],
+   "team": "FK Astana",
+   "gd": -9,
+   "pos": 35
+  },
+  {
+   "played": 6,
+   "won": 0,
+   "drawn": 2,
+   "lost": 4,
+   "gf": 7,
+   "ga": 17,
+   "points": 2,
+   "form": [
+    "D",
+    "L",
+    "L",
+    "D",
+    "L"
+   ],
+   "team": "HJK Helsinki",
+   "gd": -10,
+   "pos": 36
+  },
+  {
+   "played": 2,
+   "won": 0,
+   "drawn": 1,
+   "lost": 1,
+   "gf": 1,
+   "ga": 2,
+   "points": 1,
+   "form": [
+    "L",
+    "D"
+   ],
+   "team": "Real Betis",
+   "gd": -1,
+   "pos": 37
+  },
+  {
+   "played": 6,
+   "won": 0,
+   "drawn": 1,
+   "lost": 5,
+   "gf": 3,
+   "ga": 15,
+   "points": 1,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "L",
+    "L"
+   ],
+   "team": "Spartak Trnava",
+   "gd": -12,
+   "pos": 38
+  },
+  {
+   "played": 6,
+   "won": 0,
+   "drawn": 0,
+   "lost": 6,
+   "gf": 5,
+   "ga": 18,
+   "points": 0,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Breiðablik",
+   "gd": -13,
+   "pos": 39
+  },
+  {
+   "played": 6,
+   "won": 0,
+   "drawn": 0,
+   "lost": 6,
+   "gf": 2,
+   "ga": 16,
+   "points": 0,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "FK Čukarički",
+   "gd": -14,
+   "pos": 40
+  }
+ ],
+ "2024/2025": [
+  {
+   "played": 13,
+   "won": 12,
+   "drawn": 0,
+   "lost": 1,
+   "gf": 42,
+   "ga": 10,
+   "points": 36,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "Chelsea",
+   "gd": 32,
+   "pos": 1
+  },
+  {
+   "played": 15,
+   "won": 7,
+   "drawn": 4,
+   "lost": 4,
+   "gf": 23,
+   "ga": 16,
+   "points": 25,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "D",
+    "L"
+   ],
+   "team": "Real Betis",
+   "gd": 7,
+   "pos": 2
+  },
+  {
+   "played": 12,
+   "won": 6,
+   "drawn": 3,
+   "lost": 3,
+   "gf": 30,
+   "ga": 18,
+   "points": 21,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "L",
+    "D"
+   ],
+   "team": "ACF Fiorentina",
+   "gd": 12,
+   "pos": 3
+  },
+  {
+   "played": 12,
+   "won": 6,
+   "drawn": 3,
+   "lost": 3,
+   "gf": 20,
+   "ga": 12,
+   "points": 21,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "L",
+    "D"
+   ],
+   "team": "Jagiellonia Białystok",
+   "gd": 8,
+   "pos": 4
+  },
+  {
+   "played": 10,
+   "won": 6,
+   "drawn": 2,
+   "lost": 2,
+   "gf": 16,
+   "ga": 11,
+   "points": 20,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "Rapid Wien",
+   "gd": 5,
+   "pos": 5
+  },
+  {
+   "played": 12,
+   "won": 6,
+   "drawn": 1,
+   "lost": 5,
+   "gf": 19,
+   "ga": 15,
+   "points": 19,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "Djurgårdens IF",
+   "gd": 4,
+   "pos": 6
+  },
+  {
+   "played": 10,
+   "won": 6,
+   "drawn": 0,
+   "lost": 4,
+   "gf": 19,
+   "ga": 12,
+   "points": 18,
+   "form": [
+    "L",
+    "L",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "Legia Warszawa",
+   "gd": 7,
+   "pos": 7
+  },
+  {
+   "played": 10,
+   "won": 5,
+   "drawn": 2,
+   "lost": 3,
+   "gf": 15,
+   "ga": 12,
+   "points": 17,
+   "form": [
+    "D",
+    "D",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "Paphos",
+   "gd": 3,
+   "pos": 8
+  },
+  {
+   "played": 8,
+   "won": 5,
+   "drawn": 1,
+   "lost": 2,
+   "gf": 16,
+   "ga": 12,
+   "points": 16,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "L",
+    "W"
+   ],
+   "team": "FC Lugano",
+   "gd": 4,
+   "pos": 9
+  },
+  {
+   "played": 10,
+   "won": 5,
+   "drawn": 1,
+   "lost": 4,
+   "gf": 17,
+   "ga": 14,
+   "points": 16,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "Panathinaikos",
+   "gd": 3,
+   "pos": 10
+  },
+  {
+   "played": 8,
+   "won": 4,
+   "drawn": 3,
+   "lost": 1,
+   "gf": 15,
+   "ga": 12,
+   "points": 15,
+   "form": [
+    "D",
+    "W",
+    "D",
+    "D",
+    "L"
+   ],
+   "team": "Vitória Guimarães",
+   "gd": 3,
+   "pos": 11
+  },
+  {
+   "played": 12,
+   "won": 4,
+   "drawn": 3,
+   "lost": 5,
+   "gf": 25,
+   "ga": 24,
+   "points": 15,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "L",
+    "D"
+   ],
+   "team": "NK Celje",
+   "gd": 1,
+   "pos": 12
+  },
+  {
+   "played": 8,
+   "won": 4,
+   "drawn": 2,
+   "lost": 2,
+   "gf": 16,
+   "ga": 10,
+   "points": 14,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "L",
+    "W"
+   ],
+   "team": "Cercle Brugge",
+   "gd": 6,
+   "pos": 13
+  },
+  {
+   "played": 8,
+   "won": 4,
+   "drawn": 2,
+   "lost": 2,
+   "gf": 13,
+   "ga": 10,
+   "points": 14,
+   "form": [
+    "D",
+    "W",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Shamrock Rovers",
+   "gd": 3,
+   "pos": 14
+  },
+  {
+   "played": 8,
+   "won": 4,
+   "drawn": 1,
+   "lost": 3,
+   "gf": 10,
+   "ga": 11,
+   "points": 13,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "W",
+    "L"
+   ],
+   "team": "1. FC Heidenheim 1846",
+   "gd": -1,
+   "pos": 15
+  },
+  {
+   "played": 10,
+   "won": 4,
+   "drawn": 1,
+   "lost": 5,
+   "gf": 14,
+   "ga": 16,
+   "points": 13,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "Molde FK",
+   "gd": -2,
+   "pos": 16
+  },
+  {
+   "played": 10,
+   "won": 3,
+   "drawn": 4,
+   "lost": 3,
+   "gf": 7,
+   "ga": 10,
+   "points": 13,
+   "form": [
+    "D",
+    "W",
+    "D",
+    "D",
+    "L"
+   ],
+   "team": "Borac Banja Luka",
+   "gd": -3,
+   "pos": 17
+  },
+  {
+   "played": 8,
+   "won": 3,
+   "drawn": 3,
+   "lost": 2,
+   "gf": 10,
+   "ga": 9,
+   "points": 12,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "D",
+    "L"
+   ],
+   "team": "APOEL Nikosia",
+   "gd": 1,
+   "pos": 18
+  },
+  {
+   "played": 8,
+   "won": 4,
+   "drawn": 0,
+   "lost": 4,
+   "gf": 9,
+   "ga": 11,
+   "points": 12,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "KAA Gent",
+   "gd": -2,
+   "pos": 19
+  },
+  {
+   "played": 8,
+   "won": 3,
+   "drawn": 2,
+   "lost": 3,
+   "gf": 7,
+   "ga": 7,
+   "points": 11,
+   "form": [
+    "W",
+    "L",
+    "D",
+    "L",
+    "D"
+   ],
+   "team": "Olimpija Ljubljana",
+   "gd": 0,
+   "pos": 20
+  },
+  {
+   "played": 10,
+   "won": 3,
+   "drawn": 2,
+   "lost": 5,
+   "gf": 13,
+   "ga": 15,
+   "points": 11,
+   "form": [
+    "L",
+    "L",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "FC København",
+   "gd": -2,
+   "pos": 21
+  },
+  {
+   "played": 8,
+   "won": 3,
+   "drawn": 2,
+   "lost": 3,
+   "gf": 9,
+   "ga": 11,
+   "points": 11,
+   "form": [
+    "D",
+    "L",
+    "D",
+    "W",
+    "L"
+   ],
+   "team": "Víkingur Reykjavík",
+   "gd": -2,
+   "pos": 22
+  },
+  {
+   "played": 8,
+   "won": 2,
+   "drawn": 2,
+   "lost": 4,
+   "gf": 9,
+   "ga": 10,
+   "points": 8,
+   "form": [
+    "L",
+    "W",
+    "D",
+    "D",
+    "L"
+   ],
+   "team": "Omonia Nikosia",
+   "gd": -1,
+   "pos": 23
+  },
+  {
+   "played": 6,
+   "won": 2,
+   "drawn": 1,
+   "lost": 3,
+   "gf": 6,
+   "ga": 9,
+   "points": 7,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "L",
+    "D"
+   ],
+   "team": "Heart of Midlothian",
+   "gd": -3,
+   "pos": 24
+  },
+  {
+   "played": 8,
+   "won": 2,
+   "drawn": 1,
+   "lost": 5,
+   "gf": 12,
+   "ga": 19,
+   "points": 7,
+   "form": [
+    "D",
+    "L",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "TSC Bačka Topola",
+   "gd": -7,
+   "pos": 25
+  },
+  {
+   "played": 6,
+   "won": 1,
+   "drawn": 3,
+   "lost": 2,
+   "gf": 9,
+   "ga": 12,
+   "points": 6,
+   "form": [
+    "L",
+    "D",
+    "D",
+    "W",
+    "D"
+   ],
+   "team": "İstanbul Başakşehir",
+   "gd": -3,
+   "pos": 26
+  },
+  {
+   "played": 6,
+   "won": 2,
+   "drawn": 0,
+   "lost": 4,
+   "gf": 7,
+   "ga": 10,
+   "points": 6,
+   "form": [
+    "L",
+    "L",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "FK Mladá Boleslav",
+   "gd": -3,
+   "pos": 27
+  },
+  {
+   "played": 6,
+   "won": 1,
+   "drawn": 2,
+   "lost": 3,
+   "gf": 4,
+   "ga": 8,
+   "points": 5,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "L",
+    "D"
+   ],
+   "team": "FK Astana",
+   "gd": -4,
+   "pos": 28
+  },
+  {
+   "played": 6,
+   "won": 1,
+   "drawn": 2,
+   "lost": 3,
+   "gf": 10,
+   "ga": 18,
+   "points": 5,
+   "form": [
+    "L",
+    "W",
+    "D",
+    "L",
+    "D"
+   ],
+   "team": "FC St. Gallen",
+   "gd": -8,
+   "pos": 29
+  },
+  {
+   "played": 6,
+   "won": 1,
+   "drawn": 1,
+   "lost": 4,
+   "gf": 3,
+   "ga": 9,
+   "points": 4,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "D",
+    "L"
+   ],
+   "team": "HJK Helsinki",
+   "gd": -6,
+   "pos": 30
+  },
+  {
+   "played": 6,
+   "won": 1,
+   "drawn": 1,
+   "lost": 4,
+   "gf": 6,
+   "ga": 16,
+   "points": 4,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "L",
+    "L"
+   ],
+   "team": "FC Noah",
+   "gd": -10,
+   "pos": 31
+  },
+  {
+   "played": 6,
+   "won": 1,
+   "drawn": 0,
+   "lost": 5,
+   "gf": 5,
+   "ga": 10,
+   "points": 3,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "The New Saints",
+   "gd": -5,
+   "pos": 32
+  },
+  {
+   "played": 6,
+   "won": 1,
+   "drawn": 0,
+   "lost": 5,
+   "gf": 4,
+   "ga": 13,
+   "points": 3,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Dinamo Minsk",
+   "gd": -9,
+   "pos": 33
+  },
+  {
+   "played": 6,
+   "won": 1,
+   "drawn": 0,
+   "lost": 5,
+   "gf": 3,
+   "ga": 12,
+   "points": 3,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "Larne",
+   "gd": -9,
+   "pos": 34
+  },
+  {
+   "played": 6,
+   "won": 0,
+   "drawn": 3,
+   "lost": 3,
+   "gf": 4,
+   "ga": 14,
+   "points": 3,
+   "form": [
+    "L",
+    "D",
+    "L",
+    "L",
+    "D"
+   ],
+   "team": "LASK",
+   "gd": -10,
+   "pos": 35
+  },
+  {
+   "played": 6,
+   "won": 0,
+   "drawn": 2,
+   "lost": 4,
+   "gf": 4,
+   "ga": 13,
+   "points": 2,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "L",
+    "D"
+   ],
+   "team": "CS Petrocub",
+   "gd": -9,
+   "pos": 36
+  }
+ ]
+}

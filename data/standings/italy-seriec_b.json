@@ -1,0 +1,384 @@
+{
+ "2024/2025": [
+  {
+   "played": 33,
+   "won": 21,
+   "drawn": 11,
+   "lost": 1,
+   "gf": 54,
+   "ga": 20,
+   "points": 74,
+   "form": [
+    "W",
+    "W",
+    "D",
+    "W",
+    "W"
+   ],
+   "team": "Virtus Entella",
+   "gd": 34,
+   "pos": 1
+  },
+  {
+   "played": 33,
+   "won": 21,
+   "drawn": 9,
+   "lost": 3,
+   "gf": 61,
+   "ga": 17,
+   "points": 72,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "W",
+    "D"
+   ],
+   "team": "Ternana",
+   "gd": 44,
+   "pos": 2
+  },
+  {
+   "played": 33,
+   "won": 17,
+   "drawn": 9,
+   "lost": 7,
+   "gf": 46,
+   "ga": 29,
+   "points": 60,
+   "form": [
+    "L",
+    "D",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "SEF Torres 1903",
+   "gd": 17,
+   "pos": 3
+  },
+  {
+   "played": 33,
+   "won": 16,
+   "drawn": 10,
+   "lost": 7,
+   "gf": 47,
+   "ga": 32,
+   "points": 58,
+   "form": [
+    "D",
+    "W",
+    "W",
+    "D",
+    "L"
+   ],
+   "team": "Delfino Pescara",
+   "gd": 15,
+   "pos": 4
+  },
+  {
+   "played": 33,
+   "won": 15,
+   "drawn": 10,
+   "lost": 8,
+   "gf": 41,
+   "ga": 29,
+   "points": 55,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "D",
+    "W"
+   ],
+   "team": "Vis Pesaro",
+   "gd": 12,
+   "pos": 5
+  },
+  {
+   "played": 33,
+   "won": 15,
+   "drawn": 7,
+   "lost": 11,
+   "gf": 37,
+   "ga": 32,
+   "points": 52,
+   "form": [
+    "W",
+    "W",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "US Arezzo",
+   "gd": 5,
+   "pos": 6
+  },
+  {
+   "played": 33,
+   "won": 14,
+   "drawn": 10,
+   "lost": 9,
+   "gf": 42,
+   "ga": 39,
+   "points": 52,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "D",
+    "W"
+   ],
+   "team": "ASD Pineto",
+   "gd": 3,
+   "pos": 7
+  },
+  {
+   "played": 33,
+   "won": 13,
+   "drawn": 8,
+   "lost": 12,
+   "gf": 40,
+   "ga": 40,
+   "points": 47,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "US Pianese",
+   "gd": 0,
+   "pos": 8
+  },
+  {
+   "played": 33,
+   "won": 11,
+   "drawn": 12,
+   "lost": 10,
+   "gf": 37,
+   "ga": 27,
+   "points": 45,
+   "form": [
+    "W",
+    "L",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "AC Rimini",
+   "gd": 10,
+   "pos": 9
+  },
+  {
+   "played": 33,
+   "won": 11,
+   "drawn": 8,
+   "lost": 14,
+   "gf": 27,
+   "ga": 35,
+   "points": 41,
+   "form": [
+    "L",
+    "W",
+    "D",
+    "W",
+    "L"
+   ],
+   "team": "AS Gubbio",
+   "gd": -8,
+   "pos": 10
+  },
+  {
+   "played": 33,
+   "won": 9,
+   "drawn": 13,
+   "lost": 11,
+   "gf": 34,
+   "ga": 35,
+   "points": 40,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "W",
+    "D"
+   ],
+   "team": "AC Perugia",
+   "gd": -1,
+   "pos": 11
+  },
+  {
+   "played": 33,
+   "won": 10,
+   "drawn": 10,
+   "lost": 13,
+   "gf": 38,
+   "ga": 40,
+   "points": 40,
+   "form": [
+    "D",
+    "W",
+    "W",
+    "D",
+    "L"
+   ],
+   "team": "AC Carpi",
+   "gd": -2,
+   "pos": 12
+  },
+  {
+   "played": 33,
+   "won": 10,
+   "drawn": 9,
+   "lost": 14,
+   "gf": 31,
+   "ga": 36,
+   "points": 39,
+   "form": [
+    "L",
+    "L",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "Campobasso",
+   "gd": -5,
+   "pos": 13
+  },
+  {
+   "played": 33,
+   "won": 10,
+   "drawn": 8,
+   "lost": 15,
+   "gf": 43,
+   "ga": 49,
+   "points": 38,
+   "form": [
+    "W",
+    "L",
+    "L",
+    "D",
+    "D"
+   ],
+   "team": "US Pontedera",
+   "gd": -6,
+   "pos": 14
+  },
+  {
+   "played": 33,
+   "won": 9,
+   "drawn": 10,
+   "lost": 14,
+   "gf": 35,
+   "ga": 42,
+   "points": 37,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "W",
+    "D"
+   ],
+   "team": "Ascoli",
+   "gd": -7,
+   "pos": 15
+  },
+  {
+   "played": 33,
+   "won": 7,
+   "drawn": 15,
+   "lost": 11,
+   "gf": 37,
+   "ga": 53,
+   "points": 36,
+   "form": [
+    "D",
+    "L",
+    "D",
+    "W",
+    "D"
+   ],
+   "team": "Lucchese",
+   "gd": -16,
+   "pos": 16
+  },
+  {
+   "played": 33,
+   "won": 8,
+   "drawn": 7,
+   "lost": 18,
+   "gf": 35,
+   "ga": 58,
+   "points": 31,
+   "form": [
+    "D",
+    "L",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "SPAL 2013 Ferrara",
+   "gd": -23,
+   "pos": 17
+  },
+  {
+   "played": 33,
+   "won": 5,
+   "drawn": 11,
+   "lost": 17,
+   "gf": 27,
+   "ga": 46,
+   "points": 26,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "USD Sestri Levante",
+   "gd": -19,
+   "pos": 18
+  },
+  {
+   "played": 33,
+   "won": 4,
+   "drawn": 12,
+   "lost": 17,
+   "gf": 27,
+   "ga": 50,
+   "points": 24,
+   "form": [
+    "L",
+    "D",
+    "L",
+    "D",
+    "L"
+   ],
+   "team": "AC Milan II",
+   "gd": -23,
+   "pos": 19
+  },
+  {
+   "played": 33,
+   "won": 5,
+   "drawn": 9,
+   "lost": 19,
+   "gf": 26,
+   "ga": 56,
+   "points": 24,
+   "form": [
+    "W",
+    "D",
+    "L",
+    "L",
+    "D"
+   ],
+   "team": "FC Legnago Salus",
+   "gd": -30,
+   "pos": 20
+  }
+ ]
+}

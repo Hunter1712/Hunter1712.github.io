@@ -1,0 +1,384 @@
+{
+ "2024/2025": [
+  {
+   "played": 33,
+   "won": 23,
+   "drawn": 6,
+   "lost": 4,
+   "gf": 59,
+   "ga": 21,
+   "points": 75,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Calcio Padova",
+   "gd": 38,
+   "pos": 1
+  },
+  {
+   "played": 33,
+   "won": 22,
+   "drawn": 8,
+   "lost": 3,
+   "gf": 53,
+   "ga": 18,
+   "points": 74,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "D",
+    "W"
+   ],
+   "team": "L.R. Vicenza",
+   "gd": 35,
+   "pos": 2
+  },
+  {
+   "played": 33,
+   "won": 18,
+   "drawn": 8,
+   "lost": 7,
+   "gf": 45,
+   "ga": 27,
+   "points": 62,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "Feralpisalò",
+   "gd": 18,
+   "pos": 3
+  },
+  {
+   "played": 33,
+   "won": 14,
+   "drawn": 11,
+   "lost": 8,
+   "gf": 39,
+   "ga": 29,
+   "points": 53,
+   "form": [
+    "D",
+    "L",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "UC AlbinoLeffe",
+   "gd": 10,
+   "pos": 4
+  },
+  {
+   "played": 33,
+   "won": 12,
+   "drawn": 14,
+   "lost": 7,
+   "gf": 39,
+   "ga": 35,
+   "points": 50,
+   "form": [
+    "D",
+    "D",
+    "W",
+    "W",
+    "L"
+   ],
+   "team": "Trento Calcio 1921",
+   "gd": 4,
+   "pos": 5
+  },
+  {
+   "played": 33,
+   "won": 15,
+   "drawn": 5,
+   "lost": 13,
+   "gf": 29,
+   "ga": 32,
+   "points": 50,
+   "form": [
+    "W",
+    "D",
+    "W",
+    "W",
+    "W"
+   ],
+   "team": "AC Renate",
+   "gd": -3,
+   "pos": 6
+  },
+  {
+   "played": 33,
+   "won": 14,
+   "drawn": 7,
+   "lost": 12,
+   "gf": 38,
+   "ga": 35,
+   "points": 49,
+   "form": [
+    "D",
+    "W",
+    "W",
+    "L",
+    "W"
+   ],
+   "team": "Giana Erminio",
+   "gd": 3,
+   "pos": 7
+  },
+  {
+   "played": 33,
+   "won": 13,
+   "drawn": 9,
+   "lost": 11,
+   "gf": 46,
+   "ga": 38,
+   "points": 48,
+   "form": [
+    "D",
+    "W",
+    "L",
+    "D",
+    "D"
+   ],
+   "team": "Virtus Verona",
+   "gd": 8,
+   "pos": 8
+  },
+  {
+   "played": 33,
+   "won": 12,
+   "drawn": 11,
+   "lost": 10,
+   "gf": 35,
+   "ga": 29,
+   "points": 47,
+   "form": [
+    "D",
+    "L",
+    "L",
+    "L",
+    "W"
+   ],
+   "team": "Novara",
+   "gd": 6,
+   "pos": 9
+  },
+  {
+   "played": 32,
+   "won": 13,
+   "drawn": 7,
+   "lost": 12,
+   "gf": 56,
+   "ga": 46,
+   "points": 46,
+   "form": [
+    "D",
+    "L",
+    "D",
+    "D",
+    "W"
+   ],
+   "team": "Atalanta II",
+   "gd": 10,
+   "pos": 10
+  },
+  {
+   "played": 33,
+   "won": 12,
+   "drawn": 8,
+   "lost": 13,
+   "gf": 38,
+   "ga": 41,
+   "points": 44,
+   "form": [
+    "L",
+    "W",
+    "L",
+    "W",
+    "W"
+   ],
+   "team": "Arzignano Valchiampo",
+   "gd": -3,
+   "pos": 11
+  },
+  {
+   "played": 33,
+   "won": 12,
+   "drawn": 6,
+   "lost": 15,
+   "gf": 29,
+   "ga": 30,
+   "points": 42,
+   "form": [
+    "W",
+    "D",
+    "D",
+    "L",
+    "L"
+   ],
+   "team": "ASC Alcione",
+   "gd": -1,
+   "pos": 12
+  },
+  {
+   "played": 33,
+   "won": 10,
+   "drawn": 9,
+   "lost": 14,
+   "gf": 31,
+   "ga": 41,
+   "points": 39,
+   "form": [
+    "D",
+    "D",
+    "W",
+    "L",
+    "L"
+   ],
+   "team": "US Pergolettese",
+   "gd": -10,
+   "pos": 13
+  },
+  {
+   "played": 33,
+   "won": 10,
+   "drawn": 8,
+   "lost": 15,
+   "gf": 32,
+   "ga": 41,
+   "points": 38,
+   "form": [
+    "D",
+    "D",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "US Triestina",
+   "gd": -9,
+   "pos": 14
+  },
+  {
+   "played": 33,
+   "won": 9,
+   "drawn": 11,
+   "lost": 13,
+   "gf": 34,
+   "ga": 46,
+   "points": 38,
+   "form": [
+    "D",
+    "D",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "FC Lumezzane",
+   "gd": -12,
+   "pos": 15
+  },
+  {
+   "played": 33,
+   "won": 8,
+   "drawn": 13,
+   "lost": 12,
+   "gf": 32,
+   "ga": 42,
+   "points": 37,
+   "form": [
+    "D",
+    "D",
+    "D",
+    "D",
+    "D"
+   ],
+   "team": "Calcio Lecco 1912",
+   "gd": -10,
+   "pos": 16
+  },
+  {
+   "played": 33,
+   "won": 9,
+   "drawn": 9,
+   "lost": 15,
+   "gf": 26,
+   "ga": 41,
+   "points": 36,
+   "form": [
+    "D",
+    "L",
+    "D",
+    "D",
+    "W"
+   ],
+   "team": "Pro Vercelli",
+   "gd": -15,
+   "pos": 17
+  },
+  {
+   "played": 32,
+   "won": 4,
+   "drawn": 14,
+   "lost": 14,
+   "gf": 23,
+   "ga": 37,
+   "points": 26,
+   "form": [
+    "L",
+    "D",
+    "D",
+    "W",
+    "L"
+   ],
+   "team": "Aurora Pro Patria",
+   "gd": -14,
+   "pos": 18
+  },
+  {
+   "played": 33,
+   "won": 6,
+   "drawn": 7,
+   "lost": 20,
+   "gf": 33,
+   "ga": 59,
+   "points": 25,
+   "form": [
+    "D",
+    "D",
+    "L",
+    "W",
+    "L"
+   ],
+   "team": "Caldiero Terme",
+   "gd": -26,
+   "pos": 19
+  },
+  {
+   "played": 33,
+   "won": 3,
+   "drawn": 9,
+   "lost": 21,
+   "gf": 29,
+   "ga": 58,
+   "points": 18,
+   "form": [
+    "L",
+    "L",
+    "L",
+    "L",
+    "L"
+   ],
+   "team": "Clodiense SSD",
+   "gd": -29,
+   "pos": 20
+  }
+ ]
+}
